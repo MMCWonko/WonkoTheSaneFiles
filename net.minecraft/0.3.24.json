@@ -1,0 +1,8 @@
+{
+  "uid": "net.minecraft",
+  "versionId": "0.3.24",
+  "time": "2011-07-08T00:00:00+02:00",
+  "type": "old_beta",
+  "version": "b1.7.3",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}"
+}

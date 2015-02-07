@@ -1,0 +1,10 @@
+{
+  "uid": "net.minecraft",
+  "versionId": "0.1.3",
+  "time": "2009-05-22T00:00:00+02:00",
+  "type": "old_alpha",
+  "version": "c0.0.13a_03",
+  "mainClass": "com.mojang.minecraft.c",
+  "appletClass": "com.mojang.minecraft.MinecraftApplet",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}"
+}

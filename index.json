@@ -1,0 +1,19 @@
+{
+  "index": [
+    {
+      "uid": "net.minecraft"
+    },
+    {
+      "uid": "org.lwjgl"
+    },
+    {
+      "uid": "com.mumfrey.liteloader"
+    },
+    {
+      "uid": "net.minecraftforge"
+    },
+    {
+      "uid": "net.minecraftforge.fml"
+    }
+  ]
+}

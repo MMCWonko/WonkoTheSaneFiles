@@ -1,0 +1,8 @@
+{
+  "uid": "net.minecraft",
+  "versionId": "1.4",
+  "time": "2012-10-19T00:00:00+02:00",
+  "type": "snapshot",
+  "version": "1.4",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}"
+}

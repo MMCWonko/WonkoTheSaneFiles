@@ -1,0 +1,10 @@
+{
+  "uid": "net.minecraft",
+  "versionId": "inf-20100618",
+  "time": "2010-06-16T00:00:00+02:00",
+  "type": "old_alpha",
+  "version": "inf-20100618",
+  "mainClass": "net.minecraft.client.d",
+  "appletClass": "net.minecraft.client.MinecraftApplet",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}"
+}
