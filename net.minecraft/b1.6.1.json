@@ -1,0 +1,12 @@
+{
+  "uid": "net.minecraft",
+  "versionId": "0.3.16",
+  "time": "2011-05-26T00:00:01+02:00",
+  "type": "old_beta",
+  "version": "b1.6.1",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+traits": [
+    "legacyLaunch",
+    "texturepacks"
+  ]
+}

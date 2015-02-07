@@ -1,0 +1,12 @@
+{
+  "uid": "net.minecraft",
+  "versionId": "0.0.3",
+  "time": "2009-05-16T00:52:00+02:00",
+  "type": "old_alpha",
+  "version": "rd-160052",
+  "mainClass": "com.mojang.rubydung.RubyDung",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+traits": [
+    "no-texturepacks"
+  ]
+}

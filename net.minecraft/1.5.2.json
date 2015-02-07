@@ -4,5 +4,9 @@
   "time": "2013-04-25T17:45:00+02:00",
   "type": "release",
   "version": "1.5.2",
-  "minecraftArguments": " ${auth_player_name} ${auth_session}"
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+traits": [
+    "legacyLaunch",
+    "texturepacks"
+  ]
 }

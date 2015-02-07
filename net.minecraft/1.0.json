@@ -4,5 +4,9 @@
   "time": "2011-11-18T00:00:00+02:00",
   "type": "release",
   "version": "1.0",
-  "minecraftArguments": " ${auth_player_name} ${auth_session}"
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+traits": [
+    "legacyLaunch",
+    "texturepacks"
+  ]
 }

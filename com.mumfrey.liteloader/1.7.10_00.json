@@ -1,0 +1,30 @@
+{
+  "uid": "com.mumfrey.liteloader",
+  "versionId": "1.7.10.00",
+  "time": "2014-07-02T21:40:30+02:00",
+  "+tweakers": [
+    "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+  ],
+  "requires": [
+    "net.minecraft:1.7.10"
+  ],
+  "+libraries": [
+    {
+      "name": "org.ow2.asm:asm-all:5.0.3",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "insert": "prepend"
+    },
+    {
+      "name": "net.minecraft:launchwrapper:1.9",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.mumfrey:liteloader:1.7.10_00",
+      "absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10_00.jar",
+      "insert": "prepend"
+    }
+  ],
+  "version": "1.7.10_00",
+  "mainClass": "net.minecraft.launchwrapper.Launch"
+}

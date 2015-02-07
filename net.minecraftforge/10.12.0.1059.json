@@ -3,36 +3,127 @@
   "versionId": "10.12.0.1059",
   "time": "2014-04-15T15:05:02-0400",
   "type": "release",
-  "tweakers": [
+  "+tweakers": [
     "cpw.mods.fml.common.launcher.FMLTweaker"
   ],
   "requires": [
     "net.minecraft:1.7.2"
   ],
-  "libraries": [
+  "+libraries": [
     {
-      "name": "net.minecraftforge:forge:1.7.2-10.12.0.1059",
-      "url": "http://files.minecraftforge.net/maven/"
+      "name": "org.apache.logging.log4j:log4j-core:2.0-beta9",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
     },
     {
-      "name": "net.minecraft:launchwrapper:1.9",
-      "url": "https://libraries.minecraft.net/"
+      "name": "org.apache.logging.log4j:log4j-api:2.0-beta9",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
     },
     {
-      "name": "org.ow2.asm:asm-all:4.1",
-      "url": "https://libraries.minecraft.net/"
+      "name": "com.mojang:authlib:1.3",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
     },
     {
-      "name": "org.scala-lang:scala-library:2.10.2",
-      "url": "https://repo1.maven.org/maven2/"
+      "name": "com.google.code.gson:gson:2.2.4",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
     },
     {
-      "name": "org.scala-lang:scala-compiler:2.10.2",
-      "url": "https://repo1.maven.org/maven2/"
+      "name": "commons-io:commons-io:2.4",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.1",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.google.guava:guava:15.0",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "io.netty:netty-all:4.0.10.Final",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:soundsystem:20120107",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:librarylwjglopenal:20100824",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:libraryjavasound:20101123",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:codecwav:20101023",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:codecjorbis:20101023",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
     },
     {
       "name": "lzma:lzma:0.0.1",
-      "url": "https://libraries.minecraft.net/"
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:4.5",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.ibm.icu:icu4j-core-mojang:51.2",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "net.sf.trove4j:trove4j:3.0.3",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "java3d:vecmath:1.3.1",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "org.scala-lang:scala-compiler:2.10.2",
+      "url": "https://repo1.maven.org/maven2/",
+      "insert": "prepend"
+    },
+    {
+      "name": "org.scala-lang:scala-library:2.10.2",
+      "url": "https://repo1.maven.org/maven2/",
+      "insert": "prepend"
+    },
+    {
+      "name": "org.ow2.asm:asm-all:4.1",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "net.minecraft:launchwrapper:1.9",
+      "url": "https://libraries.minecraft.net/",
+      "insert": "prepend"
+    },
+    {
+      "name": "net.minecraftforge:forge:1.7.2-10.12.0.1059",
+      "url": "http://files.minecraftforge.net/maven/",
+      "insert": "prepend"
     }
   ],
   "version": "10.12.0.1059",

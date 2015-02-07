@@ -4,5 +4,9 @@
   "time": "2013-03-07T00:00:00+02:00",
   "type": "snapshot",
   "version": "1.5",
-  "minecraftArguments": " ${auth_player_name} ${auth_session}"
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+traits": [
+    "legacyLaunch",
+    "texturepacks"
+  ]
 }
