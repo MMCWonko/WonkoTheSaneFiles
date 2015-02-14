@@ -3,10 +3,13 @@
   "version": "a1.0.5_01",
   "time": 1278972000,
   "type": "old_alpha",
-  "mainClass": "y",
-  "minecraftArguments": " ${auth_player_name} ${auth_session}",
-  "+traits": [
-    "legacyLaunch",
-    "no-texturepacks"
-  ]
+  "data": {
+    "general.traits": [
+      "legacyLaunch",
+      "no-texturepacks"
+    ],
+    "general.launcher": "minecraft",
+    "java.mainClass": "y",
+    "mc.arguments": " ${auth_player_name} ${auth_session}"
+  }
 }

@@ -3,9 +3,12 @@
   "version": "1.1",
   "time": 1326319200,
   "type": "release",
-  "minecraftArguments": " ${auth_player_name} ${auth_session}",
-  "+traits": [
-    "legacyLaunch",
-    "texturepacks"
-  ]
+  "data": {
+    "general.traits": [
+      "legacyLaunch",
+      "texturepacks"
+    ],
+    "general.launcher": "minecraft",
+    "mc.arguments": " ${auth_player_name} ${auth_session}"
+  }
 }

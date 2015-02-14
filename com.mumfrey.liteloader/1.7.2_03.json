@@ -2,28 +2,31 @@
   "uid": "com.mumfrey.liteloader",
   "version": "1.7.2_03",
   "time": 1391890695,
-  "+tweakers": [
-    "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
-  ],
   "requires": [
-    "net.minecraft:1.7.2"
-  ],
-  "+libraries": [
     {
-      "name": "org.ow2.asm:asm-all:4.1",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "net.minecraft:launchwrapper:1.9",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.mumfrey:liteloader:1.7.2_03",
-      "absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.2/liteloader-1.7.2_03.jar",
-      "insert": "prepend"
+      "uid": "net.minecraft",
+      "version": "1.7.2"
     }
   ],
-  "mainClass": "net.minecraft.launchwrapper.Launch"
+  "data": {
+    "general.launcher": "minecraft",
+    "java.mainClass": "net.minecraft.launchwrapper.Launch",
+    "java.libraries": [
+      {
+        "name": "org.ow2.asm:asm-all:4.1",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "net.minecraft:launchwrapper:1.9",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.mumfrey:liteloader:1.7.2_03",
+        "absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.2/liteloader-1.7.2_03.jar"
+      }
+    ],
+    "mc.tweakers": [
+      "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+    ]
+  }
 }

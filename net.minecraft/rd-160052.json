@@ -3,9 +3,12 @@
   "version": "rd-160052",
   "time": 1242427920,
   "type": "old_alpha",
-  "mainClass": "com.mojang.rubydung.RubyDung",
-  "minecraftArguments": " ${auth_player_name} ${auth_session}",
-  "+traits": [
-    "no-texturepacks"
-  ]
+  "data": {
+    "general.traits": [
+      "no-texturepacks"
+    ],
+    "general.launcher": "minecraft",
+    "java.mainClass": "com.mojang.rubydung.RubyDung",
+    "mc.arguments": " ${auth_player_name} ${auth_session}"
+  }
 }

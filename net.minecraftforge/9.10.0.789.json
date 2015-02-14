@@ -3,103 +3,43 @@
   "version": "9.10.0.789",
   "time": 1373404384,
   "type": "release",
-  "+tweakers": [
-    "cpw.mods.fml.common.launcher.FMLTweaker"
-  ],
   "requires": [
-    "net.minecraft:1.6.2"
-  ],
-  "+libraries": [
     {
-      "name": "com.google.code.gson:gson:2.2.2",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "commons-io:commons-io:2.4",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.apache.commons:commons-lang3:3.1",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.google.guava:guava:14.0",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.bouncycastle:bcprov-jdk15on:1.47",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "argo:argo:2.25_fixed",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:soundsystem:20120107",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:librarylwjglopenal:20100824",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:libraryjavasound:20101123",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:codecwav:20101023",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:codecjorbis:20101023",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "lzma:lzma:0.0.1",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "net.sf.jopt-simple:jopt-simple:4.5",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.ow2.asm:asm-all:4.1",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.scala-lang:scala-compiler:2.10.2",
-      "url": "https://repo1.maven.org/maven2/",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.scala-lang:scala-library:2.10.2",
-      "url": "https://repo1.maven.org/maven2/",
-      "insert": "prepend"
-    },
-    {
-      "name": "net.minecraft:launchwrapper:1.3",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "net.minecraftforge:minecraftforge:9.10.0.789",
-      "url": "http://files.minecraftforge.net/maven/",
-      "insert": "prepend"
+      "uid": "net.minecraft",
+      "version": "1.6.2"
     }
   ],
-  "mainClass": "net.minecraft.launchwrapper.Launch"
+  "data": {
+    "general.launcher": "minecraft",
+    "java.mainClass": "net.minecraft.launchwrapper.Launch",
+    "java.libraries": [
+      {
+        "name": "lzma:lzma:0.0.1",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.ow2.asm:asm-all:4.1",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.scala-lang:scala-compiler:2.10.2",
+        "url": "https://repo1.maven.org/maven2/"
+      },
+      {
+        "name": "org.scala-lang:scala-library:2.10.2",
+        "url": "https://repo1.maven.org/maven2/"
+      },
+      {
+        "name": "net.minecraft:launchwrapper:1.3",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "net.minecraftforge:minecraftforge:9.10.0.789",
+        "url": "http://files.minecraftforge.net/maven/"
+      }
+    ],
+    "mc.tweakers": [
+      "cpw.mods.fml.common.launcher.FMLTweaker"
+    ]
+  }
 }

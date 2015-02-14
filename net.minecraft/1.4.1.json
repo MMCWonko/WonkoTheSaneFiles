@@ -3,9 +3,12 @@
   "version": "1.4.1",
   "time": 1350943200,
   "type": "snapshot",
-  "minecraftArguments": " ${auth_player_name} ${auth_session}",
-  "+traits": [
-    "legacyLaunch",
-    "texturepacks"
-  ]
+  "data": {
+    "general.traits": [
+      "legacyLaunch",
+      "texturepacks"
+    ],
+    "general.launcher": "minecraft",
+    "mc.arguments": " ${auth_player_name} ${auth_session}"
+  }
 }

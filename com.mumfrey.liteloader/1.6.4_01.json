@@ -2,23 +2,27 @@
   "uid": "com.mumfrey.liteloader",
   "version": "1.6.4_01",
   "time": 1380796916,
-  "+tweakers": [
-    "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
-  ],
   "requires": [
-    "net.minecraft:1.6.4"
-  ],
-  "+libraries": [
     {
-      "name": "net.minecraft:launchwrapper:1.8",
-      "url": "https://libraries.minecraft.net/",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.mumfrey:liteloader:1.6.4_01",
-      "absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.6.4/liteloader-1.6.4_01.jar",
-      "insert": "prepend"
+      "uid": "net.minecraft",
+      "version": "1.6.4"
     }
   ],
-  "mainClass": "net.minecraft.launchwrapper.Launch"
+  "data": {
+    "general.launcher": "minecraft",
+    "java.mainClass": "net.minecraft.launchwrapper.Launch",
+    "java.libraries": [
+      {
+        "name": "net.minecraft:launchwrapper:1.8",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.mumfrey:liteloader:1.6.4_01",
+        "absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.6.4/liteloader-1.6.4_01.jar"
+      }
+    ],
+    "mc.tweakers": [
+      "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+    ]
+  }
 }

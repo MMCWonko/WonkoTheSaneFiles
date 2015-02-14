@@ -3,11 +3,14 @@
   "version": "c0.0.11a",
   "time": 1242511200,
   "type": "old_alpha",
-  "mainClass": "com.mojang.minecraft.Minecraft",
-  "appletClass": "com.mojang.minecraft.MinecraftApplet",
-  "minecraftArguments": " ${auth_player_name} ${auth_session}",
-  "+traits": [
-    "legacyLaunch",
-    "no-texturepacks"
-  ]
+  "data": {
+    "general.traits": [
+      "legacyLaunch",
+      "no-texturepacks"
+    ],
+    "general.launcher": "minecraft",
+    "java.mainClass": "com.mojang.minecraft.Minecraft",
+    "mc.appletClass": "com.mojang.minecraft.MinecraftApplet",
+    "mc.arguments": " ${auth_player_name} ${auth_session}"
+  }
 }
