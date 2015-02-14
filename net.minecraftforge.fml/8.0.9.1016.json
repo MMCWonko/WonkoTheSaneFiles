@@ -1,7 +1,7 @@
 {
   "uid": "net.minecraftforge.fml",
-  "versionId": "8.0.9.1016",
-  "time": "2014-11-08T18:15:04-0500",
+  "version": "8.0.9.1016",
+  "time": 1415488504,
   "type": "release",
   "+tweakers": [
     "net.minecraftforge.fml.common.launcher.FMLTweaker"
@@ -92,7 +92,6 @@
       "insert": "prepend"
     }
   ],
-  "version": "8.0.9.1016",
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "assets": "1.8",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}"

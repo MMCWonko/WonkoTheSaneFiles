@@ -1,7 +1,7 @@
 {
   "uid": "net.minecraft",
-  "versionId": "1.8-alpha35",
-  "time": "2014-07-10T14:28:48+00:00",
+  "version": "14w28b",
+  "time": 1405002528,
   "type": "snapshot",
   "requires": [
     "org.lwjgl"
@@ -149,7 +149,6 @@
       "insert": "prepend"
     }
   ],
-  "version": "14w28b",
   "mainClass": "net.minecraft.client.main.Main",
   "assets": "14w25a",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}"

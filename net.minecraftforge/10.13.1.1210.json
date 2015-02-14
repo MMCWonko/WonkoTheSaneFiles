@@ -1,7 +1,7 @@
 {
   "uid": "net.minecraftforge",
-  "versionId": "10.13.1.1210",
-  "time": "2014-08-30T00:29:39-0400",
+  "version": "10.13.1.1210",
+  "time": 1409372979,
   "type": "release",
   "+tweakers": [
     "cpw.mods.fml.common.launcher.FMLTweaker"
@@ -227,6 +227,5 @@
       "insert": "prepend"
     }
   ],
-  "version": "10.13.1.1210",
   "mainClass": "net.minecraft.launchwrapper.Launch"
 }

@@ -1,9 +1,8 @@
 {
   "uid": "net.minecraft",
-  "versionId": "0.0.4",
-  "time": "2009-05-16T13:48:00+02:00",
-  "type": "old_alpha",
   "version": "rd-161348",
+  "time": 1242474480,
+  "type": "old_alpha",
   "mainClass": "com.mojang.minecraft.RubyDung",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+traits": [

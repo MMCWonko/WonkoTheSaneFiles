@@ -1,6 +1,7 @@
 {
   "uid": "org.lwjgl",
-  "versionId": "2.9.1",
+  "version": "2.9.1",
+  "time": 1385942400,
   "+libraries": [
     {
       "name": "net.java.jinput:jinput-platform:2.0.5",
@@ -46,6 +47,5 @@
       "url": "https://libraries.minecraft.net/",
       "insert": "prepend"
     }
-  ],
-  "version": "2.9.1"
+  ]
 }

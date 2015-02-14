@@ -1,7 +1,7 @@
 {
   "uid": "com.mumfrey.liteloader",
-  "versionId": "1.7.2.03",
-  "time": "2014-02-08T21:18:15+01:00",
+  "version": "1.7.2_03",
+  "time": 1391890695,
   "+tweakers": [
     "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
   ],
@@ -25,6 +25,5 @@
       "insert": "prepend"
     }
   ],
-  "version": "1.7.2_03",
   "mainClass": "net.minecraft.launchwrapper.Launch"
 }

@@ -1,7 +1,7 @@
 {
   "uid": "net.minecraftforge.fml",
-  "versionId": "7.9.27.932",
-  "time": "2014-06-24T21:36:50-0400",
+  "version": "7.9.27.932",
+  "time": 1403660210,
   "type": "release",
   "+tweakers": [
     "cpw.mods.fml.common.launcher.FMLTweaker"
@@ -183,7 +183,6 @@
       "insert": "prepend"
     }
   ],
-  "version": "7.9.27.932",
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "assets": "1.7.10",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}"

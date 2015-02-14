@@ -1,9 +1,8 @@
 {
   "uid": "net.minecraft",
-  "versionId": "1.4.3",
-  "time": "2012-11-01T00:00:00+02:00",
-  "type": "snapshot",
   "version": "1.4.3",
+  "time": 1351720800,
+  "type": "snapshot",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+traits": [
     "legacyLaunch",

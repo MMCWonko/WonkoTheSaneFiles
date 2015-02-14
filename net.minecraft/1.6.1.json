@@ -1,7 +1,7 @@
 {
   "uid": "net.minecraft",
-  "versionId": "1.6.1",
-  "time": "2013-06-28T16:48:41+02:00",
+  "version": "1.6.1",
+  "time": 1372430921,
   "type": "release",
   "requires": [
     "org.lwjgl"
@@ -68,7 +68,6 @@
       "insert": "prepend"
     }
   ],
-  "version": "1.6.1",
   "mainClass": "net.minecraft.client.main.Main",
   "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}"
 }

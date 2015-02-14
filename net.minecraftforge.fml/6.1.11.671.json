@@ -1,7 +1,7 @@
 {
   "uid": "net.minecraftforge.fml",
-  "versionId": "6.1.11.671",
-  "time": "2013-07-01T20:45:23-0600",
+  "version": "6.1.11.671",
+  "time": 1372733123,
   "type": "release",
   "+tweakers": [
     "cpw.mods.fml.common.launcher.FMLTweaker"
@@ -92,7 +92,6 @@
       "insert": "prepend"
     }
   ],
-  "version": "6.1.11.671",
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}"
 }
