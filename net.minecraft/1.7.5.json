@@ -1,4 +1,5 @@
 {
+  "formatVersion": 0,
   "uid": "net.minecraft",
   "version": "1.7.5",
   "time": 1393406537,
@@ -20,20 +21,36 @@
         "name": "tv.twitch:twitch-external-platform:4.5",
         "url": "https://libraries.minecraft.net/",
         "natives": {
-          "win32": "natives-windows-32",
-          "win64": "natives-windows-64"
-        }
+          "windows": "natives-windows-${arch}"
+        },
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "windows"
+            }
+          }
+        ]
       },
       {
         "name": "tv.twitch:twitch-platform:5.16",
         "url": "https://libraries.minecraft.net/",
         "natives": {
-          "win32": "natives-windows-32",
-          "win64": "natives-windows-64",
-          "lin32": "natives-linux",
-          "lin64": "natives-linux",
-          "osx64": "natives-osx"
-        }
+          "linux": "natives-linux",
+          "windows": "natives-windows-${arch}",
+          "osx": "natives-osx"
+        },
+        "rules": [
+          {
+            "action": "allow"
+          },
+          {
+            "action": "disallow",
+            "os": {
+              "name": "linux"
+            }
+          }
+        ]
       },
       {
         "name": "tv.twitch:twitch:5.16",

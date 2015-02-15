@@ -1,4 +1,5 @@
 {
+  "formatVersion": 0,
   "uid": "org.lwjgl",
   "version": "2.9.1-nightly-20131017",
   "time": 1381968000,
@@ -9,45 +10,98 @@
         "name": "net.java.jinput:jinput-platform:2.0.5",
         "url": "https://libraries.minecraft.net/",
         "natives": {
-          "win32": "natives-windows",
-          "win64": "natives-windows",
-          "lin32": "natives-linux",
-          "lin64": "natives-linux",
-          "osx64": "natives-osx"
+          "linux": "natives-linux",
+          "windows": "natives-windows",
+          "osx": "natives-osx"
         }
       },
       {
         "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20131017",
         "url": "https://libraries.minecraft.net/",
         "natives": {
-          "osx64": "natives-osx"
-        }
+          "osx": "natives-osx"
+        },
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "osx"
+            }
+          }
+        ]
       },
       {
         "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20131017",
-        "url": "https://libraries.minecraft.net/"
+        "url": "https://libraries.minecraft.net/",
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "osx"
+            }
+          }
+        ]
       },
       {
         "name": "org.lwjgl.lwjgl:lwjgl:2.9.1-nightly-20131017",
-        "url": "https://libraries.minecraft.net/"
+        "url": "https://libraries.minecraft.net/",
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "osx"
+            }
+          }
+        ]
       },
       {
         "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.0",
         "url": "https://libraries.minecraft.net/",
         "natives": {
-          "win32": "natives-windows",
-          "win64": "natives-windows",
-          "lin32": "natives-linux",
-          "lin64": "natives-linux"
-        }
+          "linux": "natives-linux",
+          "windows": "natives-windows"
+        },
+        "rules": [
+          {
+            "action": "allow"
+          },
+          {
+            "action": "disallow",
+            "os": {
+              "name": "osx"
+            }
+          }
+        ]
       },
       {
         "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.0",
-        "url": "https://libraries.minecraft.net/"
+        "url": "https://libraries.minecraft.net/",
+        "rules": [
+          {
+            "action": "allow"
+          },
+          {
+            "action": "disallow",
+            "os": {
+              "name": "osx"
+            }
+          }
+        ]
       },
       {
         "name": "org.lwjgl.lwjgl:lwjgl:2.9.0",
-        "url": "https://libraries.minecraft.net/"
+        "url": "https://libraries.minecraft.net/",
+        "rules": [
+          {
+            "action": "allow"
+          },
+          {
+            "action": "disallow",
+            "os": {
+              "name": "osx"
+            }
+          }
+        ]
       },
       {
         "name": "net.java.jutils:jutils:1.0.0",

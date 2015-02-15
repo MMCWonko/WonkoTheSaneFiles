@@ -1,4 +1,5 @@
 {
+  "formatVersion": 0,
   "uid": "net.minecraftforge.fml",
   "name": null,
   "versions": [
@@ -1476,76 +1477,6 @@
       "id": "8.0.3.1011",
       "type": "release",
       "time": 1413269823
-    },
-    {
-      "id": "8.0.5.1012",
-      "type": "release",
-      "time": 1413354653
-    },
-    {
-      "id": "8.0.7.1014",
-      "type": "release",
-      "time": 1414116879
-    },
-    {
-      "id": "8.0.9.1016",
-      "type": "release",
-      "time": 1415488504
-    },
-    {
-      "id": "8.0.10.1017",
-      "type": "release",
-      "time": 1417199967
-    },
-    {
-      "id": "8.0.12.1018",
-      "type": "release",
-      "time": 1417487393
-    },
-    {
-      "id": "8.0.13.1019",
-      "type": "release",
-      "time": 1418521648
-    },
-    {
-      "id": "8.0.14.1020",
-      "type": "release",
-      "time": 1418655633
-    },
-    {
-      "id": "8.0.16.1021",
-      "type": "release",
-      "time": 1419373067
-    },
-    {
-      "id": "8.0.18.1022",
-      "type": "release",
-      "time": 1421448174
-    },
-    {
-      "id": "8.0.20.1023",
-      "type": "release",
-      "time": 1421621351
-    },
-    {
-      "id": "7.10.88.1024",
-      "type": "release",
-      "time": 1422697224
-    },
-    {
-      "id": "8.0.25.1025",
-      "type": "release",
-      "time": 1422758634
-    },
-    {
-      "id": "8.0.26.1026",
-      "type": "release",
-      "time": 1422907968
-    },
-    {
-      "id": "8.0.27.1027",
-      "type": "release",
-      "time": 1423099622
     }
   ]
 }

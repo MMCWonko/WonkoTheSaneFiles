@@ -15,5 +15,6 @@
     {
       "uid": "net.minecraftforge.fml"
     }
-  ]
+  ],
+  "formatVersion": 0
 }
