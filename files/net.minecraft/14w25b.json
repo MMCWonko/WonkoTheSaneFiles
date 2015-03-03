@@ -1,0 +1,150 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraft",
+  "version": "14w25b",
+  "time": 1403180988,
+  "type": "snapshot",
+  "requires": [
+    {
+      "uid": "org.lwjgl"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.folders": {
+      "minecraft/screenshots": [
+        "general.screenshots"
+      ],
+      "minecraft/resourcepackks": [
+        "mc.resourcepacks"
+      ],
+      "minecraft/saves": [
+        "mc.saves.anvil"
+      ]
+    },
+    "java.mainClass": "net.minecraft.client.main.Main",
+    "java.serverLib": {
+      "name": "net.minecraft:minecraft_server:14w25b",
+      "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/14w25b/minecraft_server.14w25b.jar"
+    },
+    "java.libraries": [
+      {
+        "name": "net.minecraft:minecraft:14w25b",
+        "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/14w25b/14w25b.jar"
+      },
+      {
+        "name": "tv.twitch:twitch-external-platform:4.5",
+        "url": "https://libraries.minecraft.net/",
+        "natives": {
+          "windows": "natives-windows-${arch}"
+        },
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "windows"
+            }
+          }
+        ]
+      },
+      {
+        "name": "tv.twitch:twitch-platform:6.5",
+        "url": "https://libraries.minecraft.net/",
+        "natives": {
+          "linux": "natives-linux",
+          "windows": "natives-windows-${arch}",
+          "osx": "natives-osx"
+        },
+        "rules": [
+          {
+            "action": "allow"
+          },
+          {
+            "action": "disallow",
+            "os": {
+              "name": "linux"
+            }
+          }
+        ]
+      },
+      {
+        "name": "tv.twitch:twitch:6.5",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.apache.logging.log4j:log4j-core:2.0-beta9",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.apache.logging.log4j:log4j-api:2.0-beta9",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.mojang:authlib:1.5.13",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.google.code.gson:gson:2.2.4",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "commons-codec:commons-codec:1.9",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "commons-io:commons-io:2.4",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.apache.commons:commons-lang3:3.2.1",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.google.guava:guava:16.0",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "io.netty:netty-all:4.0.15.Final",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:soundsystem:20120107",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:librarylwjglopenal:20100824",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:libraryjavasound:20101123",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:codecwav:20101023",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:codecjorbis:20101023",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "net.sf.jopt-simple:jopt-simple:4.6",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.ibm.icu:icu4j-core-mojang:51.2",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "net.sf.trove4j:trove4j:3.0.3",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "java3d:vecmath:1.5.2",
+        "url": "https://libraries.minecraft.net/"
+      }
+    ],
+    "mc.assets": "14w25a",
+    "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}"
+  }
+}

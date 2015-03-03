@@ -1,0 +1,86 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraft",
+  "version": "1.6.4",
+  "time": 1379605957,
+  "type": "release",
+  "requires": [
+    {
+      "uid": "org.lwjgl"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.folders": {
+      "minecraft/screenshots": [
+        "general.screenshots"
+      ],
+      "minecraft/resourcepackks": [
+        "mc.resourcepacks"
+      ],
+      "minecraft/saves": [
+        "mc.saves.anvil"
+      ]
+    },
+    "java.mainClass": "net.minecraft.client.main.Main",
+    "java.serverLib": {
+      "name": "net.minecraft:minecraft_server:1.6.4",
+      "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/1.6.4/minecraft_server.1.6.4.jar"
+    },
+    "java.libraries": [
+      {
+        "name": "net.minecraft:minecraft:1.6.4",
+        "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/1.6.4/1.6.4.jar"
+      },
+      {
+        "name": "com.google.code.gson:gson:2.2.2",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "commons-io:commons-io:2.4",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.apache.commons:commons-lang3:3.1",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.google.guava:guava:14.0",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.bouncycastle:bcprov-jdk15on:1.47",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "argo:argo:2.25_fixed",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:soundsystem:20120107",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:librarylwjglopenal:20100824",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:libraryjavasound:20101123",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:codecwav:20101023",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "com.paulscode:codecjorbis:20101023",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "net.sf.jopt-simple:jopt-simple:4.5",
+        "url": "https://libraries.minecraft.net/"
+      }
+    ],
+    "mc.arguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "formatVersion": 0,
+  "uid": "com.mumfrey.liteloader",
+  "name": null,
+  "versions": [
+    {
+      "id": "1.5.2_01",
+      "type": "release",
+      "time": 1367366420
+    },
+    {
+      "id": "1.6.2_04",
+      "type": "release",
+      "time": 1375662298
+    },
+    {
+      "id": "1.6.2_01",
+      "type": "release",
+      "time": 1374025480
+    },
+    {
+      "id": "1.6.2_02",
+      "type": "release",
+      "time": 1374709543
+    },
+    {
+      "id": "1.6.2_03",
+      "type": "release",
+      "time": 1375228794
+    },
+    {
+      "id": "1.6.4_01",
+      "type": "release",
+      "time": 1380796916
+    },
+    {
+      "id": "1.6.4_00",
+      "type": "release",
+      "time": 1380279938
+    },
+    {
+      "id": "1.7.10_04",
+      "type": "release",
+      "time": 1414368553
+    },
+    {
+      "id": "1.7.10_00",
+      "type": "release",
+      "time": 1404330030
+    },
+    {
+      "id": "1.7.10_01",
+      "type": "release",
+      "time": 1404673785
+    },
+    {
+      "id": "1.7.10_02",
+      "type": "release",
+      "time": 1405369406
+    },
+    {
+      "id": "1.7.10_03",
+      "type": "release",
+      "time": 1407687918
+    },
+    {
+      "id": "1.7.2_05",
+      "type": "release",
+      "time": 1405369406
+    },
+    {
+      "id": "1.7.2_02",
+      "type": "release",
+      "time": 1391815963
+    },
+    {
+      "id": "1.7.2_03",
+      "type": "release",
+      "time": 1391890695
+    },
+    {
+      "id": "1.7.2_04",
+      "type": "release",
+      "time": 1392487926
+    }
+  ]
+}

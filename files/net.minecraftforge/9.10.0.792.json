@@ -1,0 +1,55 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge",
+  "version": "9.10.0.792",
+  "time": 1373830033,
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.2"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.folders": {
+      "minecraft/mods": [
+        "mc.forgemods",
+        "mc.forgecoremods"
+      ],
+      "minecraft/coremods": [
+        "mc.forgecoremods"
+      ]
+    },
+    "java.mainClass": "net.minecraft.launchwrapper.Launch",
+    "java.libraries": [
+      {
+        "name": "lzma:lzma:0.0.1",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.ow2.asm:asm-all:4.1",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "org.scala-lang:scala-compiler:2.10.2",
+        "url": "http://repo.spongepowered.org/maven/"
+      },
+      {
+        "name": "org.scala-lang:scala-library:2.10.2",
+        "url": "http://repo.spongepowered.org/maven/"
+      },
+      {
+        "name": "net.minecraft:launchwrapper:1.3",
+        "url": "https://libraries.minecraft.net/"
+      },
+      {
+        "name": "net.minecraftforge:minecraftforge:9.10.0.792",
+        "url": "http://files.minecraftforge.net/maven/"
+      }
+    ],
+    "mc.tweakers": [
+      "cpw.mods.fml.common.launcher.FMLTweaker"
+    ]
+  }
+}
