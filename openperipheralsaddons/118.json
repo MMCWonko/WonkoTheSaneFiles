@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralsaddons",
+  "version": "118",
+  "time": 1403012738000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/118//artifact/build/libs/OpenPeripheralAddons-1.6.4-0.1.5-snapshot-118-deobf.jar",
+        "size": 272520,
+        "sha256": "d7316b24307f28a840217ddc5fc0a619dc7cf26865f9699638084161aac9bf54",
+        "destination": "mods/openperipheralsaddons-118.jar"
+      }
+    ]
+  }
+}

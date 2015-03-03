@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "54",
+  "time": 1422631749949,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/54//artifact/build/libs/gendustry-mc1710-1.4.4.54.jar",
+        "size": 1414346,
+        "sha256": "4250db85bbfcfe45d837bad22600f9094030d3fcda0ecd5972a4c9d1f92793b3",
+        "destination": "mods/gendustry-54.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "ic2",
+  "version": "595",
+  "time": 1408203375000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.ic2.player.to/job/IC2_experimental/595//artifact/build/libs/industrialcraft-2-2.2.595-experimental.jar",
+        "size": 5082580,
+        "sha256": "24c51ebaa4a13b389120a9cfe1ef178e51d7fc8a364683e7af6088a34fa54331",
+        "destination": "mods/ic2-595.jar"
+      }
+    ]
+  }
+}

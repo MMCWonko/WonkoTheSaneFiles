@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "version": "39",
+  "time": 1408889528000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/39//artifact/build/libs/logisticspipes-0.8.0.39.jar",
+        "size": 2355298,
+        "sha256": "6b7babaf42b8d1c0d00e7b38b82d8adfa6ac385115ff7a3458fa4b56a8febb4b",
+        "destination": "mods/logisticspipes-39.jar"
+      }
+    ]
+  }
+}

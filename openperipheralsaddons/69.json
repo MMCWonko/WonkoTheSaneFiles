@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralsaddons",
+  "version": "69",
+  "time": 1394571662000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/69//artifact/build/dist/OpenPeripheralAddons-0.1.1-snapshot-69.jar",
+        "size": 266302,
+        "sha256": "51bd42e325759a672ffb7f7b78d9ef5cf7243658f632dee03f9f179b2c1458bb",
+        "destination": "mods/openperipheralsaddons-69.jar"
+      }
+    ]
+  }
+}

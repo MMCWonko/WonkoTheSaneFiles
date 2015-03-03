@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "21",
+  "time": 1410868791000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/21//artifact/build/libs/bdlib-mc1710-1.4.4.21.jar",
+        "size": 954583,
+        "sha256": "6d8a6d2c376afa53dfbcd2f75e3a5d61320ea5bcdc9af4df51b1822463aa86d9",
+        "destination": "mods/bdlib-21.jar"
+      }
+    ]
+  }
+}

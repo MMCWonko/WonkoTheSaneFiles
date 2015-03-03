@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "559",
+  "time": 1423505338963,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenBlocks/559//artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-559-deobf.jar",
+        "size": 2533783,
+        "sha256": "149c0997763dcac5082fd862bfc7e8b0d665c40ead8a13ff87e0de59b8a714a4",
+        "destination": "mods/openblocks-559.jar"
+      }
+    ]
+  }
+}

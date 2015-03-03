@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "dimdoors",
+  "version": "350",
+  "time": 1405525315000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/DimDoors/350//artifact/build/dist/DimensionalDoors-2.2.4-350.jar",
+        "size": 4401089,
+        "sha256": "1b274ce9a9044c14a3851320b4bb72c51e2a0de8d9f230436a4846ff0bbc71bc",
+        "destination": "mods/dimdoors-350.jar"
+      }
+    ]
+  }
+}

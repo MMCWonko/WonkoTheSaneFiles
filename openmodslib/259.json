@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "259",
+  "time": 1416261998000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/259//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-259-deobf.jar",
+        "size": 667448,
+        "sha256": "d963c494b5960c41cae48aea0ee1e85782020b4ad5569c06cffdb585fa78d4ba",
+        "destination": "mods/openmodslib-259.jar"
+      }
+    ]
+  }
+}

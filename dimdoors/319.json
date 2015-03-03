@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "dimdoors",
+  "version": "319",
+  "time": 1396035518000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/DimDoors/319//artifact/build/dist/DimensionalDoors-2.2.2RC1-319.jar",
+        "size": 5443073,
+        "sha256": "a0f1d5251703ab23d2add8896d8fb213494d510625eb18dac00d9b32f356ca2f",
+        "destination": "mods/dimdoors-319.jar"
+      }
+    ]
+  }
+}

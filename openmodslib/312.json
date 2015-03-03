@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "312",
+  "time": 1423775900714,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/312//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-312-deobf.jar",
+        "size": 767443,
+        "sha256": "2b5682ea15e23665419254b8e90d8b551e45e4062420cb794fd9f60a9a538bc7",
+        "destination": "mods/openmodslib-312.jar"
+      }
+    ]
+  }
+}

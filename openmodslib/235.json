@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "235",
+  "time": 1414614401000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/235//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-235-deobf.jar",
+        "size": 638529,
+        "sha256": "c5e96a46da0a84b771c98fcaa95a0d05d8f23794ea82b542140ded28e9ad35a6",
+        "destination": "mods/openmodslib-235.jar"
+      }
+    ]
+  }
+}

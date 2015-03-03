@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "47",
+  "time": 1418776184000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/47//artifact/build/libs/gendustry-mc1710-1.4.3.47.jar",
+        "size": 1408113,
+        "sha256": "97d8517e88088257b845b235550c69e9e543d1a9f0548a4b0be252c3b00b2cde",
+        "destination": "mods/gendustry-47.jar"
+      }
+    ]
+  }
+}

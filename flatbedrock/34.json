@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "flatbedrock",
+  "version": "34",
+  "time": 1374206093000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/FlatBedrock/34//artifact/build/dist/FlatBedrock-1.1.1-34.jar",
+        "size": 3251,
+        "sha256": "7f47001cbc4019cb94bbe9ab0a742df49d7039acc9004bf03d6f6f370db70c5a",
+        "destination": "mods/flatbedrock-34.jar"
+      }
+    ]
+  }
+}

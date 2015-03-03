@@ -1,0 +1,17 @@
+{
+  "formatVersion": 0,
+  "uid": "codechicken.lib",
+  "name": null,
+  "versions": [
+    {
+      "id": "1.0.0.62",
+      "type": null,
+      "time": 1393116467
+    },
+    {
+      "id": "1.0.0.61",
+      "type": null,
+      "time": 1392414111
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "274",
+  "time": 1419358819000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/274//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-274-deobf.jar",
+        "size": 703570,
+        "sha256": "f4275a34db6eec0e7e944ff91378bb893a81a8c0b874cf00a0ab80205de4d892",
+        "destination": "mods/openmodslib-274.jar"
+      }
+    ]
+  }
+}

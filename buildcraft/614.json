@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "buildcraft",
+  "version": "614",
+  "time": 1418237650000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://nallar.me/buildservice/job/Buildcraft/614//artifact/build/libs/buildcraft-6.2.3.jar",
+        "size": 2119733,
+        "sha256": "e50981f6fc84968c8495ca0174341c0bc78f98efb4c659a55366129c52849beb",
+        "destination": "mods/buildcraft-614.jar"
+      }
+    ]
+  }
+}

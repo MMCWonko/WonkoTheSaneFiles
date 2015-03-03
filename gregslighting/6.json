@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "gregslighting",
+  "version": "6",
+  "time": 1367809455000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/GregsLighting/6//artifact/build/dist/GregsLighting-1.8.1-6.jar",
+        "size": 26220,
+        "sha256": "dbe51ba126b22aab9b8e6fe5ab43845a64586d6036b84375d40bcc9ea84f45ef",
+        "destination": "mods/gregslighting-6.jar"
+      }
+    ]
+  }
+}

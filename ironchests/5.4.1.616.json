@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "uid": "ironchests",
+  "version": "5.4.1.616",
+  "time": 1381061945,
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.616.zip",
+        "size": 133026,
+        "sha256": "ef1b619f3febe2ce44f6de4057499051b0e2ccb21b50b869fe532c2a89fba46d",
+        "destination": "mods/ironchests-5.4.1.616.jar"
+      }
+    ]
+  }
+}

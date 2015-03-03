@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "uid": "compactsolars",
+  "version": "4.1.6.41",
+  "time": 1370728615,
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.5.2"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.41.zip",
+        "size": 51760,
+        "sha256": "5c321c44b4cfbdf59b8f5120d6b7c2355a7edad0be01c4a648f9aacbe6007fe2",
+        "destination": "mods/compactsolars-4.1.6.41.jar"
+      }
+    ]
+  }
+}

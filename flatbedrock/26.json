@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "flatbedrock",
+  "version": "26",
+  "time": 1364109415000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/FlatBedrock/26//artifact/build/dist/FlatBedrock-1.1.0RC2-26.jar",
+        "size": 3151,
+        "sha256": "8caa9b9cef69551825d13f6e2ff8a8f4fc1538d9c5ea015e26ef87630c79ea64",
+        "destination": "mods/flatbedrock-26.jar"
+      }
+    ]
+  }
+}

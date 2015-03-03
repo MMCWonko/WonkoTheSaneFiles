@@ -6,111 +6,170 @@
   "type": "release",
   "data": {
     "general.launcher": "minecraft",
-    "java.libraries": [
+    "general.downloads": [
       {
-        "name": "net.java.jinput:jinput-platform:2.0.5",
-        "url": "https://libraries.minecraft.net/",
-        "natives": {
-          "linux": "natives-linux",
-          "windows": "natives-windows",
-          "osx": "natives-osx"
-        }
-      },
-      {
-        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20131017",
-        "url": "https://libraries.minecraft.net/",
-        "natives": {
-          "osx": "natives-osx"
-        },
-        "rules": [
-          {
-            "action": "allow",
-            "os": {
-              "name": "osx"
-            }
-          }
-        ]
-      },
-      {
-        "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20131017",
-        "url": "https://libraries.minecraft.net/",
-        "rules": [
-          {
-            "action": "allow",
-            "os": {
-              "name": "osx"
-            }
-          }
-        ]
-      },
-      {
-        "name": "org.lwjgl.lwjgl:lwjgl:2.9.1-nightly-20131017",
-        "url": "https://libraries.minecraft.net/",
-        "rules": [
-          {
-            "action": "allow",
-            "os": {
-              "name": "osx"
-            }
-          }
-        ]
-      },
-      {
-        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.0",
-        "url": "https://libraries.minecraft.net/",
-        "natives": {
-          "linux": "natives-linux",
-          "windows": "natives-windows"
-        },
-        "rules": [
-          {
-            "action": "allow"
-          },
-          {
-            "action": "disallow",
-            "os": {
-              "name": "osx"
-            }
-          }
-        ]
-      },
-      {
-        "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.0",
-        "url": "https://libraries.minecraft.net/",
-        "rules": [
-          {
-            "action": "allow"
-          },
-          {
-            "action": "disallow",
-            "os": {
-              "name": "osx"
-            }
-          }
-        ]
-      },
-      {
-        "name": "org.lwjgl.lwjgl:lwjgl:2.9.0",
-        "url": "https://libraries.minecraft.net/",
-        "rules": [
-          {
-            "action": "allow"
-          },
-          {
-            "action": "disallow",
-            "os": {
-              "name": "osx"
-            }
-          }
-        ]
-      },
-      {
-        "name": "net.java.jutils:jutils:1.0.0",
-        "url": "https://libraries.minecraft.net/"
-      },
-      {
+        "type": "java.library",
+        "size": 208339,
+        "sha256": "dd3ac313d33247c7023c08b115ada6f3ec6ecebe4ece6859f2c28d566479ce9d",
         "name": "net.java.jinput:jinput:2.0.5",
-        "url": "https://libraries.minecraft.net/"
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      },
+      {
+        "type": "java.library",
+        "size": 7509,
+        "sha256": "1d6a149869f6ecccd4ace8343ae3fb4d8b27cc70e30d4f296f1d0e85466a4022",
+        "name": "net.java.jutils:jutils:1.0.0",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      },
+      {
+        "type": "java.library",
+        "size": 994634,
+        "sha256": "ea49fc85337fe5aadff038ff02df46608198d7dd6648a80bd7bf44b39064a2b7",
+        "name": "org.lwjgl.lwjgl:lwjgl:2.9.0",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "win32",
+          "win64",
+          "lin32",
+          "lin64"
+        ]
+      },
+      {
+        "type": "java.library",
+        "size": 173361,
+        "sha256": "475fa9463b9799de48025389be6e73b234c229b92a7420e85fc3fa1c60d09a27",
+        "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.0",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "win32",
+          "win64",
+          "lin32",
+          "lin64"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-windows.jar",
+        "size": 609968,
+        "sha256": "b5138d48afbd6d2c65f8dd8ed091bb8ae3f5c4a91ebd9ef77ff003a7f2fe456d",
+        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.0",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "win32"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-windows.jar",
+        "size": 609968,
+        "sha256": "b5138d48afbd6d2c65f8dd8ed091bb8ae3f5c4a91ebd9ef77ff003a7f2fe456d",
+        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.0",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "win64"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-linux.jar",
+        "size": 569062,
+        "sha256": "c81358096067ec14909c9e478488712f68ef1989e961537012d3741e59db9319",
+        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.0",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "lin32"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-linux.jar",
+        "size": 569062,
+        "sha256": "c81358096067ec14909c9e478488712f68ef1989e961537012d3741e59db9319",
+        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.0",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "lin64"
+        ]
+      },
+      {
+        "type": "java.library",
+        "size": 1016819,
+        "sha256": "854a19594fce4649a94783a6aea82b09ab54cbe1cb2968c87bcd75e5aed5d867",
+        "name": "org.lwjgl.lwjgl:lwjgl:2.9.1-nightly-20131017",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      },
+      {
+        "type": "java.library",
+        "size": 173888,
+        "sha256": "42b412a21ed5cac2ac3e5650b1541dfb495793dc942ea6184cbe421ff9a6ecaf",
+        "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20131017",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20131017/lwjgl-platform-2.9.1-nightly-20131017-natives-osx.jar",
+        "size": 524202,
+        "sha256": "2979cd2e82e32061bb0ad7ea2b632572bf19588d46cf9870f628b1ed13c7aa9b",
+        "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20131017",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "osx64"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
+        "size": 155180,
+        "sha256": "ca7054ac60db2af0c0c272fe8e36f25cd80d72dd8d6bcbf03ae91f9e035a5e63",
+        "name": "net.java.jinput:jinput-platform:2.0.5",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "win32"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
+        "size": 155180,
+        "sha256": "ca7054ac60db2af0c0c272fe8e36f25cd80d72dd8d6bcbf03ae91f9e035a5e63",
+        "name": "net.java.jinput:jinput-platform:2.0.5",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "win64"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
+        "size": 10363,
+        "sha256": "4b223ba0d2e2d95347464da7de60c42999a2e606f4e9638934f2f7b1f797debf",
+        "name": "net.java.jinput:jinput-platform:2.0.5",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "lin32"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
+        "size": 10363,
+        "sha256": "4b223ba0d2e2d95347464da7de60c42999a2e606f4e9638934f2f7b1f797debf",
+        "name": "net.java.jinput:jinput-platform:2.0.5",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "lin64"
+        ]
+      },
+      {
+        "type": "java.native",
+        "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar",
+        "size": 12187,
+        "sha256": "caec1f12c88f925bbe1a629e45cedab43332f70d1ff5b224542cbe6718ad3308",
+        "name": "net.java.jinput:jinput-platform:2.0.5",
+        "mavenBaseUrl": "https://libraries.minecraft.net/",
+        "platforms": [
+          "osx64"
+        ]
       }
     ]
   }

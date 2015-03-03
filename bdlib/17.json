@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "17",
+  "time": 1409667924000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/17//artifact/build/libs/bdlib-mc1710-1.4.4.17.jar",
+        "size": 958713,
+        "sha256": "dc69ab74bb39701c65ccfec64b57f8b1c67bc06c86e44ec08226137b861b71ce",
+        "destination": "mods/bdlib-17.jar"
+      }
+    ]
+  }
+}

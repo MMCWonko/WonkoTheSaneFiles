@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "neiaddons",
+  "version": "13",
+  "time": 1420801261000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/13//artifact/build/libs/neiaddons-mc1710-1.12.3.13.jar",
+        "size": 136675,
+        "sha256": "e22aaabff8e2372be09223df8b629b8331b09853ece75f5891237613649fc881",
+        "destination": "mods/neiaddons-13.jar"
+      }
+    ]
+  }
+}

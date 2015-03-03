@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderore",
+  "version": "12",
+  "time": 1369521725000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/EnderOre/12//artifact/build/dist/EnderOre-1.0-12.jar",
+        "size": 21603,
+        "sha256": "779417d11491f4cc581e4c4ac573fce892a5863d7e7e99a38ada6500f35e55b6",
+        "destination": "mods/enderore-12.jar"
+      }
+    ]
+  }
+}

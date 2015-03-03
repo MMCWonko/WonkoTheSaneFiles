@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "32",
+  "time": 1414483729000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/32//artifact/build/libs/bdlib-mc1710-1.5.1.32.jar",
+        "size": 1045931,
+        "sha256": "a691b734d79e75eb83ceb5fd0d5932b70f1c7c1f1a9d06f670d53ece880d77cd",
+        "destination": "mods/bdlib-32.jar"
+      }
+    ]
+  }
+}

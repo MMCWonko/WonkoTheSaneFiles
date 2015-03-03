@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "308",
+  "time": 1423418425285,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/308//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-308-deobf.jar",
+        "size": 764924,
+        "sha256": "4b3fb6be88148a3c34ab28fabe09476dbec14b7bbd5b29cd0176e88b7f923025",
+        "destination": "mods/openmodslib-308.jar"
+      }
+    ]
+  }
+}

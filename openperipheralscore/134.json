@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "134",
+  "time": 1400603415000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/134//artifact/build/libs/OpenPeripheralCore-1.6.4-0.4-snapshot-134-deobf.jar",
+        "size": 298456,
+        "sha256": "4ff0352f8b3fd98431b9df6dc2fa38c804680169e6b9122e258194efe80f0b68",
+        "destination": "mods/openperipheralscore-134.jar"
+      }
+    ]
+  }
+}

@@ -18,10 +18,13 @@
         "mc.texturepacks"
       ]
     },
-    "java.libraries": [
+    "general.downloads": [
       {
-        "name": "net.minecraft:minecraft:a1.1.2_01",
-        "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.1.2_01/a1.1.2_01.jar"
+        "type": "java.library",
+        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.1.2_01/a1.1.2_01.jar",
+        "size": 897165,
+        "sha256": "34f80fe771a5e136dc57d2643a465fde69eeb344b8ee85d954c3efbccda7db78",
+        "name": "net.minecraft:minecraft:a1.1.2_01"
       }
     ],
     "mc.arguments": " ${auth_player_name} ${auth_session}"

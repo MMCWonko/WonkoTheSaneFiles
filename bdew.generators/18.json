@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "version": "18",
+  "time": 1412761527000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/generators-1.7.10/18//artifact/build/libs/generators-mc1710-0.9.3.18.jar",
+        "size": 301539,
+        "sha256": "af78b0f0246ad038fcec7369b066e736204deae9e902639085bbd7e3831221db",
+        "destination": "mods/bdew.generators-18.jar"
+      }
+    ]
+  }
+}

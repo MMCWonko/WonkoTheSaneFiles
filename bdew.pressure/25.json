@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.pressure",
+  "version": "25",
+  "time": 1411031811000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/pressure-1.7.10/25//artifact/build/libs/pressure-mc1710-0.9.3.25.jar",
+        "size": 514823,
+        "sha256": "5da0e5a85f229e85cfc567cd98288970ad6987ace1e5f97b2999e09cffdd5da7",
+        "destination": "mods/bdew.pressure-25.jar"
+      }
+    ]
+  }
+}

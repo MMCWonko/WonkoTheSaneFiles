@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "22",
+  "time": 1410003745000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/22//artifact/build/libs/gendustry-mc1710-1.3.3.22.jar",
+        "size": 1391650,
+        "sha256": "7460e909823371660b1dd3b2b0b6e1cfa688a526eb5059d77450aa224ea242d9",
+        "destination": "mods/gendustry-22.jar"
+      }
+    ]
+  }
+}

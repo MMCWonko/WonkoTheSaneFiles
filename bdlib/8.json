@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "8",
+  "time": 1407837654000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/8//artifact/build/libs/bdlib-mc1710-1.4.1.8.jar",
+        "size": 754178,
+        "sha256": "c66a7d57cc77b8d47776a99956a06f3328768ee6511c4d8bb9724a4ae8dd0b2e",
+        "destination": "mods/bdlib-8.jar"
+      }
+    ]
+  }
+}

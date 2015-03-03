@@ -20,10 +20,13 @@
         "mc.saves.anvil"
       ]
     },
-    "java.libraries": [
+    "general.downloads": [
       {
-        "name": "net.minecraft:minecraft:1.2.1",
-        "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/1.2.1/1.2.1.jar"
+        "type": "java.library",
+        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.2.1/1.2.1.jar",
+        "size": 3988926,
+        "sha256": "c55eb2b94d4ce045287f111b709208f6e1b0703f2d289c8dda58402bc2d5bbd3",
+        "name": "net.minecraft:minecraft:1.2.1"
       }
     ],
     "mc.arguments": " ${auth_player_name} ${auth_session}"

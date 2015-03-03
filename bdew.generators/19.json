@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "version": "19",
+  "time": 1413467881000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/generators-1.7.10/19//artifact/build/libs/generators-mc1710-0.9.3.19.jar",
+        "size": 301564,
+        "sha256": "c83fec0dcb861bd00c1895a8d6763e07779d6de3e67ac587409e7831d1ecc03a",
+        "destination": "mods/bdew.generators-19.jar"
+      }
+    ]
+  }
+}

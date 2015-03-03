@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderore",
+  "version": "7",
+  "time": 1369426930000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/EnderOre/7//artifact/build/dist/EnderOre-1.0-7.jar",
+        "size": 21061,
+        "sha256": "f5930fcd5202681eada5bce46d7e60a3bc35105fe0404d5a0329225646ddd6db",
+        "destination": "mods/enderore-7.jar"
+      }
+    ]
+  }
+}

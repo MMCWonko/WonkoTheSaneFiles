@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "secretroomsmod",
+  "version": "4.6.0.273",
+  "time": 1367955578,
+  "requires": [
+    {
+      "uid": "net.minecraft"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://files.minecraftforge.net/SecretRoomsMod/SecretRoomsMod-universal-4.6.0.273.zip",
+        "size": 125366,
+        "sha256": "f398706da1f4a57a199e54c7e9289c1e7509b2da787a585811192c88e67aa09a",
+        "destination": "mods/secretroomsmod-4.6.0.273.jar"
+      }
+    ]
+  }
+}

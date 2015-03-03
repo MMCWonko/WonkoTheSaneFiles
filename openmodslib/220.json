@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "220",
+  "time": 1406901965000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/220//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-220-deobf.jar",
+        "size": 593352,
+        "sha256": "3d64f954a2db974609b1cd19b146677f378c17385847794b3667ddf1fff507ac",
+        "destination": "mods/openmodslib-220.jar"
+      }
+    ]
+  }
+}

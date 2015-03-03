@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "293",
+  "time": 1421541267000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/293//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-293-deobf.jar",
+        "size": 744303,
+        "sha256": "9d1943d3cee3b1162199cbc10e839c6b5d8e3d8b3244879de4c2fea329c4cfb6",
+        "destination": "mods/openmodslib-293.jar"
+      }
+    ]
+  }
+}

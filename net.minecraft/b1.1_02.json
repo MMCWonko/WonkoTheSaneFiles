@@ -20,10 +20,13 @@
         "mc.saves.infdev"
       ]
     },
-    "java.libraries": [
+    "general.downloads": [
       {
-        "name": "net.minecraft:minecraft:b1.1_02",
-        "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.1_02/b1.1_02.jar"
+        "type": "java.library",
+        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.1_02/b1.1_02.jar",
+        "size": 1129769,
+        "sha256": "ffeb0ae11495cec5d717ae69a308c69925ce6de85a54572ea848476ee873dec9",
+        "name": "net.minecraft:minecraft:b1.1_02"
       }
     ],
     "mc.arguments": " ${auth_player_name} ${auth_session}"

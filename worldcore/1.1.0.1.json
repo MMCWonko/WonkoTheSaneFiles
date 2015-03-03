@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "uid": "worldcore",
+  "version": "1.1.0.1",
+  "time": 1384040991,
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://files.minecraftforge.net/WorldCore/WorldCore-universal-1.6.4-1.1.0.1.jar",
+        "size": 8577,
+        "sha256": "0653418cdc55b7a0a24186e28fabc15334c84792e6f1aa81c11f60fc9defc400",
+        "destination": "mods/worldcore-1.1.0.1.jar"
+      }
+    ]
+  }
+}

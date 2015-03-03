@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "118",
+  "time": 1397578443000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/118//artifact/build/dist/OpenPeripheralCore-0.3.3-snapshot-118.jar",
+        "size": 300135,
+        "sha256": "451b8a7fa9fb2049d2b2d3a52bc6548235efd2c565ec1526576f530a7b842e20",
+        "destination": "mods/openperipheralscore-118.jar"
+      }
+    ]
+  }
+}

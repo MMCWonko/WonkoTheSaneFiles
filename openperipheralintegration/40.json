@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralintegration",
+  "version": "40",
+  "time": 1424000660936,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/40//artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-40-deobf.jar",
+        "size": 211568,
+        "sha256": "52b738803e14ee3067750e1316b2d171a7f0789d24515bd0d3c7030231ff3b77",
+        "destination": "mods/openperipheralintegration-40.jar"
+      }
+    ]
+  }
+}

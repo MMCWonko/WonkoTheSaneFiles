@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "version": "11",
+  "time": 1408198090000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/11//artifact/build/libs/logisticspipes-0.8.0.11-deobf.jar",
+        "size": 2364058,
+        "sha256": "ebf957a21e03ffc835fe65927260b569051e3df66f558cb4cb1fc7abbcb823d6",
+        "destination": "mods/logisticspipes-11.jar"
+      }
+    ]
+  }
+}

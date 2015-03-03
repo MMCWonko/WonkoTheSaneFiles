@@ -17,13 +17,16 @@
         "mc.texturepacks"
       ]
     },
-    "java.mainClass": "com.mojang.minecraft.RubyDung",
-    "java.libraries": [
+    "general.downloads": [
       {
-        "name": "net.minecraft:minecraft:rd-161348",
-        "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-161348/rd-161348.jar"
+        "type": "java.library",
+        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-161348/rd-161348.jar",
+        "size": 60481,
+        "sha256": "b336a1911ef4ff88ba5284fbd710b65b2f4823a069024fa3ec0c2515f43497d6",
+        "name": "net.minecraft:minecraft:rd-161348"
       }
     ],
+    "java.mainClass": "com.mojang.minecraft.RubyDung",
     "mc.arguments": " ${auth_player_name} ${auth_session}"
   }
 }

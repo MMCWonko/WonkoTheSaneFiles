@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "241",
+  "time": 1415314911000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/241//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-241-deobf.jar",
+        "size": 647643,
+        "sha256": "ab5644e46f5db63d368d4cb9d41979c7cf8a4e8e5e001955fa39fdb35aafb520",
+        "destination": "mods/openmodslib-241.jar"
+      }
+    ]
+  }
+}

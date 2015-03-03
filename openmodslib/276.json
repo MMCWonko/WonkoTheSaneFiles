@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "276",
+  "time": 1419456949000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/276//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-276-deobf.jar",
+        "size": 706354,
+        "sha256": "b8f56431d5c5c116c88619a1f28733eb5c4c53116c38bdccca9b7de2707f978b",
+        "destination": "mods/openmodslib-276.jar"
+      }
+    ]
+  }
+}

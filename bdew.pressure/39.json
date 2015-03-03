@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.pressure",
+  "version": "39",
+  "time": 1413385455000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/pressure-1.7.10/39//artifact/build/libs/pressure-mc1710-0.9.6.39.jar",
+        "size": 671771,
+        "sha256": "017db564c0f21d48a17dfc3f11e0e8526e772a3fa9c92c818cf6945e3fdf775c",
+        "destination": "mods/bdew.pressure-39.jar"
+      }
+    ]
+  }
+}

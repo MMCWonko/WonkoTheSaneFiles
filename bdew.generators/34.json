@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "version": "34",
+  "time": 1423194567164,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/generators-1.7.10/34//artifact/build/libs/generators-mc1710-0.9.7.34.jar",
+        "size": 671011,
+        "sha256": "4aa433b1aff5c57f113bc247af45d9bfbf7bfe2e7e88be00f58ec0d17b7cb756",
+        "destination": "mods/bdew.generators-34.jar"
+      }
+    ]
+  }
+}

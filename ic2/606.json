@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "ic2",
+  "version": "606",
+  "time": 1408528636000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.ic2.player.to/job/IC2_experimental/606//artifact/build/libs/industrialcraft-2-2.2.606-experimental.jar",
+        "size": 5098105,
+        "sha256": "6f8c060cfb9b7106d60591e03eeac9c9f31db22d68e9d7f0a33835e82b46e68a",
+        "destination": "mods/ic2-606.jar"
+      }
+    ]
+  }
+}

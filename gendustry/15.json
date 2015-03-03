@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "15",
+  "time": 1408880694000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/15//artifact/build/libs/gendustry-mc1710-1.3.2.15.jar",
+        "size": 1393031,
+        "sha256": "0468a340ba2a1998782cd68001ca1c5a774be423b9a44ee49d89cdaf558fbe3b",
+        "destination": "mods/gendustry-15.jar"
+      }
+    ]
+  }
+}

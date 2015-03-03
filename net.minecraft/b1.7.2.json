@@ -20,10 +20,13 @@
         "mc.saves.region"
       ]
     },
-    "java.libraries": [
+    "general.downloads": [
       {
-        "name": "net.minecraft:minecraft:b1.7.2",
-        "absoluteUrl": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.7.2/b1.7.2.jar"
+        "type": "java.library",
+        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.7.2/b1.7.2.jar",
+        "size": 1465139,
+        "sha256": "3b3869c79c9f681cd9b7787d0819c743c1e64fcf0d6519fb246e6057d8fa0cf4",
+        "name": "net.minecraft:minecraft:b1.7.2"
       }
     ],
     "mc.arguments": " ${auth_player_name} ${auth_session}"

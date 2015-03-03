@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.pressure",
+  "version": "52",
+  "time": 1423085411907,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.bdew.net/job/pressure-1.7.10/52//artifact/build/libs/pressure-mc1710-1.0.3.52.jar",
+        "size": 693261,
+        "sha256": "99c154f0434890ce30b286df4d3e1a85ce8107530865cba1a193e89a800b81bd",
+        "destination": "mods/bdew.pressure-52.jar"
+      }
+    ]
+  }
+}

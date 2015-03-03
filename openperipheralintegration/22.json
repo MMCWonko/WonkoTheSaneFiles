@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralintegration",
+  "version": "22",
+  "time": 1419707467000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/22//artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-22-deobf.jar",
+        "size": 189738,
+        "sha256": "6d01126d9347b5a6128ebc502ba16f8733dfc54c61b4e46ccc7ae57b07965b31",
+        "destination": "mods/openperipheralintegration-22.jar"
+      }
+    ]
+  }
+}
