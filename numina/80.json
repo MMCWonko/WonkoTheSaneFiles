@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "80",
+  "time": 1400979680000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/Numina/80//artifact/build/libs/numina-0.3.0.80.jar",
+        "size": 209977,
+        "sha256": "e4e836c13bee319a3483ec4fb490167529a1982e2ac1f89e87f87f2c4c9174e8",
+        "destination": "mods/numina-80.jar"
+      }
+    ]
+  }
+}

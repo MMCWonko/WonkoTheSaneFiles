@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openeye",
+  "version": "52",
+  "time": 1398714801000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenEye/52//artifact/mod/build/libs/OpenEye-0.1-snapshot-52.jar",
+        "size": 142158,
+        "sha256": "341ba76559661d96ed3a47fde5a0d4bc58bf4ee19064e710dbf3c07f1196dacb",
+        "destination": "mods/openeye-52.jar"
+      }
+    ]
+  }
+}

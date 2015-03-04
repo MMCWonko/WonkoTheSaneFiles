@@ -8,9 +8,9 @@
     "general.downloads": [
       {
         "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenBlocks/564//artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-564-deobf.jar",
-        "size": 2534309,
-        "sha256": "b0bcd90f270643fe7509b4950f1c935ed2c38325dc6d6c42c0694814dc0dcc96",
+        "url": "http://www.openmods.info:8080/job/OpenBlocks/564//artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-564.jar",
+        "size": 2553242,
+        "sha256": "af70d95236044f05841a6b9f867023544c108c8e3f93a459a0d3b86593322a86",
         "destination": "mods/openblocks-564.jar"
       }
     ]

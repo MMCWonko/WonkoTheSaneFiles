@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "uid": "forgeessentials",
+  "version": "0.1.0.206",
+  "time": 1357217459,
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.4.6"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://files.minecraftforge.net/ForgeEssentials/ForgeEssentials-client-1.4.6-0.1.0.206.zip",
+        "size": 13417,
+        "sha256": "d5c7f656cf273b6d665ec342bf9eb616d2eb6117cc5c80d6927605dd81d16f41",
+        "destination": "mods/forgeessentials-0.1.0.206.jar"
+      }
+    ]
+  }
+}

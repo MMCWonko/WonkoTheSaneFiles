@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "19",
+  "time": 1381908546000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/Numina/19//artifact/dist/Numina-1.6.2-0.0.1-19.jar",
+        "size": 648770,
+        "sha256": "6f41290719ca62121d512df62b03ab61827cf5517720f641985d5e62283bdead",
+        "destination": "mods/numina-19.jar"
+      }
+    ]
+  }
+}

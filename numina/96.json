@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "96",
+  "time": 1410299550000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/Numina/96//artifact/build/libs/Numina-0.4.0.96.jar",
+        "size": 195196,
+        "sha256": "c122893e988f64721d7dc1e364475ce35ac8a3444e204b9cca5e4ea1b7132561",
+        "destination": "mods/numina-96.jar"
+      }
+    ]
+  }
+}

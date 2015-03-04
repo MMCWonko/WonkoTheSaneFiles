@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "uid": "biomesoplenty",
+  "version": "1.1.2.68",
+  "time": 1380394689,
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.68.jar",
+        "size": 5191354,
+        "sha256": "6c356bea1b32bb5a3a531a6e1c32473b824a65cf6ad7b00fa4ee4efcaa5a954f",
+        "destination": "mods/biomesoplenty-1.1.2.68.jar"
+      }
+    ]
+  }
+}

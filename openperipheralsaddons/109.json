@@ -8,9 +8,9 @@
     "general.downloads": [
       {
         "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/109//artifact/build/libs/OpenPeripheralAddons-1.6.4-0.1.4-snapshot-109-deobf.jar",
-        "size": 271833,
-        "sha256": "78f4cecf4fdba8d7407faad121dc6489da4e6780c03282009f992d3787a8d232",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/109//artifact/build/libs/OpenPeripheralAddons-1.6.4-0.1.4-snapshot-109.jar",
+        "size": 274243,
+        "sha256": "93e9f1010d4a1736796accdb032270173762aa143ae7803fed06ac5ba0ca48b3",
         "destination": "mods/openperipheralsaddons-109.jar"
       }
     ]

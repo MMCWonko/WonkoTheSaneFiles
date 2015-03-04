@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "equivalentexchange3",
+  "version": "264",
+  "time": 1422332826000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://nallar.me/buildservice/job/Equivalent%20Exchange%203/264//artifact/build/libs/EquivalentExchange3-1.7.10-0.2.264.jar",
+        "size": 1842724,
+        "sha256": "5e3983a8ffee6dd66870aa29a77fb866d583481d57257edc2d4c31777ed43ca6",
+        "destination": "mods/equivalentexchange3-264.jar"
+      }
+    ]
+  }
+}

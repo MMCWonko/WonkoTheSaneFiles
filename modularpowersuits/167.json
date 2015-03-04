@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits",
+  "version": "167",
+  "time": 1410383361000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/ModularPowersuits/167//artifact/build/libs/ModularPowersuits-0.11.0.167.jar",
+        "size": 1647544,
+        "sha256": "d8571241a305ef0b188bbebcd89737cba7509f873ac0b5120cdd875f23d2d0a8",
+        "destination": "mods/modularpowersuits-167.jar"
+      }
+    ]
+  }
+}

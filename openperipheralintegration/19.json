@@ -8,9 +8,9 @@
     "general.downloads": [
       {
         "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/19//artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-19-deobf.jar",
-        "size": 186809,
-        "sha256": "ade894e105029153381f3e7a06d784079aebe73c3d59bc09f7a178263d81b141",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/19//artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-19.jar",
+        "size": 190294,
+        "sha256": "eca16f0e060fdb0a527666303172ceb68d80260402d71f11383c07bddf10a763",
         "destination": "mods/openperipheralintegration-19.jar"
       }
     ]

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "inventorytweaks",
+  "version": "113",
+  "time": 1394504969000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/Inventory-Tweaks/113//artifact/build/libs/InventoryTweaks-1.57-dev-113.jar",
+        "size": 215559,
+        "sha256": "aaa54fd7a402dfd945477fb562483ed43661c7429727662af943462abf8b215e",
+        "destination": "mods/inventorytweaks-113.jar"
+      }
+    ]
+  }
+}

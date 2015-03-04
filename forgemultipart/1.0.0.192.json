@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "uid": "forgemultipart",
+  "version": "1.0.0.192",
+  "time": 1380418162,
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-universal-1.6.4-1.0.0.192.jar",
+        "size": 815351,
+        "sha256": "905bb51a054f5284cd8b0ccb8c07775ba545b28f7c59deae0e71a295cb14d62c",
+        "destination": "mods/forgemultipart-1.0.0.192.jar"
+      }
+    ]
+  }
+}

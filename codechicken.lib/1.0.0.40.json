@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "uid": "codechicken.lib",
+  "version": "1.0.0.40",
+  "time": 1381614989,
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
+    }
+  ],
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.40.jar",
+        "size": 205068,
+        "sha256": "a968a31ce167abfe758604371f4048ab4f23bde579e1bca7c1b2e2af74921d0f",
+        "destination": "mods/codechicken.lib-1.0.0.40.jar"
+      }
+    ]
+  }
+}

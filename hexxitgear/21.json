@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "hexxitgear",
+  "version": "21",
+  "time": 1371785454000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/HexxitGear/21//artifact/build/dist/HexxitGear-1.0-21.jar",
+        "size": 191684,
+        "sha256": "e4f3d514f0309c6fa5539b3ed086d99a011fbeca07b92c5e9ef17b4b738dc3ec",
+        "destination": "mods/hexxitgear-21.jar"
+      }
+    ]
+  }
+}

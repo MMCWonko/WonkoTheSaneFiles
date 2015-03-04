@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "532",
+  "time": 1420213225000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenBlocks/532//artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-532.jar",
+        "size": 2191893,
+        "sha256": "b8cbf81f1b33ffe6ca66183ca8deae3858b084928ee2d850ec95e52ada29c3bf",
+        "destination": "mods/openblocks-532.jar"
+      }
+    ]
+  }
+}

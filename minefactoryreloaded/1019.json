@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "minefactoryreloaded",
+  "version": "1019",
+  "time": 1372114566000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/MineFactoryReloaded/1019//artifact/build/dist/MFR-API-2.7.0B2-1019.zip",
+        "size": 18638,
+        "sha256": "9f0b4f5a6d12cec99d937405e393e1c58ea26702349e214cf50bc11aff0351d2",
+        "destination": "mods/minefactoryreloaded-1019.jar"
+      }
+    ]
+  }
+}

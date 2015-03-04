@@ -8,9 +8,9 @@
     "general.downloads": [
       {
         "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/202//artifact/build/libs/OpenPeripheralCore-1.7.10-0.6.0-snapshot-202-deobf.jar",
-        "size": 240063,
-        "sha256": "23cb31ddb34042010c6dad6c0b37c7a919fef6e06407017c0622242989c00cc4",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/202//artifact/build/libs/OpenPeripheralCore-1.7.10-0.6.0-snapshot-202.jar",
+        "size": 244321,
+        "sha256": "a2068173d721b07b2887878671188888b959def7ba27f2815ea0e3a341b4d83f",
         "destination": "mods/openperipheralscore-202.jar"
       }
     ]

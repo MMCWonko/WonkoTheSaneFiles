@@ -8,9 +8,9 @@
     "general.downloads": [
       {
         "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenModsLib/299//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-299-deobf.jar",
-        "size": 749180,
-        "sha256": "aadbca63c46e5c0c3eecb6d1f5c5dd3af1036eee31b32efdc80de3811a215441",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/299//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-299.jar",
+        "size": 762651,
+        "sha256": "0e6c5c02a14a8aa0dd29fb9e1bfa8fc2dc99c3bfb53699fe6480964b2424fdc2",
         "destination": "mods/openmodslib-299.jar"
       }
     ]

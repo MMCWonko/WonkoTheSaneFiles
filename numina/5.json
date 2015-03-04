@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "5",
+  "time": 1378359978000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/Numina/5//artifact/dist/Numina-1.6.2-0.0.1-5.jar",
+        "size": 222694,
+        "sha256": "9c973371efc75e5003c935180776dc7aabf03ecd41a5a77449b0c341a030c25c",
+        "destination": "mods/numina-5.jar"
+      }
+    ]
+  }
+}

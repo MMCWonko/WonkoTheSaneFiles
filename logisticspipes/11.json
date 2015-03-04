@@ -8,9 +8,9 @@
     "general.downloads": [
       {
         "type": "general.file",
-        "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/11//artifact/build/libs/logisticspipes-0.8.0.11-deobf.jar",
-        "size": 2364058,
-        "sha256": "ebf957a21e03ffc835fe65927260b569051e3df66f558cb4cb1fc7abbcb823d6",
+        "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/11//artifact/build/libs/logisticspipes-0.8.0.11.jar",
+        "size": 2374538,
+        "sha256": "7c0ae821ff7d43b59204eb26a365e5deda4e904120e78dbd9e7191b6bf7eae8f",
         "destination": "mods/logisticspipes-11.jar"
       }
     ]

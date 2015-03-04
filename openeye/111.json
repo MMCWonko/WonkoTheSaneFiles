@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openeye",
+  "version": "111",
+  "time": 1400413381000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenEye/111//artifact/mod/build/libs/OpenEye-0.4-1.6.4-snapshot-111.jar",
+        "size": 173367,
+        "sha256": "fd4f7cba6c42e396ce1a2819ab10365d31c0c8905d164c2f5a69253072bc917c",
+        "destination": "mods/openeye-111.jar"
+      }
+    ]
+  }
+}
