@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "vanityblocks",
+  "version": "83",
+  "time": 1410881902000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://2.iongaming.org:8080/job/VanityBlocks/83//artifact/build/libs/VanityBlocks-V1.7.10-B83.jar",
+        "size": 665628,
+        "sha256": "a5bb2a4933bb70b3f5bb97e0dedf843acd7ec74bc27603e9cf858fbad5fcc7bf",
+        "destination": "mods/vanityblocks-83.jar"
+      }
+    ]
+  }
+}

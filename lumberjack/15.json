@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "lumberjack",
+  "version": "15",
+  "time": 1421509540000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/Lumberjack/15//artifact/build/libs/Lumberjack-1.7.10-1.1.0.15.jar",
+        "size": 30864,
+        "sha256": "9b44fe6cd7415fdc8195810c769b7787f6e57fb3182a4b57d0eafabc73ffa090",
+        "destination": "mods/lumberjack-15.jar"
+      }
+    ]
+  }
+}

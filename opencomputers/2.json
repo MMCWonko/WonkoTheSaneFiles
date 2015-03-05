@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "2",
+  "time": 1423845944169,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.cil.li/job/OpenComputers-1.5-MC1.7.10/2//artifact/build/libs/OpenComputers-MC1.7.10-1.5.0.2-beta-universal.jar",
+        "size": 10086236,
+        "sha256": "5135445e43afc28a66e41c600d6f6abc8674b610087e562422e461e362fe31db",
+        "destination": "mods/opencomputers-2.jar"
+      }
+    ]
+  }
+}

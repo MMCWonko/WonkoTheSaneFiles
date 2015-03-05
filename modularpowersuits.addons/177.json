@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits.addons",
+  "version": "177",
+  "time": 1374769977000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/ModularPowersuitsAddons/177//artifact/build/dist/MPSA-177_Requires_MPS-561+.jar",
+        "size": 129322,
+        "sha256": "79e947ea12cc4d13a043b7630c5d97300a6a0131c49e672fcfd28361bbc00bd9",
+        "destination": "mods/modularpowersuits.addons-177.jar"
+      }
+    ]
+  }
+}

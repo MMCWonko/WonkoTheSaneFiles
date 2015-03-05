@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "letitburn",
+  "version": "2",
+  "time": 1408382062000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/Let-it-Burn/2//artifact/build/libs/Let-it-Burn-1.7.10-1.1.0.2.jar",
+        "size": 7726,
+        "sha256": "b93495c3e57b66be608151302114edf20c2aee48725d0816a432d014e1035fcc",
+        "destination": "mods/letitburn-2.jar"
+      }
+    ]
+  }
+}

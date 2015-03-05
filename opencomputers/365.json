@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "365",
+  "time": 1422112785601,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/365//artifact/build/libs/OpenComputers-MC1.7.10-1.4.5.365-dev-universal.jar",
+        "size": 10020320,
+        "sha256": "a598e2656f8bd0a3a022a2a155b912384c39c011f0064baa4a5a08bf65f13a3d",
+        "destination": "mods/opencomputers-365.jar"
+      }
+    ]
+  }
+}

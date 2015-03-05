@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "322",
+  "time": 1420908617000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.tterrag.com/job/EnderIO/322//artifact/build/libs/EnderIO-1.7.10-2.2.6.322.jar",
+        "size": 4021383,
+        "sha256": "cfc4119d7ca6479da3f1064be606342264a4214395705da8157f69a886b3476c",
+        "destination": "mods/enderio-322.jar"
+      }
+    ]
+  }
+}

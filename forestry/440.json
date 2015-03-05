@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "440",
+  "time": 1422340010000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/440//artifact/build/dist/forestry_1.7.10-3.3.0.440-unstable.jar",
+        "size": 2996918,
+        "sha256": "c06c002e23360a65a110eecd2739792ec3e5ced80ecb7c72185447038a9e96bf",
+        "destination": "mods/forestry-440.jar"
+      }
+    ]
+  }
+}

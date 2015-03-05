@@ -1,0 +1,32 @@
+{
+  "formatVersion": 0,
+  "uid": "cookiecore",
+  "name": null,
+  "versions": [
+    {
+      "id": "5",
+      "type": null,
+      "time": 1422564698000
+    },
+    {
+      "id": "4",
+      "type": null,
+      "time": 1422302982000
+    },
+    {
+      "id": "3",
+      "type": null,
+      "time": 1422153700000
+    },
+    {
+      "id": "2",
+      "type": null,
+      "time": 1422145626000
+    },
+    {
+      "id": "1",
+      "type": null,
+      "time": 1422143201000
+    }
+  ]
+}

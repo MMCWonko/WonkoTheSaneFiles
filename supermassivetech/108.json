@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "supermassivetech",
+  "version": "108",
+  "time": 1424441902000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.tterrag.com/job/Super%20Massive%20Tech/108//artifact/build/libs/SuperMassiveTech-MC1.7.10-0.3.0-alpha-108.jar",
+        "size": 599355,
+        "sha256": "1e65c7a130a4513bdb6b7f591c9ed5f1f83d083535fef074ec63a7f704041cd3",
+        "destination": "mods/supermassivetech-108.jar"
+      }
+    ]
+  }
+}

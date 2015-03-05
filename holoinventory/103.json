@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "103",
+  "time": 1421507502000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/HoloInventory/103//artifact/build/libs/HoloInventory-1.7.10-1.8.3.103.jar",
+        "size": 73038,
+        "sha256": "cc684248e6b742ab8f69bb3a4e67722c345321f4fc0d7e1d54fac4feada87bf7",
+        "destination": "mods/holoinventory-103.jar"
+      }
+    ]
+  }
+}

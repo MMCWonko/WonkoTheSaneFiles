@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "projectred",
+  "version": "32",
+  "time": 1396387264000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.indiewikis.com:8080/job/Project%20Red/32//artifact/dist/ProjectRedBase-1.6.4-4.3.7.32.jar",
+        "size": 3910284,
+        "sha256": "93d4f57a7c95958bb8ffe211c5991e07b7b25d6272fbfceda8d523aa5db706d2",
+        "destination": "mods/projectred-32.jar"
+      }
+    ]
+  }
+}

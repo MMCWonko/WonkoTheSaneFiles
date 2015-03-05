@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "minechem",
+  "version": "393",
+  "time": 1425488050545,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.jakimfett.com/job/Minechem%201.7%20v5/393//artifact/output/Minechem-1.7.10-5.0.5.393.jar",
+        "size": 1091047,
+        "sha256": "396aa2556f8184d85511c9a6c86922451ac392e0a809df3b3f471ddbb3decf4a",
+        "destination": "mods/minechem-393.jar"
+      }
+    ]
+  }
+}

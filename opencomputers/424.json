@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "424",
+  "time": 1424173211355,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/424//artifact/build/libs/OpenComputers-MC1.7.10-1.5.0.424-dev-universal.jar",
+        "size": 10095152,
+        "sha256": "b1c857a0576efea0e060e74ed80b5bdd5ff4a6646043217f0bf655c2bf48a4d6",
+        "destination": "mods/opencomputers-424.jar"
+      }
+    ]
+  }
+}

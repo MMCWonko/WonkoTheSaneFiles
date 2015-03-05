@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "powerconverters",
+  "version": "47",
+  "time": 1422997118000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jamesmckay.id.au:8080/job/Power%20Converters/47//artifact/build/libs/PowerConverters-1.7.10-3.0.4.47.jar",
+        "size": 345784,
+        "sha256": "bd2dcf17dcdd60bd1bc1ae51709835d8f9c3d3cfd2109c02f6b567d86df8e3eb",
+        "destination": "mods/powerconverters-47.jar"
+      }
+    ]
+  }
+}

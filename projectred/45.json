@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "projectred",
+  "version": "45",
+  "time": 1407745984000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.indiewikis.com:8080/job/Project%20Red/45//artifact/build/libs/ProjectRed-Base-1.7.10-4.4.6.45.jar",
+        "size": 1288774,
+        "sha256": "8af32583cd0445db706acc200d7d7fc4bc0d5c3300df049eaa0a329045784bcc",
+        "destination": "mods/projectred-45.jar"
+      }
+    ]
+  }
+}

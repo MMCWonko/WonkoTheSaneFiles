@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "placeabletools",
+  "version": "17",
+  "time": 1407517716000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/PlaceableTools/17//artifact/build/libs/PlaceableTools-1.7.10-1.0.0.17.jar",
+        "size": 231171,
+        "sha256": "03ec21c4fa0fe69725a2916271e7b349cc4fad581c2e8ed8a84b985e64d6cfc9",
+        "destination": "mods/placeabletools-17.jar"
+      }
+    ]
+  }
+}

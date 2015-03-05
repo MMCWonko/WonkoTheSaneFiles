@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "craycrafting",
+  "version": "10",
+  "time": 1407965913000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/CrayCrafting/10//artifact/build/libs/CrayCrafting-1.7.10-1.2.0.10.jar",
+        "size": 39461,
+        "sha256": "55b02c109c32051bd1ad14a0ead5d00095c22d00d02f4f1c5310bc74cefd3311",
+        "destination": "mods/craycrafting-10.jar"
+      }
+    ]
+  }
+}

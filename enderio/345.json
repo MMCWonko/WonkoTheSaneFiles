@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "345",
+  "time": 1423190107000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.tterrag.com/job/EnderIO/345//artifact/build/libs/EnderIO-1.7.10-2.2.8.345.jar",
+        "size": 4251736,
+        "sha256": "5df7f965176af788c868cd37f4f7eeb63fedf137b93578a1146c5a30b76ce3dc",
+        "destination": "mods/enderio-345.jar"
+      }
+    ]
+  }
+}

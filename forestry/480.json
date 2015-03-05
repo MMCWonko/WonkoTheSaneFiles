@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "480",
+  "time": 1425369847371,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/480//artifact/build/dist/forestry_1.7.10-3.5.0.480-unstable.jar",
+        "size": 3029026,
+        "sha256": "047c8d74954cea970c0a342fdfb8015e3c700141e2ad6c8427569227fb10ac53",
+        "destination": "mods/forestry-480.jar"
+      }
+    ]
+  }
+}

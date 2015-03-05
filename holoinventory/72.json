@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "72",
+  "time": 1399111642000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/HoloInventory/72//artifact/build/libs/HoloInventory-1.8.0.72.jar",
+        "size": 70646,
+        "sha256": "9f231ef5a856b5d8f54162465196bfb1465f300d828b2d2c7c83c4fc714e5ba6",
+        "destination": "mods/holoinventory-72.jar"
+      }
+    ]
+  }
+}

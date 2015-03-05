@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "artifice",
+  "version": "301",
+  "time": 1413733326000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://76.72.175.100:8080/job/Artifice/301//artifact/build/libs/Artifice-1.7-1.1.4-301.jar",
+        "size": 425268,
+        "sha256": "ff99680ee95017b13766d838494fc178516772b564a2abbba3ee81fb31662648",
+        "destination": "mods/artifice-301.jar"
+      }
+    ]
+  }
+}

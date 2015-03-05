@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "184",
+  "time": 1425494770262,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.indiewikis.com:8080/job/Mekanism/184//artifact/output/MDK-1.7.10-7.1.2.184.zip",
+        "size": 44147,
+        "sha256": "1edc8c92a479a2823d8dafca4c845c9bf71c7578104b9bbe2f543b87bd1912ae",
+        "destination": "mods/mekanism-184.jar"
+      }
+    ]
+  }
+}

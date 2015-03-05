@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "extracells",
+  "version": "45",
+  "time": 1423151336541,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://shadowcity.net:8080/job/ecrv1/45//artifact/build/libs/ExtraCells-1.7.10-2.1.37b45.jar",
+        "size": 969818,
+        "sha256": "aefa9bd0a1a692aeef0b4bc737ee21681b03949fcb4e4707690ef108858f3cf8",
+        "destination": "mods/extracells-45.jar"
+      }
+    ]
+  }
+}

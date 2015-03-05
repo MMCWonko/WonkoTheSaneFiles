@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "autocrafter2000",
+  "version": "1",
+  "time": 1394997342000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/AutoCrafter2000/1//artifact/build/libs/AutoCrafter2000-1.6.4-1.0.0.1.jar",
+        "size": 12664,
+        "sha256": "fb06b9a48d348e573659d882987a79d90a19f0d5d17a2018a6c0e16ab5a39480",
+        "destination": "mods/autocrafter2000-1.jar"
+      }
+    ]
+  }
+}

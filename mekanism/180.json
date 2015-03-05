@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "180",
+  "time": 1424873721776,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.indiewikis.com:8080/job/Mekanism/180//artifact/output/MDK-1.7.10-7.1.2.180.zip",
+        "size": 44147,
+        "sha256": "527193bca6edc54781eeb4f27ee5a25a0284fde5a4b158adba6f613f6c817b1b",
+        "destination": "mods/mekanism-180.jar"
+      }
+    ]
+  }
+}

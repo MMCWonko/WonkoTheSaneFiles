@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "pay2spawn",
+  "version": "179",
+  "time": 1406830727000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/Pay2Spawn/179//artifact/build/libs/Pay2Spawn-1.7.2-2.3.0.179.jar",
+        "size": 626581,
+        "sha256": "4fb2bbb8052179ee836745c6a88f666f46fb48f619ea64742380e083b01e9338",
+        "destination": "mods/pay2spawn-179.jar"
+      }
+    ]
+  }
+}

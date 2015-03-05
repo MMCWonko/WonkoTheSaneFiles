@@ -1,0 +1,27 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkerssteelworks.ephys",
+  "name": null,
+  "versions": [
+    {
+      "id": "6",
+      "type": null,
+      "time": 1423315258798
+    },
+    {
+      "id": "5",
+      "type": null,
+      "time": 1422562515000
+    },
+    {
+      "id": "4",
+      "type": null,
+      "time": 1422228167000
+    },
+    {
+      "id": "1",
+      "type": null,
+      "time": 1422144916000
+    }
+  ]
+}

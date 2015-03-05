@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "artifice",
+  "version": "285",
+  "time": 1408579887000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://76.72.175.100:8080/job/Artifice/285//artifact/build/libs/Artifice-1.7-1.1.4-285.jar",
+        "size": 413582,
+        "sha256": "dcd3fd5e4ae5112fd473e577a8d56debda87d7a7d984339a2d9bfc84699d7c60",
+        "destination": "mods/artifice-285.jar"
+      }
+    ]
+  }
+}

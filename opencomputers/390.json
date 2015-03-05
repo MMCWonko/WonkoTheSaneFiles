@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "390",
+  "time": 1422907083194,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/390//artifact/build/libs/OpenComputers-MC1.7.10-1.4.7.390-dev-universal.jar",
+        "size": 10069433,
+        "sha256": "a635b75594a17a2a65042d7eb7321903186a11da15cd8f7dc0a9fc07e57be3db",
+        "destination": "mods/opencomputers-390.jar"
+      }
+    ]
+  }
+}

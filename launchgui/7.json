@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "launchgui",
+  "version": "7",
+  "time": 1418088226000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://tehnut.info/jenkins/job/LaunchGUI-1.7.10/7//artifact/build/libs/LaunchGui-1.7.10-1.4-7-client.jar",
+        "size": 10525,
+        "sha256": "f4811ce5a07792b6840b076dd16447107ecb7cea8a99be984871443d8b380ad5",
+        "destination": "mods/launchgui-7.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits.addons",
+  "version": "146",
+  "time": 1371006115000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/ModularPowersuitsAddons/146//artifact/build/dist/MPSA-0.2.3-146_MPS-531+.jar",
+        "size": 114595,
+        "sha256": "f68a7f582338d80defb1d41b228190679e7f65807ad28c3bb80c99e74b3fb3dd",
+        "destination": "mods/modularpowersuits.addons-146.jar"
+      }
+    ]
+  }
+}

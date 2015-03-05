@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "artifice",
+  "version": "309",
+  "time": 1419449144000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://76.72.175.100:8080/job/Artifice/309//artifact/build/libs/Artifice-1.7.10-1.1.4-309.jar",
+        "size": 437633,
+        "sha256": "148481f1d8a8af3340a427b49cfab32fb9c2db7a5f90271599ebbdfba8193161",
+        "destination": "mods/artifice-309.jar"
+      }
+    ]
+  }
+}

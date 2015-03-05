@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "123",
+  "time": 1415638607000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.indiewikis.com:8080/job/Mekanism/123//artifact/output/MDK-1.7.10-7.1.1.123.zip",
+        "size": 44175,
+        "sha256": "1f78375c5da1de7fdcc8eef69f021fe2f9ef51b0423e0014d7fc342ee66b9c45",
+        "destination": "mods/mekanism-123.jar"
+      }
+    ]
+  }
+}

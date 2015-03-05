@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "alchemyplusplus",
+  "version": "52",
+  "time": 1415334190000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.jakimfett.com/job/AlchemyPlusPlus%201.7/52//artifact/output/AlchemyPlusPlus-1.7.10-1.2.0.52.jar",
+        "size": 185515,
+        "sha256": "4df959ef2d322a7aa88458f16ee8e45e21ca59a8a63fd1b0cfa4bf05e6abe818",
+        "destination": "mods/alchemyplusplus-52.jar"
+      }
+    ]
+  }
+}

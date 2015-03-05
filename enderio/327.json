@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "327",
+  "time": 1421874982000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.tterrag.com/job/EnderIO/327//artifact/build/libs/EnderIO-1.7.10-2.2.7.327.jar",
+        "size": 4048746,
+        "sha256": "08e485c42fca35a2fba892fb3cfdccfa00c8cb1a1ce8987ead9426c119ab68f7",
+        "destination": "mods/enderio-327.jar"
+      }
+    ]
+  }
+}

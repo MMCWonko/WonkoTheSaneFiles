@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "greenthumb",
+  "version": "8",
+  "time": 1421509520000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/GreenThumb/8//artifact/build/libs/GreenThumb-1.7.10-1.1.0.8.jar",
+        "size": 6673,
+        "sha256": "cc00e159c5803aa2a528806b41bdb2ee5bc68cb4f35b56f24f0ad2939e34e12e",
+        "destination": "mods/greenthumb-8.jar"
+      }
+    ]
+  }
+}

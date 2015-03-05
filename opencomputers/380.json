@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "380",
+  "time": 1422745649504,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/380//artifact/build/libs/OpenComputers-MC1.7.10-1.4.7.380-dev-universal.jar",
+        "size": 10052972,
+        "sha256": "3654d8fd0229c5cc28455c2d3743f758e32d5beb56b065da8263a7c185c0fb27",
+        "destination": "mods/opencomputers-380.jar"
+      }
+    ]
+  }
+}

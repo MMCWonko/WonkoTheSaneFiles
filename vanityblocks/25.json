@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "vanityblocks",
+  "version": "25",
+  "time": 1381318250000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://2.iongaming.org:8080/job/VanityBlocks/25//artifact/bin/VanityBlocks-1.6.4-B25.040936f.jar",
+        "size": 682846,
+        "sha256": "4f9762062998b400360039502dfcf23a1b218d3be767216a298a26e727053420",
+        "destination": "mods/vanityblocks-25.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "artifice",
+  "version": "292",
+  "time": 1409077846000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://76.72.175.100:8080/job/Artifice/292//artifact/build/libs/Artifice-1.7-1.1.4-292.jar",
+        "size": 418392,
+        "sha256": "26becc752852dc2d5fa8208a4ce1e2220969122c154cadc9e5d80c2a4473e78b",
+        "destination": "mods/artifice-292.jar"
+      }
+    ]
+  }
+}

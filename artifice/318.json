@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "artifice",
+  "version": "318",
+  "time": 1424885750482,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://76.72.175.100:8080/job/Artifice/318//artifact/build/libs/Artifice-1.7.10-1.1.4-318.jar",
+        "size": 441008,
+        "sha256": "b8d9aafd28da54ab357d106cd396f9beddb46c29606d6177ca368553eaa5297e",
+        "destination": "mods/artifice-318.jar"
+      }
+    ]
+  }
+}

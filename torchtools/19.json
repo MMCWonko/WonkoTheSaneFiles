@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "torchtools",
+  "version": "19",
+  "time": 1409344848000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/TorchTools/19//artifact/build/libs/TorchTools-1.7.10-1.1.0.19.jar",
+        "size": 6837,
+        "sha256": "9d01457e98e83a2965b839d5c6de8b82b5f7495786b2e76153ed4e7ec7683207",
+        "destination": "mods/torchtools-19.jar"
+      }
+    ]
+  }
+}

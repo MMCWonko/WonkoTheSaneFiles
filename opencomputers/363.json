@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "363",
+  "time": 1422042203910,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/363//artifact/build/libs/OpenComputers-MC1.7.10-1.4.5.363-dev-universal.jar",
+        "size": 10016169,
+        "sha256": "bf29338ed66b0a06e100513cdb774579d99f6ee63abdc0b90550bc6f257acb4e",
+        "destination": "mods/opencomputers-363.jar"
+      }
+    ]
+  }
+}

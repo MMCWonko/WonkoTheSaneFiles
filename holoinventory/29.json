@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "29",
+  "time": 1384700537000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/HoloInventory/29//artifact/build/libs/HoloInventory-1.2.29.jar",
+        "size": 54903,
+        "sha256": "0bd35f90f959c587d59dbf4bece4dde3a00a6a331a62e17ff9f4b820462654b6",
+        "destination": "mods/holoinventory-29.jar"
+      }
+    ]
+  }
+}

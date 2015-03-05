@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "318",
+  "time": 1425321650179,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/318//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-318.jar",
+        "size": 788910,
+        "sha256": "45f8ab5d396e9bad304625da62cd279f890a46c56f4c4e1f36ed7047e3110058",
+        "destination": "mods/openmodslib-318.jar"
+      }
+    ]
+  }
+}

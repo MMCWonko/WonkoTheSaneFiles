@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "319",
+  "time": 1420579833000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.tterrag.com/job/EnderIO/319//artifact/build/libs/EnderIO-1.7.10-2.2.6.319.jar",
+        "size": 4000630,
+        "sha256": "c2b272a8e0c6a270c25018a714b76397b7952bc894f28f4000aa853e89d527c3",
+        "destination": "mods/enderio-319.jar"
+      }
+    ]
+  }
+}

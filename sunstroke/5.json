@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "sunstroke",
+  "version": "5",
+  "time": 1421218143000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://tehnut.info/jenkins/job/SunStroke/5//artifact/build/libs/SunStroke-1.7.10-1.0-5.jar",
+        "size": 9795,
+        "sha256": "d731f653772588c787380deed5fec73bb6689cf37fd60b4d9b89c169da8f62dd",
+        "destination": "mods/sunstroke-5.jar"
+      }
+    ]
+  }
+}

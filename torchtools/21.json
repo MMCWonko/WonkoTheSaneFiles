@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "torchtools",
+  "version": "21",
+  "time": 1411408822000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/TorchTools/21//artifact/build/libs/TorchTools-1.7.10-1.1.0.21.jar",
+        "size": 6916,
+        "sha256": "7328982ad7e51e3c75381a3e1daf8699d3b72f2db156ae2c53e49b24ab1b57b0",
+        "destination": "mods/torchtools-21.jar"
+      }
+    ]
+  }
+}

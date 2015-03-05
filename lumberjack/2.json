@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "lumberjack",
+  "version": "2",
+  "time": 1408147418000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/Lumberjack/2//artifact/build/libs/Lumberjack-1.7.10-1.0.0.2.jar",
+        "size": 20242,
+        "sha256": "ebc75cc7cad522b9f9bebf09ca369477875f23447f070e9914b01d1cd9bbdd1b",
+        "destination": "mods/lumberjack-2.jar"
+      }
+    ]
+  }
+}

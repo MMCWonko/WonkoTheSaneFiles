@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "modulararmour",
+  "version": "1",
+  "time": 1422748931615,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://tehnut.info/jenkins/job/ModularArmour/1//artifact/build/libs/ModularArmour-1.7.10-0.0.10-1.jar",
+        "size": 186382,
+        "sha256": "2841d2275b60603b169fecca56ddca57b0c24ff5560e200a68cb57d02c0f5ed1",
+        "destination": "mods/modulararmour-1.jar"
+      }
+    ]
+  }
+}

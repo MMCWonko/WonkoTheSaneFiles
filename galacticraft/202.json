@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "galacticraft",
+  "version": "202",
+  "time": 1411693574000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://2.iongaming.org:8080/job/Galacticraft-1.7/202//artifact/Forge/build/libs/Galacticraft-Planets-BETA-1.7-3.0.4.202.jar",
+        "size": 3212412,
+        "sha256": "464d55018eab3823d90bccb832f69c208e1b12c84bfbf20b7d1f936a7e472f36",
+        "destination": "mods/galacticraft-202.jar"
+      }
+    ]
+  }
+}

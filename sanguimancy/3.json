@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "sanguimancy",
+  "version": "3",
+  "time": 1420989474000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://tehnut.info/jenkins/job/Sanguimancy/3//artifact/build/libs/Sanguimancy-1.7.10-1.1.9Pre-3.jar",
+        "size": 1426603,
+        "sha256": "7efa741da35bec1ae70d109a2864a43fdae86767a379296b025c2b1a42c2462c",
+        "destination": "mods/sanguimancy-3.jar"
+      }
+    ]
+  }
+}

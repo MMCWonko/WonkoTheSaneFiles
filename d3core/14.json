@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "version": "14",
+  "time": 1418748192000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/D3Core/14//artifact/build/libs/D3Core-1.7.10-1.0.0.14.jar",
+        "size": 41441,
+        "sha256": "2492b10c13f45688d58a7d7082001a288c9d6c4385c0576011cba899479df465",
+        "destination": "mods/d3core-14.jar"
+      }
+    ]
+  }
+}

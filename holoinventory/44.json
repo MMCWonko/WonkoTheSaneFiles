@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "44",
+  "time": 1386447133000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/HoloInventory/44//artifact/build/libs/HoloInventory-1.5.4.44.jar",
+        "size": 68555,
+        "sha256": "d949300722fd2de2ff21519dba30365ce3a1b8ed1d93579c26b7e9c61e78b97d",
+        "destination": "mods/holoinventory-44.jar"
+      }
+    ]
+  }
+}

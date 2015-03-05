@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "minechem",
+  "version": "392",
+  "time": 1425262690467,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.jakimfett.com/job/Minechem%201.7%20v5/392//artifact/output/Minechem-1.7.10-5.0.5.392.jar",
+        "size": 1091012,
+        "sha256": "b6b268980babcaa4f8659982aa7544fca5e5ea4bea39b289d47913f8a83f3775",
+        "destination": "mods/minechem-392.jar"
+      }
+    ]
+  }
+}

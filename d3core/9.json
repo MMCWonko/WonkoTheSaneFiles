@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "version": "9",
+  "time": 1409682072000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/D3Core/9//artifact/build/libs/D3Core-1.7.10-1.0.0.9.jar",
+        "size": 13854,
+        "sha256": "960a6ed2e3fcaebf1c4a847647fe038ceaeb8ac5b954e92cc18acc47e079ab1a",
+        "destination": "mods/d3core-9.jar"
+      }
+    ]
+  }
+}

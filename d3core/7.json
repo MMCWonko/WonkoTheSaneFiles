@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "version": "7",
+  "time": 1408559526000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/D3Core/7//artifact/build/libs/D3Core-1.7.10-1.0.0.7.jar",
+        "size": 13688,
+        "sha256": "0257a0def7a5a50ff3ef35f29a4b274391259aef933802b4bc6256693e9bb869",
+        "destination": "mods/d3core-7.jar"
+      }
+    ]
+  }
+}

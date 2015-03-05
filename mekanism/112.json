@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "112",
+  "time": 1411813365000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.indiewikis.com:8080/job/Mekanism/112//artifact/output/MDK-1.7.10-7.1.1.112.zip",
+        "size": 44184,
+        "sha256": "99f24d702372d48bbaf225f36060e1104bb704ef54af6a6dbcf0bf0dd2c7a563",
+        "destination": "mods/mekanism-112.jar"
+      }
+    ]
+  }
+}

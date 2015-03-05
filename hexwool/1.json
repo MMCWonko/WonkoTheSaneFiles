@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "hexwool",
+  "version": "1",
+  "time": 1408846860000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://server.techjargaming.com:8080/job/HexWool/1//artifact/build/HexWool-1.7.10-0.4.0.1.jar",
+        "size": 78571,
+        "sha256": "ca8b3b88b0d7508f43b8a22751542192ebe42e5d91a5f21074904e36fed2ecb1",
+        "destination": "mods/hexwool-1.jar"
+      }
+    ]
+  }
+}

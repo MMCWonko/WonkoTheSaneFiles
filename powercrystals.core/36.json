@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "powercrystals.core",
+  "version": "36",
+  "time": 1362811539000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://build.technicpack.net/job/PowerCrystalsCore/36//artifact/build/dist/PowerCrystalsCore-1.1.0B1-36.jar",
+        "size": 29360,
+        "sha256": "b504a0e669ad031661ee7d13112ed8ebb5425b62e77cdf830e464d0dea010dfe",
+        "destination": "mods/powercrystals.core-36.jar"
+      }
+    ]
+  }
+}

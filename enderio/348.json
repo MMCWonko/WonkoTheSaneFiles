@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "348",
+  "time": 1423697983000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.tterrag.com/job/EnderIO/348//artifact/build/libs/EnderIO-1.7.10-2.2.8.348.jar",
+        "size": 4366541,
+        "sha256": "64871483a11d78882687d4f13d98fbf0573a839f75e7af3c552f61b98310d6e1",
+        "destination": "mods/enderio-348.jar"
+      }
+    ]
+  }
+}

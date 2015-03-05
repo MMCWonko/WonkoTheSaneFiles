@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "torchtools",
+  "version": "10",
+  "time": 1407074946000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/TorchTools/10//artifact/apiversion.txt",
+        "size": 20,
+        "sha256": "5b1473af46951c10367df259ba0cae5ad55f7dbe47b0ff10b375bedbea86b82f",
+        "destination": "mods/torchtools-10.jar"
+      }
+    ]
+  }
+}

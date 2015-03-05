@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "446",
+  "time": 1424974503816,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/446//artifact/build/libs/OpenComputers-MC1.7.10-1.5.2.446-dev-universal.jar",
+        "size": 10134620,
+        "sha256": "a2055ee0b01167c57a057f0ab11ee52a72c00d0ff2a563d5447c5ba46a1c2ec4",
+        "destination": "mods/opencomputers-446.jar"
+      }
+    ]
+  }
+}

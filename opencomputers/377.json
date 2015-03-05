@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "377",
+  "time": 1422649537368,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/377//artifact/build/libs/OpenComputers-MC1.7.10-1.4.7.377-dev-universal.jar",
+        "size": 10045016,
+        "sha256": "017aaa219c7b6594f58e93e2f14277863a5a85e6dc045273c6919dcbe5f0fa16",
+        "destination": "mods/opencomputers-377.jar"
+      }
+    ]
+  }
+}

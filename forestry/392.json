@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "392",
+  "time": 1420200124000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/392//artifact/build/dist/forestry_1.7.10-3.3.0.392-unstable.jar",
+        "size": 2957525,
+        "sha256": "a9aaadff36d4a0775f80205d276b8df94d9d4dc5e3ba7b99ce0bf0c2047d488c",
+        "destination": "mods/forestry-392.jar"
+      }
+    ]
+  }
+}

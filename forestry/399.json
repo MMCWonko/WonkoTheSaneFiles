@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "399",
+  "time": 1420519044000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/399//artifact/build/dist/forestry_1.7.10-3.3.0.399-unstable.jar",
+        "size": 2958881,
+        "sha256": "4f03a589b4d39f3603065458340bfe060cd5da221704b556f6b26c1ee3ec2ab1",
+        "destination": "mods/forestry-399.jar"
+      }
+    ]
+  }
+}

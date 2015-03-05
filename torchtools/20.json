@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "torchtools",
+  "version": "20",
+  "time": 1410104910000,
+  "data": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "type": "general.file",
+        "url": "http://jenkins.dries007.net/job/TorchTools/20//artifact/build/libs/TorchTools-1.7.10-1.1.0.20.jar",
+        "size": 6837,
+        "sha256": "d210c8b3b75650205f9cee434d8739581f2501258069a700790bd3e0318ccb86",
+        "destination": "mods/torchtools-20.jar"
+      }
+    ]
+  }
+}
