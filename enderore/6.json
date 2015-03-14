@@ -3,14 +3,19 @@
   "uid": "enderore",
   "version": "6",
   "time": 1369426544000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/EnderOre/6//artifact/build/dist/EnderOre-1.0-6.jar",
-        "size": 21045,
-        "sha256": "611d0b3137d9ba19532401b65a131fc1ee197517872b2bc6596671daea57d685",
+        "url": "http://build.technicpack.net/job/EnderOre/6/artifact/build/dist/EnderOre-1.0-6.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/enderore-6.jar"
       }
     ]

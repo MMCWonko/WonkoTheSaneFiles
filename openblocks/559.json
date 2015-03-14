@@ -3,14 +3,19 @@
   "uid": "openblocks",
   "version": "559",
   "time": 1423505338963,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenBlocks/559//artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-559.jar",
-        "size": 2552706,
-        "sha256": "97aed3329e6d4af6c4f1d8b3e27ee2a84b5afdf6fd9d9f215868682ce036c38a",
+        "url": "http://www.openmods.info:8080/job/OpenBlocks/559/artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-559.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/openblocks-559.jar"
       }
     ]

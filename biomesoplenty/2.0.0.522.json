@@ -9,14 +9,19 @@
       "version": "1.7.2"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.522.jar",
-        "size": 4750293,
-        "sha256": "134edf3dcfd337de955304e3d85b6f6998b7bd2c44a342b8b9f9a2ab8f88aebb",
+        "size": null,
+        "sha256": null,
         "destination": "mods/biomesoplenty-2.0.0.522.jar"
       }
     ]

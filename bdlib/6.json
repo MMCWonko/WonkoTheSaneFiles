@@ -3,14 +3,19 @@
   "uid": "bdlib",
   "version": "6",
   "time": 1406643645000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/6//artifact/build/libs/bdlib-mc1710-1.4.1.6.jar",
-        "size": 688905,
-        "sha256": "f8cb2d8819512a7d63c74d27488cd60111f2c3ae141e9e513b247f1e014f4ad9",
+        "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/6/artifact/build/libs/bdlib-mc1710-1.4.1.6.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/bdlib-6.jar"
       }
     ]

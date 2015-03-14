@@ -3,14 +3,19 @@
   "uid": "inventorytweaks",
   "version": "142",
   "time": 1405281071000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/Inventory-Tweaks/142//artifact/build/libs/InventoryTweaks-1.58-dev-142.jar",
-        "size": 220629,
-        "sha256": "3de2cd801f3a911b6bf2f83cfc3f0a163ba4c1e711d1606316e4f7ade0176ecb",
+        "url": "http://build.technicpack.net/job/Inventory-Tweaks/142/artifact/build/libs/InventoryTweaks-1.58-dev-142.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/inventorytweaks-142.jar"
       }
     ]

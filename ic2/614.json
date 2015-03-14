@@ -3,14 +3,19 @@
   "uid": "ic2",
   "version": "614",
   "time": 1408724676000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://jenkins.ic2.player.to/job/IC2_experimental/614//artifact/build/libs/industrialcraft-2-2.2.614-experimental.jar",
-        "size": 5125048,
-        "sha256": "c6547261aee9c6ad0c8f05ce92a41bb2d7ef6bd2886c54c8088a100c6cf782ab",
+        "url": "http://jenkins.ic2.player.to/job/IC2_experimental/614/artifact/build/libs/industrialcraft-2-2.2.614-experimental.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/ic2-614.jar"
       }
     ]

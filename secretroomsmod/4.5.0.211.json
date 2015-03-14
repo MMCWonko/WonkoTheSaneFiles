@@ -9,14 +9,19 @@
       "version": "1.4.7"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/SecretRoomsMod/SecretRoomsMod-universal-1.4.7-4.5.0.211.zip",
-        "size": 81356,
-        "sha256": "8bb1569e45b6df60fd07559da2bcb6d42eccd6088af54cee0bb574ac883e7a7d",
+        "size": null,
+        "sha256": null,
         "destination": "mods/secretroomsmod-4.5.0.211.jar"
       }
     ]

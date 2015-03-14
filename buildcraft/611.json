@@ -3,14 +3,19 @@
   "uid": "buildcraft",
   "version": "611",
   "time": 1417301648000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://nallar.me/buildservice/job/Buildcraft/611//artifact/build/libs/buildcraft-6.2.1.jar",
-        "size": 2115069,
-        "sha256": "160177c33c831bbc94c67e8dac66f7418d8078c288c63fc7832caf2581300f06",
+        "url": "http://nallar.me/buildservice/job/Buildcraft/611/artifact/build/libs/buildcraft-6.2.1.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/buildcraft-611.jar"
       }
     ]

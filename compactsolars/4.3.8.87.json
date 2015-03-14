@@ -9,14 +9,19 @@
       "version": "1.6.2"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.87.zip",
-        "size": 52201,
-        "sha256": "98d387976a56c16fc520afefb904f7a53b51592b236ce87da7ef546296223b69",
+        "size": null,
+        "sha256": null,
         "destination": "mods/compactsolars-4.3.8.87.jar"
       }
     ]

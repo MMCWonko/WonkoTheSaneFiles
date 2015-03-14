@@ -3,14 +3,19 @@
   "uid": "openperipheralsaddons",
   "version": "115",
   "time": 1402942655000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/115//artifact/build/libs/OpenPeripheralAddons-1.6.4-0.1.5-snapshot-115.jar",
-        "size": 274839,
-        "sha256": "692266dd038d664362996f4b12367db77f8189fcb8ad06c1cce789b8215b90a1",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/115/artifact/build/libs/OpenPeripheralAddons-1.6.4-0.1.5-snapshot-115.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/openperipheralsaddons-115.jar"
       }
     ]

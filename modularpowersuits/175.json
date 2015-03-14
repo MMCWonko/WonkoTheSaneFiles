@@ -3,14 +3,19 @@
   "uid": "modularpowersuits",
   "version": "175",
   "time": 1414785574000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/ModularPowersuits/175//artifact/build/libs/ModularPowersuits-0.11.0.175.jar",
-        "size": 1651341,
-        "sha256": "521ce92dddf5f33b2b0716fe5a66d7fc8924174ee6a2ed01dabf40ad661eb5e0",
+        "url": "http://build.technicpack.net/job/ModularPowersuits/175/artifact/build/libs/ModularPowersuits-0.11.0.175.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/modularpowersuits-175.jar"
       }
     ]

@@ -3,14 +3,19 @@
   "uid": "openperipheralscore",
   "version": "147",
   "time": 1415568493000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/147//artifact/build/libs/OpenPeripheralCore-1.7.10-0.5.0-snapshot-147.jar",
-        "size": 173880,
-        "sha256": "7d65ea2bdd4549cae13eef45b7b347bed0f5255b7e8e0ced1d6308370fd830dd",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/147/artifact/build/libs/OpenPeripheralCore-1.7.10-0.5.0-snapshot-147.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/openperipheralscore-147.jar"
       }
     ]

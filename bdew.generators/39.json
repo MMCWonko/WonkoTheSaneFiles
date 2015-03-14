@@ -3,14 +3,19 @@
   "uid": "bdew.generators",
   "version": "39",
   "time": 1423962906521,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://jenkins.bdew.net/job/generators-1.7.10/39//artifact/build/libs/generators-mc1710-0.9.9.39.jar",
-        "size": 704056,
-        "sha256": "82e99da4e43d85e8e524384bfa0c84536137fba53eb24fce82c7070631da5664",
+        "url": "http://jenkins.bdew.net/job/generators-1.7.10/39/artifact/build/libs/generators-mc1710-0.9.9.39.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/bdew.generators-39.jar"
       }
     ]

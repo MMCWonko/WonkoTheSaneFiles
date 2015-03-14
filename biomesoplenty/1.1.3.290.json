@@ -9,14 +9,19 @@
       "version": "1.6.4"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.290.jar",
-        "size": 5303269,
-        "sha256": "b08711be5ae5c9db89051c5f648770a454a3b53293a7b2174f212f291a8d5ba2",
+        "size": null,
+        "sha256": null,
         "destination": "mods/biomesoplenty-1.1.3.290.jar"
       }
     ]

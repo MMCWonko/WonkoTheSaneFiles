@@ -9,14 +9,19 @@
       "version": "1.6.2"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.15.jar",
-        "size": 200179,
-        "sha256": "2dd851fa05fcfcd7e018c3eec9242939cd1491ebcd3b68ff4d39d23d8541a9a7",
+        "size": null,
+        "sha256": null,
         "destination": "mods/codechicken.lib-1.0.0.15.jar"
       }
     ]

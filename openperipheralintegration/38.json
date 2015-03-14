@@ -3,14 +3,19 @@
   "uid": "openperipheralintegration",
   "version": "38",
   "time": 1423172145430,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/38//artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-38.jar",
-        "size": 212135,
-        "sha256": "db1a70ea041fc7c129492017c3c75eccf628cda91de5b12f2c238244357bd27c",
+        "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/38/artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-38.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/openperipheralintegration-38.jar"
       }
     ]

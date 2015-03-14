@@ -3,14 +3,19 @@
   "uid": "gendustry",
   "version": "51",
   "time": 1421398723000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/51//artifact/build/libs/gendustry-mc1710-1.4.4.51.jar",
-        "size": 1406772,
-        "sha256": "945784aff82a7b8d364827904005f05f09f80778f9e6bb87f5a74755676fe9c5",
+        "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/51/artifact/build/libs/gendustry-mc1710-1.4.4.51.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/gendustry-51.jar"
       }
     ]

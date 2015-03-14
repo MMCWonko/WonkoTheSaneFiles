@@ -3,14 +3,19 @@
   "uid": "gregslighting",
   "version": "7",
   "time": 1367809761000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/GregsLighting/7//artifact/build/dist/GregsLighting-1.8.1-7.jar",
-        "size": 26151,
-        "sha256": "389743a3149eacb3d6e033fd7db9245121b888a7f21bfa9c3930ba3ae23ccdb6",
+        "url": "http://build.technicpack.net/job/GregsLighting/7/artifact/build/dist/GregsLighting-1.8.1-7.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/gregslighting-7.jar"
       }
     ]

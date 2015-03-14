@@ -3,14 +3,19 @@
   "uid": "logisticspipes",
   "version": "62",
   "time": 1411832050000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/62//artifact/build/libs/logisticspipes-0.8.0.62.jar",
-        "size": 2387620,
-        "sha256": "4a162375e42f4894285552a4365e14f8c1a2d97122c026418f5baae62e2dae80",
+        "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/62/artifact/build/libs/logisticspipes-0.8.0.62.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/logisticspipes-62.jar"
       }
     ]

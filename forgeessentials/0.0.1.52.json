@@ -8,14 +8,19 @@
       "uid": "net.minecraft"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/ForgeEssentials/ForgeEssentials-universal-0.0.1.52.zip",
-        "size": 135249,
-        "sha256": "39f36e3582c98da635ca00c04490bb9f6cccb939c3acdde9e0feb53e760e1a78",
+        "size": null,
+        "sha256": null,
         "destination": "mods/forgeessentials-0.0.1.52.jar"
       }
     ]

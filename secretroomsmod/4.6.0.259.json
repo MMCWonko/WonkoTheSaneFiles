@@ -8,14 +8,19 @@
       "uid": "net.minecraft"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/SecretRoomsMod/SecretRoomsMod-universal-4.6.0.259.zip",
-        "size": 109697,
-        "sha256": "94e5846f43681f432aed22c56e1cdecfa71633ed1af23b944e0f8f6423e2c444",
+        "size": null,
+        "sha256": null,
         "destination": "mods/secretroomsmod-4.6.0.259.jar"
       }
     ]

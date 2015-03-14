@@ -3,14 +3,19 @@
   "uid": "openblocks",
   "version": "472",
   "time": 1415443801000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenBlocks/472//artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-472.jar",
-        "size": 2162772,
-        "sha256": "6f910db1e99c51d8b91036c9ea14256831b4dcb7db4411c736a16d0fb881424c",
+        "url": "http://www.openmods.info:8080/job/OpenBlocks/472/artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-472.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/openblocks-472.jar"
       }
     ]

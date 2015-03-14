@@ -3,14 +3,19 @@
   "uid": "equivalentexchange3",
   "version": "216",
   "time": 1410899227000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://nallar.me/buildservice/job/Equivalent%20Exchange%203/216//artifact/build/libs/EquivalentExchange3-1.7.10-0.2.216.jar",
-        "size": 1299855,
-        "sha256": "a9015079a4c1d6a6e1dbdaf9dc8d5617f1c21d590e197273d3882623131c52aa",
+        "url": "http://nallar.me/buildservice/job/Equivalent%20Exchange%203/216/artifact/build/libs/EquivalentExchange3-1.7.10-0.2.216.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/equivalentexchange3-216.jar"
       }
     ]

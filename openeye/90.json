@@ -3,14 +3,19 @@
   "uid": "openeye",
   "version": "90",
   "time": 1399742556000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenEye/90//artifact/mod/build/libs/OpenEye-0.4-1.6.4-snapshot-90.jar",
-        "size": 163322,
-        "sha256": "c688f694ad75004648b34c8624ca89d030b4b1f5bb0a776b722385226ece463a",
+        "url": "http://www.openmods.info:8080/job/OpenEye/90/artifact/mod/build/libs/OpenEye-0.4-1.6.4-snapshot-90.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/openeye-90.jar"
       }
     ]

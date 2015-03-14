@@ -9,14 +9,19 @@
       "version": "1.5"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5-5.2.1.287.zip",
-        "size": 116633,
-        "sha256": "bd63627a9c489d63946e56bbb1bac6bc1b968e739146b60949a9afbbef1fa825",
+        "size": null,
+        "sha256": null,
         "destination": "mods/ironchests-5.2.1.287.jar"
       }
     ]

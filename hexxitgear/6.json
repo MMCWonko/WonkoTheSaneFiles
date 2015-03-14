@@ -3,14 +3,19 @@
   "uid": "hexxitgear",
   "version": "6",
   "time": 1371450560000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/HexxitGear/6//artifact/build/dist/HexxitGear-1.0-6.jar",
-        "size": 122817,
-        "sha256": "62fd49b19ba31b9c071d934f61228f7a20c5722557ac5d06ba9c509c31b1ab99",
+        "url": "http://build.technicpack.net/job/HexxitGear/6/artifact/build/dist/HexxitGear-1.0-6.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/hexxitgear-6.jar"
       }
     ]

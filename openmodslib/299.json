@@ -3,14 +3,19 @@
   "uid": "openmodslib",
   "version": "299",
   "time": 1422392469000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenModsLib/299//artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-299.jar",
-        "size": 762651,
-        "sha256": "0e6c5c02a14a8aa0dd29fb9e1bfa8fc2dc99c3bfb53699fe6480964b2424fdc2",
+        "url": "http://www.openmods.info:8080/job/OpenModsLib/299/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-299.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/openmodslib-299.jar"
       }
     ]

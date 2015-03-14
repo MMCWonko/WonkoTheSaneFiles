@@ -3,14 +3,19 @@
   "uid": "numina",
   "version": "23",
   "time": 1383081124000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/Numina/23//artifact/dist/Numina-1.6.2-0.0.1-23.jar",
-        "size": 661159,
-        "sha256": "72af6b4de0babf80d6349aaffbf7ec5864645e88654f65c55af014d48c11817a",
+        "url": "http://build.technicpack.net/job/Numina/23/artifact/dist/Numina-1.6.2-0.0.1-23.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/numina-23.jar"
       }
     ]

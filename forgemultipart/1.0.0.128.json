@@ -9,14 +9,19 @@
       "version": "1.6.2"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-universal-1.6.2-1.0.0.128.jar",
-        "size": 785971,
-        "sha256": "5a0f02996f0de93c329811cff5683427c2a424cd55b3c45c7ab4fe754244ff35",
+        "size": null,
+        "sha256": null,
         "destination": "mods/forgemultipart-1.0.0.128.jar"
       }
     ]

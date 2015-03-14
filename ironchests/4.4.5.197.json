@@ -9,14 +9,19 @@
       "version": "1.4.6"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.4.5.197.zip",
-        "size": 91487,
-        "sha256": "697b9c7b0fa8ec8c21561d479ef6c1a55098c7321409a230d4a8c3020d9c3e60",
+        "size": null,
+        "sha256": null,
         "destination": "mods/ironchests-4.4.5.197.jar"
       }
     ]

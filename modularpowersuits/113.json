@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits",
+  "version": "113",
+  "time": 1396955056000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://build.technicpack.net/job/ModularPowersuits/113/artifact/dist/ModularPowersuits-1.6.4-0.10.0-113.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/modularpowersuits-113.jar"
+      }
+    ]
+  }
+}

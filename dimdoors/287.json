@@ -3,14 +3,19 @@
   "uid": "dimdoors",
   "version": "287",
   "time": 1390295776000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/DimDoors/287//artifact/build/dist/DimensionalDoors-2.2.1RC1-287.jar",
-        "size": 5435429,
-        "sha256": "5708c027d7a0b5d6db8701398a6d08d9890dd63409229ac4204b3092279e4b26",
+        "url": "http://build.technicpack.net/job/DimDoors/287/artifact/build/dist/DimensionalDoors-2.2.1RC1-287.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/dimdoors-287.jar"
       }
     ]

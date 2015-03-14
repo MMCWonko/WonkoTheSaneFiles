@@ -3,14 +3,19 @@
   "uid": "flatbedrock",
   "version": "18",
   "time": 1361337832000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/FlatBedrock/18//artifact/build/dist/FlatBedrock-1.0.4B1-18.jar",
-        "size": 3097,
-        "sha256": "7f199937c1fd866a9666babd678d62644376e193b02412fb7b6ac4cc11553245",
+        "url": "http://build.technicpack.net/job/FlatBedrock/18/artifact/build/dist/FlatBedrock-1.0.4B1-18.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/flatbedrock-18.jar"
       }
     ]

@@ -8,14 +8,19 @@
       "uid": "net.minecraft"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-universal-0.0.0.31.zip",
-        "size": 505696,
-        "sha256": "1318e3694a99a8dafc730ef8bd1020b8d91b0f9b10b88df02786d286c1329fb1",
+        "size": null,
+        "sha256": null,
         "destination": "mods/forgemultipart-0.0.0.31.jar"
       }
     ]

@@ -9,14 +9,19 @@
       "version": "1.6.4"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/WorldCore/WorldCore-universal-1.6.4-1.1.0.11.jar",
-        "size": 8549,
-        "sha256": "05ea1d2f5a93aa14655e0c03bcfb7dc9de6ded6ad65f4a57c646d2d9a477f782",
+        "size": null,
+        "sha256": null,
         "destination": "mods/worldcore-1.1.0.11.jar"
       }
     ]

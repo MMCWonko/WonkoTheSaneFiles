@@ -3,14 +3,19 @@
   "uid": "minefactoryreloaded",
   "version": "1012",
   "time": 1371951862000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/MineFactoryReloaded/1012//artifact/build/dist/MFR-API-2.7.0B2-1012.zip",
-        "size": 18638,
-        "sha256": "1df85ff7c8f4ba19b14d23917ccf52832094f899f71dcc6e6e5ad30561deccf8",
+        "url": "http://build.technicpack.net/job/MineFactoryReloaded/1012/artifact/build/dist/MFR-API-2.7.0B2-1012.zip",
+        "size": null,
+        "sha256": null,
         "destination": "mods/minefactoryreloaded-1012.jar"
       }
     ]

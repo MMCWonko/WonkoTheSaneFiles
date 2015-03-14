@@ -3,14 +3,19 @@
   "uid": "neiaddons",
   "version": "15",
   "time": 1423912219121,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/15//artifact/build/libs/neiaddons-mc1710-1.12.4.15.jar",
-        "size": 136749,
-        "sha256": "0b56455627600b70d93131cfcfc0adc7165e7ab9dac103a97a82106f5d066220",
+        "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/15/artifact/build/libs/neiaddons-mc1710-1.12.4.15.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/neiaddons-15.jar"
       }
     ]

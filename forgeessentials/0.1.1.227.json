@@ -9,14 +9,19 @@
       "version": "1.4.6"
     }
   ],
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
         "url": "http://files.minecraftforge.net/ForgeEssentials/ForgeEssentials-client-1.4.6-0.1.1.227.zip",
-        "size": 13712,
-        "sha256": "c198059256cddb98834b57c6f6031fdf519117d2eb1201c282d873d0ea072544",
+        "size": null,
+        "sha256": null,
         "destination": "mods/forgeessentials-0.1.1.227.jar"
       }
     ]

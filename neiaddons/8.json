@@ -3,14 +3,19 @@
   "uid": "neiaddons",
   "version": "8",
   "time": 1408872973000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/8//artifact/build/libs/neiaddons-mc1710-1.12.1.8.jar",
-        "size": 133931,
-        "sha256": "d8e7ed217b311092ff6851084aee33d379a0d52a9dd88b78bdf63e177a93001a",
+        "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/8/artifact/build/libs/neiaddons-mc1710-1.12.1.8.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/neiaddons-8.jar"
       }
     ]

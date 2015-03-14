@@ -3,14 +3,19 @@
   "uid": "openblocks",
   "version": "546",
   "time": 1422396999000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://www.openmods.info:8080/job/OpenBlocks/546//artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-546.jar",
-        "size": 2204928,
-        "sha256": "2a18c14823fda88612c6b1dc8c5736cf73c27b51be7f39371d451925814d5df6",
+        "url": "http://www.openmods.info:8080/job/OpenBlocks/546/artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-546.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/openblocks-546.jar"
       }
     ]

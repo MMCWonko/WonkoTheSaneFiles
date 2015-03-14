@@ -3,14 +3,19 @@
   "uid": "modularpowersuits.addons",
   "version": "109",
   "time": 1367120904000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://build.technicpack.net/job/ModularPowersuitsAddons/109//artifact/build/dist/MPSA-0.2.3-109_MPS-422.jar",
-        "size": 97022,
-        "sha256": "454ff6ea07507f2771261af905387cca132e92f3b0a8e05d850dcfa3afe3c99c",
+        "url": "http://build.technicpack.net/job/ModularPowersuitsAddons/109/artifact/build/dist/MPSA-0.2.3-109_MPS-422.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/modularpowersuits.addons-109.jar"
       }
     ]

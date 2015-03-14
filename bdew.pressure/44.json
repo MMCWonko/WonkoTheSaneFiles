@@ -3,14 +3,19 @@
   "uid": "bdew.pressure",
   "version": "44",
   "time": 1413985262000,
-  "data": {
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
     "general.launcher": "minecraft",
     "general.downloads": [
       {
-        "type": "general.file",
-        "url": "http://jenkins.bdew.net/job/pressure-1.7.10/44//artifact/build/libs/pressure-mc1710-1.0.0.44.jar",
-        "size": 690064,
-        "sha256": "67a0baca8fd2552f2925b9709055c45d331aaa63835634707069e6f9b02aa6f2",
+        "url": "http://jenkins.bdew.net/job/pressure-1.7.10/44/artifact/build/libs/pressure-mc1710-1.0.0.44.jar",
+        "size": null,
+        "sha256": null,
         "destination": "mods/bdew.pressure-44.jar"
       }
     ]
