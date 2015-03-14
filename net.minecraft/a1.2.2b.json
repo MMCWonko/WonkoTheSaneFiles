@@ -1,0 +1,36 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraft",
+  "version": "a1.2.2b",
+  "time": 1289340001,
+  "type": "old_alpha",
+  "client": {
+    "general.traits": [
+      "legacyLaunch"
+    ],
+    "general.launcher": "minecraft",
+    "general.folders": {
+      "minecraft/screenshots": [
+        "general.screenshots"
+      ],
+      "minecraft/texturepacks": [
+        "mc.texturepacks"
+      ]
+    },
+    "java.libraries": [
+      {
+        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.2b/a1.2.2b.jar",
+        "size": 1098114,
+        "sha256": "0da76ad8b3a555308014e0db4d28ccd51e958af5e9486f62ab9635a237bf5573",
+        "name": "net.minecraft:minecraft:a1.2.2b"
+      }
+    ],
+    "mc.arguments": " ${auth_player_name} ${auth_session}"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft"
+  }
+}

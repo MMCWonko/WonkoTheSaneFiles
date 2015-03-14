@@ -1,0 +1,30 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkersconstruct",
+  "version": "1.7.1",
+  "time": 1413453276,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/2216764",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/tinkersconstruct-1.7.1.jar"
+      }
+    ]
+  }
+}

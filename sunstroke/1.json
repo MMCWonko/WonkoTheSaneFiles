@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "sunstroke",
+  "version": "1",
+  "time": 1421134701000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://tehnut.info/jenkins/job/SunStroke/1/artifact/build/libs/SunStroke-1.7.10-1.0-1.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/sunstroke-1.jar"
+      }
+    ]
+  }
+}

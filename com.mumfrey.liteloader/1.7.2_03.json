@@ -1,0 +1,51 @@
+{
+  "formatVersion": 0,
+  "uid": "com.mumfrey.liteloader",
+  "version": "1.7.2_03",
+  "time": 1391890695,
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.2"
+    }
+  ],
+  "client": {
+    "general.launcher": "minecraft",
+    "general.folders": {
+      "minecraft/mods": [
+        "mc.liteloadermods"
+      ]
+    },
+    "java.libraries": [
+      {
+        "url": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.2/liteloader-1.7.2_03.jar",
+        "size": 277887,
+        "sha256": "f1c56b181259a35e65ea5ad9276d72133ad5450bb0315eb8ff2034c52d2e38f4",
+        "name": "com.mumfrey:liteloader:1.7.2_03"
+      },
+      {
+        "size": 33163,
+        "sha256": "c5f1ab8c8b59449e4a543f5359031f4afabb4514d8e9efdfa5639f6605b133be",
+        "name": "net.minecraft:launchwrapper:1.9",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      },
+      {
+        "size": 214593,
+        "sha256": "82a42eb3fd1af2a8901e0409c7bcaac323643ab17a217e249fd2176d3b8fabf9",
+        "name": "org.ow2.asm:asm-all:4.1",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      }
+    ],
+    "java.mainClass": "net.minecraft.launchwrapper.Launch",
+    "mc.tweakers": [
+      "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+    ]
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft"
+  }
+}

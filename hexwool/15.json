@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "hexwool",
+  "version": "15",
+  "time": 1411088293000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://server.techjargaming.com:8080/job/HexWool/15/artifact/build/libs/HexWool-1.7.10-0.4.2.15.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/hexwool-15.jar"
+      }
+    ]
+  }
+}

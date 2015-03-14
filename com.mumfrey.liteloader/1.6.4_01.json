@@ -1,0 +1,45 @@
+{
+  "formatVersion": 0,
+  "uid": "com.mumfrey.liteloader",
+  "version": "1.6.4_01",
+  "time": 1380796916,
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
+    }
+  ],
+  "client": {
+    "general.launcher": "minecraft",
+    "general.folders": {
+      "minecraft/mods": [
+        "mc.liteloadermods"
+      ]
+    },
+    "java.libraries": [
+      {
+        "url": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.6.4/liteloader-1.6.4_01.jar",
+        "size": 86443,
+        "sha256": "36a70664e6b510e93dc7ec74650258162d8b69c92b2205a8f74d460e97ac9a34",
+        "name": "com.mumfrey:liteloader:1.6.4_01"
+      },
+      {
+        "size": 28928,
+        "sha256": "ac1f5b7bf14c6ca6018343367da3bb15a5d409238a2b3d6d175edf97e15e5789",
+        "name": "net.minecraft:launchwrapper:1.8",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      }
+    ],
+    "java.mainClass": "net.minecraft.launchwrapper.Launch",
+    "mc.tweakers": [
+      "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+    ]
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft"
+  }
+}

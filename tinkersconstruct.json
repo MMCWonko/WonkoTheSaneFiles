@@ -1,0 +1,57 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkersconstruct",
+  "name": null,
+  "versions": [
+    {
+      "version": "1.8.2a",
+      "type": "Release",
+      "time": 1420634756
+    },
+    {
+      "version": "1.8.2",
+      "type": "Release",
+      "time": 1420575560
+    },
+    {
+      "version": "1.8.1",
+      "type": "Release",
+      "time": 1419343831
+    },
+    {
+      "version": "1.8.0",
+      "type": "Beta",
+      "time": 1418924562
+    },
+    {
+      "version": "1.7.1d",
+      "type": "Release",
+      "time": 1418920418
+    },
+    {
+      "version": "1.7.1c",
+      "type": "Release",
+      "time": 1414344123
+    },
+    {
+      "version": "1.7.1b",
+      "type": "Release",
+      "time": 1414339640
+    },
+    {
+      "version": "1.7.1",
+      "type": "Release",
+      "time": 1413453276
+    },
+    {
+      "version": "1.7.0d4",
+      "type": "Beta",
+      "time": 1412585436
+    },
+    {
+      "version": "1.7.0d3.1",
+      "type": "Beta",
+      "time": 1411813916
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "projectred",
+  "version": "31",
+  "time": 1396382291000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://ci.indiewikis.com:8080/job/Project%20Red/31/artifact/dist/ProjectRedBase-1.6.4-4.3.6.31.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/projectred-31.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "formatVersion": 0,
+  "uid": "bloodmagic",
+  "version": "1.3.0a",
+  "time": 1419888494,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://curse.com/mc-mods/minecraft/224791-blood-magic/2223203",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/bloodmagic-1.3.0a.jar"
+      }
+    ]
+  }
+}

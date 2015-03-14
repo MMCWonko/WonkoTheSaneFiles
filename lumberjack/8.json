@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "lumberjack",
+  "version": "8",
+  "time": 1408382247000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.dries007.net/job/Lumberjack/8/artifact/build/libs/Lumberjack-1.7.10-1.0.1.8.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/lumberjack-8.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "placeabletools",
+  "version": "7",
+  "time": 1396291541000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.dries007.net/job/PlaceableTools/7/artifact/build/libs/PlaceableTools-1.6.4-1.6.4-1.0.0.7.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/placeabletools-7.jar"
+      }
+    ]
+  }
+}

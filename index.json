@@ -98,6 +98,153 @@
     },
     {
       "uid": "modularpowersuits.addons"
+    },
+    {
+      "uid": "powercrystals.core"
+    },
+    {
+      "uid": "powerconverters"
+    },
+    {
+      "uid": "vanityblocks"
+    },
+    {
+      "uid": "galacticraft"
+    },
+    {
+      "uid": "artifice"
+    },
+    {
+      "uid": "mekanism"
+    },
+    {
+      "uid": "enderio"
+    },
+    {
+      "uid": "extracells"
+    },
+    {
+      "uid": "supermassivetech"
+    },
+    {
+      "uid": "forestry"
+    },
+    {
+      "uid": "projectred"
+    },
+    {
+      "uid": "morpheus"
+    },
+    {
+      "uid": "pay2spawn"
+    },
+    {
+      "uid": "holoinventory"
+    },
+    {
+      "uid": "placeabletools"
+    },
+    {
+      "uid": "torchtools"
+    },
+    {
+      "uid": "opencomputers"
+    },
+    {
+      "uid": "autocrafter2000"
+    },
+    {
+      "uid": "craycrafting"
+    },
+    {
+      "uid": "d3core"
+    },
+    {
+      "uid": "greenthumb"
+    },
+    {
+      "uid": "letitburn"
+    },
+    {
+      "uid": "lumberjack"
+    },
+    {
+      "uid": "hexwool"
+    },
+    {
+      "uid": "madscience"
+    },
+    {
+      "uid": "minechem"
+    },
+    {
+      "uid": "alchemyplusplus"
+    },
+    {
+      "uid": "launchgui"
+    },
+    {
+      "uid": "loaderlist"
+    },
+    {
+      "uid": "sunstroke"
+    },
+    {
+      "uid": "morechisels"
+    },
+    {
+      "uid": "chiseltones"
+    },
+    {
+      "uid": "cookiecore"
+    },
+    {
+      "uid": "modulararmour"
+    },
+    {
+      "uid": "sanguimancy"
+    },
+    {
+      "uid": "tinkerssteelworks.ephys"
+    },
+    {
+      "uid": "enderzoo"
+    },
+    {
+      "uid": "compactmachines"
+    },
+    {
+      "uid": "lanteacraft"
+    },
+    {
+      "uid": "tinkersconstruct"
+    },
+    {
+      "uid": "tinkersmechworks"
+    },
+    {
+      "uid": "endertech"
+    },
+    {
+      "uid": "bloodmagic"
+    },
+    {
+      "uid": "creepercollateral"
+    },
+    {
+      "uid": "inpurecore"
+    },
+    {
+      "uid": "net.minecraft"
+    },
+    {
+      "uid": "org.lwjgl"
+    },
+    {
+      "uid": "com.mumfrey.liteloader"
+    },
+    {
+      "uid": "net.minecraftforge"
     }
   ],
   "formatVersion": 0

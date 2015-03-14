@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "loaderlist",
+  "version": "2",
+  "time": 1414991857000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://tehnut.info/jenkins/job/LoaderList/2/artifact/build/libs/LoaderList-1.7.10-0.1-2-universal.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/loaderlist-2.jar"
+      }
+    ]
+  }
+}

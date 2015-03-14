@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "version": "6",
+  "time": 1408486559000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.dries007.net/job/D3Core/6/artifact/build/libs/D3Core-1.7.10-1.0.0.6.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/d3core-6.jar"
+      }
+    ]
+  }
+}

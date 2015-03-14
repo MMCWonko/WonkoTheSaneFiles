@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "405",
+  "time": 1420667177000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/405/artifact/build/dist/forestry_1.7.10-3.3.0.405-unstable.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/forestry-405.jar"
+      }
+    ]
+  }
+}

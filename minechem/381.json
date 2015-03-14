@@ -1,0 +1,15 @@
+{
+  "formatVersion": 0,
+  "uid": "minechem",
+  "version": "381",
+  "time": 1423535230903,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft"
+  }
+}

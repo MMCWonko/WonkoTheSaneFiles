@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "powerconverters",
+  "version": "15",
+  "time": 1393851143000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jamesmckay.id.au:8080/job/Power%20Converters/15/artifact/build/libs/PowerConverters-1.6.4-2.4.0.15.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/powerconverters-15.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "formatVersion": 0,
+  "uid": "powercrystals.core",
+  "name": null,
+  "versions": [
+    {
+      "version": "124",
+      "type": null,
+      "time": 1374205914000
+    },
+    {
+      "version": "123",
+      "type": null,
+      "time": 1374010941000
+    },
+    {
+      "version": "122",
+      "type": null,
+      "time": 1372904667000
+    },
+    {
+      "version": "121",
+      "type": null,
+      "time": 1372522944000
+    },
+    {
+      "version": "120",
+      "type": null,
+      "time": 1372456814000
+    },
+    {
+      "version": "119",
+      "type": null,
+      "time": 1371436297000
+    },
+    {
+      "version": "118",
+      "type": null,
+      "time": 1371430155000
+    },
+    {
+      "version": "117",
+      "type": null,
+      "time": 1371428880000
+    },
+    {
+      "version": "116",
+      "type": null,
+      "time": 1371426020000
+    },
+    {
+      "version": "115",
+      "type": null,
+      "time": 1371417633000
+    },
+    {
+      "version": "114",
+      "type": null,
+      "time": 1371416519000
+    },
+    {
+      "version": "113",
+      "type": null,
+      "time": 1371416194000
+    },
+    {
+      "version": "112",
+      "type": null,
+      "time": 1371340183000
+    },
+    {
+      "version": "111",
+      "type": null,
+      "time": 1370819920000
+    },
+    {
+      "version": "110",
+      "type": null,
+      "time": 1370814593000
+    },
+    {
+      "version": "109",
+      "type": null,
+      "time": 1370477201000
+    },
+    {
+      "version": "108",
+      "type": null,
+      "time": 1369100437000
+    },
+    {
+      "version": "107",
+      "type": null,
+      "time": 1369099978000
+    },
+    {
+      "version": "106",
+      "type": null,
+      "time": 1369001225000
+    },
+    {
+      "version": "105",
+      "type": null,
+      "time": 1368989562000
+    },
+    {
+      "version": "104",
+      "type": null,
+      "time": 1368984153000
+    },
+    {
+      "version": "103",
+      "type": null,
+      "time": 1368983485000
+    },
+    {
+      "version": "102",
+      "type": null,
+      "time": 1368908305000
+    },
+    {
+      "version": "101",
+      "type": null,
+      "time": 1368474410000
+    },
+    {
+      "version": "99",
+      "type": null,
+      "time": 1368291938000
+    },
+    {
+      "version": "98",
+      "type": null,
+      "time": 1368255475000
+    },
+    {
+      "version": "97",
+      "type": null,
+      "time": 1367975628000
+    },
+    {
+      "version": "96",
+      "type": null,
+      "time": 1367622414000
+    },
+    {
+      "version": "95",
+      "type": null,
+      "time": 1367622027000
+    },
+    {
+      "version": "94",
+      "type": null,
+      "time": 1367620539000
+    },
+    {
+      "version": "91",
+      "type": null,
+      "time": 1366780670000
+    },
+    {
+      "version": "90",
+      "type": null,
+      "time": 1366777701000
+    },
+    {
+      "version": "89",
+      "type": null,
+      "time": 1366579788000
+    },
+    {
+      "version": "88",
+      "type": null,
+      "time": 1366512211000
+    },
+    {
+      "version": "87",
+      "type": null,
+      "time": 1366499425000
+    },
+    {
+      "version": "86",
+      "type": null,
+      "time": 1366336164000
+    },
+    {
+      "version": "85",
+      "type": null,
+      "time": 1366335020000
+    },
+    {
+      "version": "84",
+      "type": null,
+      "time": 1366267330000
+    },
+    {
+      "version": "83",
+      "type": null,
+      "time": 1366253668000
+    },
+    {
+      "version": "82",
+      "type": null,
+      "time": 1366163159000
+    },
+    {
+      "version": "81",
+      "type": null,
+      "time": 1366096525000
+    },
+    {
+      "version": "80",
+      "type": null,
+      "time": 1366008338000
+    },
+    {
+      "version": "79",
+      "type": null,
+      "time": 1366006788000
+    },
+    {
+      "version": "78",
+      "type": null,
+      "time": 1366001915000
+    },
+    {
+      "version": "76",
+      "type": null,
+      "time": 1365998683000
+    },
+    {
+      "version": "75",
+      "type": null,
+      "time": 1365785043000
+    },
+    {
+      "version": "74",
+      "type": null,
+      "time": 1365768137000
+    },
+    {
+      "version": "73",
+      "type": null,
+      "time": 1365749540000
+    },
+    {
+      "version": "72",
+      "type": null,
+      "time": 1365742729000
+    },
+    {
+      "version": "71",
+      "type": null,
+      "time": 1365739891000
+    },
+    {
+      "version": "70",
+      "type": null,
+      "time": 1365733179000
+    },
+    {
+      "version": "69",
+      "type": null,
+      "time": 1365581124000
+    },
+    {
+      "version": "68",
+      "type": null,
+      "time": 1365213886000
+    },
+    {
+      "version": "67",
+      "type": null,
+      "time": 1365128382000
+    },
+    {
+      "version": "65",
+      "type": null,
+      "time": 1365061576000
+    },
+    {
+      "version": "64",
+      "type": null,
+      "time": 1365061247000
+    },
+    {
+      "version": "63",
+      "type": null,
+      "time": 1365046010000
+    },
+    {
+      "version": "62",
+      "type": null,
+      "time": 1365044132000
+    },
+    {
+      "version": "61",
+      "type": null,
+      "time": 1364973921000
+    },
+    {
+      "version": "57",
+      "type": null,
+      "time": 1364870648000
+    },
+    {
+      "version": "56",
+      "type": null,
+      "time": 1364870380000
+    },
+    {
+      "version": "55",
+      "type": null,
+      "time": 1364700672000
+    },
+    {
+      "version": "54",
+      "type": null,
+      "time": 1364442177000
+    },
+    {
+      "version": "53",
+      "type": null,
+      "time": 1364282101000
+    },
+    {
+      "version": "52",
+      "type": null,
+      "time": 1364280077000
+    },
+    {
+      "version": "51",
+      "type": null,
+      "time": 1364184026000
+    },
+    {
+      "version": "50",
+      "type": null,
+      "time": 1364109224000
+    },
+    {
+      "version": "49",
+      "type": null,
+      "time": 1364103765000
+    },
+    {
+      "version": "48",
+      "type": null,
+      "time": 1363595266000
+    },
+    {
+      "version": "47",
+      "type": null,
+      "time": 1363506641000
+    },
+    {
+      "version": "46",
+      "type": null,
+      "time": 1363496863000
+    },
+    {
+      "version": "45",
+      "type": null,
+      "time": 1363464199000
+    },
+    {
+      "version": "44",
+      "type": null,
+      "time": 1363336617000
+    },
+    {
+      "version": "43",
+      "type": null,
+      "time": 1363330979000
+    },
+    {
+      "version": "42",
+      "type": null,
+      "time": 1363321110000
+    },
+    {
+      "version": "41",
+      "type": null,
+      "time": 1363319735000
+    },
+    {
+      "version": "40",
+      "type": null,
+      "time": 1363316101000
+    },
+    {
+      "version": "39",
+      "type": null,
+      "time": 1362961831000
+    },
+    {
+      "version": "38",
+      "type": null,
+      "time": 1362875533000
+    },
+    {
+      "version": "36",
+      "type": null,
+      "time": 1362811539000
+    },
+    {
+      "version": "35",
+      "type": null,
+      "time": 1362268598000
+    },
+    {
+      "version": "34",
+      "type": null,
+      "time": 1362261092000
+    },
+    {
+      "version": "33",
+      "type": null,
+      "time": 1361867391000
+    },
+    {
+      "version": "32",
+      "type": null,
+      "time": 1361854763000
+    },
+    {
+      "version": "31",
+      "type": null,
+      "time": 1361854240000
+    },
+    {
+      "version": "30",
+      "type": null,
+      "time": 1361779202000
+    },
+    {
+      "version": "29",
+      "type": null,
+      "time": 1361773463000
+    },
+    {
+      "version": "28",
+      "type": null,
+      "time": 1361758428000
+    },
+    {
+      "version": "27",
+      "type": null,
+      "time": 1361757535000
+    },
+    {
+      "version": "26",
+      "type": null,
+      "time": 1361746395000
+    },
+    {
+      "version": "25",
+      "type": null,
+      "time": 1361697872000
+    }
+  ]
+}

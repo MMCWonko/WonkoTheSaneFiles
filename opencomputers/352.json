@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "352",
+  "time": 1421587871000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/352/artifact/build/libs/OpenComputers-MC1.7.10-1.4.5.352-dev-universal.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/opencomputers-352.jar"
+      }
+    ]
+  }
+}

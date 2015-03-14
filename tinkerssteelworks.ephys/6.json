@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkerssteelworks.ephys",
+  "version": "6",
+  "time": 1423315258798,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://tehnut.info/jenkins/job/TSteelworks/6/artifact/build/libs/TSteelworks-1.7.10-1.1.0-6.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/tinkerssteelworks.ephys-6.jar"
+      }
+    ]
+  }
+}

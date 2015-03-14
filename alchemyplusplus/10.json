@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "alchemyplusplus",
+  "version": "10",
+  "time": 1410163589000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.jakimfett.com/job/AlchemyPlusPlus%201.7/10/artifact/output/AlchemyPlusPlus-1.2.0.10.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/alchemyplusplus-10.jar"
+      }
+    ]
+  }
+}

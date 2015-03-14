@@ -1,0 +1,15 @@
+{
+  "formatVersion": 0,
+  "uid": "projectred",
+  "version": "28",
+  "time": 1395343224000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft"
+  }
+}

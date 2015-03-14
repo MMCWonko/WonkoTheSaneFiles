@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "powercrystals.core",
+  "version": "114",
+  "time": 1371416519000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://build.technicpack.net/job/PowerCrystalsCore/114/artifact/build/dist/PowerCrystalsCore-1.1.8B1-114.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/powercrystals.core-114.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "powerconverters",
+  "version": "39",
+  "time": 1419042656000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jamesmckay.id.au:8080/job/Power%20Converters/39/artifact/build/libs/PowerConverters-1.7.10-3.0.2.39.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/powerconverters-39.jar"
+      }
+    ]
+  }
+}

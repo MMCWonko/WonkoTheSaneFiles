@@ -1,0 +1,15 @@
+{
+  "formatVersion": 0,
+  "uid": "morpheus",
+  "version": "13",
+  "time": 1403715526000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft"
+  }
+}

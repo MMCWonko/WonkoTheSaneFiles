@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "56",
+  "time": 1389131161000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.dries007.net/job/HoloInventory/56/artifact/build/libs/HoloInventory-1.6.1.56.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/holoinventory-56.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "sanguimancy",
+  "version": "6",
+  "time": 1421035968000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://tehnut.info/jenkins/job/Sanguimancy/6/artifact/build/libs/Sanguimancy-1.7.10-1.1.9Pre-6.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/sanguimancy-6.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "formatVersion": 0,
+  "uid": "compactmachines",
+  "version": "1.8",
+  "time": 1412881300,
+  "type": "Beta",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://curse.com/mc-mods/minecraft/224218-compact-machines/2216205",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/compactmachines-1.8.jar"
+      }
+    ]
+  }
+}

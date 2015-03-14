@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "madscience",
+  "version": "135",
+  "time": 1396199008000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://madsciencemod.com:8080/job/Mad%20Science/135/artifact/output/build.properties",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/madscience-135.jar"
+      }
+    ]
+  }
+}

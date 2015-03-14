@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "vanityblocks",
+  "version": "30",
+  "time": 1381566140000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://2.iongaming.org:8080/job/VanityBlocks/30/artifact/bin/VanityBlocks-1.6.4-B30.3f1d95a.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/vanityblocks-30.jar"
+      }
+    ]
+  }
+}

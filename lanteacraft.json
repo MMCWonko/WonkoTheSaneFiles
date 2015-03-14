@@ -1,0 +1,102 @@
+{
+  "formatVersion": 0,
+  "uid": "lanteacraft",
+  "name": null,
+  "versions": [
+    {
+      "version": "68",
+      "type": "Release",
+      "time": 1421283878
+    },
+    {
+      "version": "67",
+      "type": "Release",
+      "time": 1420936801
+    },
+    {
+      "version": "63",
+      "type": "Release",
+      "time": 1419553663
+    },
+    {
+      "version": "59",
+      "type": "Release",
+      "time": 1418709078
+    },
+    {
+      "version": "58",
+      "type": "Release",
+      "time": 1418559490
+    },
+    {
+      "version": "57",
+      "type": "Release",
+      "time": 1418556456
+    },
+    {
+      "version": "56",
+      "type": "Release",
+      "time": 1418513898
+    },
+    {
+      "version": "55",
+      "type": "Beta",
+      "time": 1418509764
+    },
+    {
+      "version": "52",
+      "type": "Beta",
+      "time": 1407762747
+    },
+    {
+      "version": "51",
+      "type": "Beta",
+      "time": 1407700125
+    },
+    {
+      "version": "50",
+      "type": "Beta",
+      "time": 1407180240
+    },
+    {
+      "version": "41",
+      "type": "Beta",
+      "time": 1405496054
+    },
+    {
+      "version": "37",
+      "type": "Beta",
+      "time": 1404872812
+    },
+    {
+      "version": "34",
+      "type": "Beta",
+      "time": 1402415855
+    },
+    {
+      "version": "33",
+      "type": "Beta",
+      "time": 1402149512
+    },
+    {
+      "version": "31",
+      "type": "Beta",
+      "time": 1398620288
+    },
+    {
+      "version": "25",
+      "type": "Beta",
+      "time": 1396905866
+    },
+    {
+      "version": "23",
+      "type": "Beta",
+      "time": 1396430875
+    },
+    {
+      "version": "forge9.11.1.933-snapshot-88",
+      "type": "Release",
+      "time": 1396430528
+    }
+  ]
+}

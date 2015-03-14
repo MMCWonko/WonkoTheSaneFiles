@@ -1,0 +1,73 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge",
+  "version": "9.10.0.801",
+  "time": 1374433503,
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.2"
+    }
+  ],
+  "client": {
+    "general.launcher": "minecraft",
+    "general.folders": {
+      "minecraft/mods": [
+        "mc.forgemods",
+        "mc.forgecoremods"
+      ],
+      "minecraft/coremods": [
+        "mc.forgecoremods"
+      ]
+    },
+    "java.libraries": [
+      {
+        "size": 162,
+        "sha256": "f33c27745f2bd87344be790465ef984a972fd539dc83bd4f61d4242c607ef1ee",
+        "name": "net.minecraftforge:minecraftforge:9.10.0.801",
+        "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+      },
+      {
+        "size": 17358,
+        "sha256": "c180ec48d802c0e10a9d32e46962f5d88eff70790023e9121e920bd2a390ba1c",
+        "name": "net.minecraft:launchwrapper:1.3",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      },
+      {
+        "size": 214593,
+        "sha256": "82a42eb3fd1af2a8901e0409c7bcaac323643ab17a217e249fd2176d3b8fabf9",
+        "name": "org.ow2.asm:asm-all:4.1",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      },
+      {
+        "size": 7218348,
+        "sha256": "293769a479e6b12f66ec7187c3cc800d074ecaca798c36e70a3a4555c3171178",
+        "name": "org.scala-lang:scala-library:2.10.2",
+        "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+      },
+      {
+        "size": 14541813,
+        "sha256": "8d3723c40d104d27c9c68f9f9dc792f35f835f506d2d70d72b3f7faef1e31117",
+        "name": "org.scala-lang:scala-compiler:2.10.2",
+        "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+      },
+      {
+        "size": 5763,
+        "sha256": "6b01667c6c35c0d14db754faaa784f6fef0cf271e7526a61e1b7a5d7a3a2ea42",
+        "name": "lzma:lzma:0.0.1",
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
+      }
+    ],
+    "java.mainClass": "net.minecraft.launchwrapper.Launch",
+    "mc.tweakers": [
+      "cpw.mods.fml.common.launcher.FMLTweaker"
+    ]
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft"
+  }
+}

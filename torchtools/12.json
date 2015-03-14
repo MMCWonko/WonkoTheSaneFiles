@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "torchtools",
+  "version": "12",
+  "time": 1407102111000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.dries007.net/job/TorchTools/12/artifact/build/libs/TorchTools-1.7.10-1.0.2.12.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/torchtools-12.jar"
+      }
+    ]
+  }
+}

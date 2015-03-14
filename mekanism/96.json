@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "96",
+  "time": 1409918276000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://ci.indiewikis.com:8080/job/Mekanism/96/artifact/output/MDK-1.7.10-7.1.1.96.zip",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/mekanism-96.jar"
+      }
+    ]
+  }
+}

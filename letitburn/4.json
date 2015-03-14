@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "letitburn",
+  "version": "4",
+  "time": 1410123347000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.dries007.net/job/Let-it-Burn/4/artifact/build/libs/LetItBurn-1.7.10-1.1.0.4.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/letitburn-4.jar"
+      }
+    ]
+  }
+}

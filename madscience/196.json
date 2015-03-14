@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "madscience",
+  "version": "196",
+  "time": 1408508281000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://madsciencemod.com:8080/job/Mad%20Science/196/artifact/output/build.properties",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/madscience-196.jar"
+      }
+    ]
+  }
+}

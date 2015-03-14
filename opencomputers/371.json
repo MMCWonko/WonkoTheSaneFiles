@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "371",
+  "time": 1422363481675,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/371/artifact/build/libs/OpenComputers-MC1.7.10-1.4.6.371-dev-universal.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/opencomputers-371.jar"
+      }
+    ]
+  }
+}

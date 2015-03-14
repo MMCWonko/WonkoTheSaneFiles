@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "chiseltones",
+  "version": "1",
+  "time": 1424568553971,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://tehnut.info/jenkins/job/ChiselTones/1/artifact/build/libs/ChiselTones-1.7.10-1.0-1.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/chiseltones-1.jar"
+      }
+    ]
+  }
+}

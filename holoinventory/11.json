@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "11",
+  "time": 1384038741000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.dries007.net/job/HoloInventory/11/artifact/build/libs/HoloInventory-1.0.11.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/holoinventory-11.jar"
+      }
+    ]
+  }
+}

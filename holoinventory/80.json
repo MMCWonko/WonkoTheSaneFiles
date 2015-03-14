@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "80",
+  "time": 1404473102000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.dries007.net/job/HoloInventory/80/artifact/build/libs/HoloInventory-1.8.2.80.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/holoinventory-80.jar"
+      }
+    ]
+  }
+}

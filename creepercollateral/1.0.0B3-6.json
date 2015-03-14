@@ -1,0 +1,30 @@
+{
+  "formatVersion": 0,
+  "uid": "creepercollateral",
+  "version": "1.0.0B3-6",
+  "time": 1422655744,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://curse.com/mc-mods/minecraft/223801-creepercollateral/2225858",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/creepercollateral-1.0.0B3-6.jar"
+      }
+    ]
+  }
+}

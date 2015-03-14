@@ -1,0 +1,30 @@
+{
+  "formatVersion": 0,
+  "uid": "lanteacraft",
+  "version": "33",
+  "time": 1402149512,
+  "type": "Beta",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
+    }
+  ],
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://curse.com/mc-mods/minecraft/lanteacraft/2203913",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/lanteacraft-33.jar"
+      }
+    ]
+  }
+}

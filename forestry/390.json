@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "390",
+  "time": 1420186131000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/390/artifact/build/dist/forestry_1.7.10-3.3.0.390-unstable.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/forestry-390.jar"
+      }
+    ]
+  }
+}

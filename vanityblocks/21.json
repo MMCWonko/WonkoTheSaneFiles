@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "vanityblocks",
+  "version": "21",
+  "time": 1380246645000,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://2.iongaming.org:8080/job/VanityBlocks/21/artifact/bin/VanityBlocks-1.6.4-B21.c251c1a.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/vanityblocks-21.jar"
+      }
+    ]
+  }
+}

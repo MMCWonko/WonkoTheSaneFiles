@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "uid": "morechisels",
+  "version": "15",
+  "time": 1424458132374,
+  "client": {
+    "general.launcher": "minecraft"
+  },
+  "server": {
+    "general.launcher": "minecraft"
+  },
+  "common": {
+    "general.launcher": "minecraft",
+    "general.downloads": [
+      {
+        "url": "http://tehnut.info/jenkins/job/MoreChisels/15/artifact/build/libs/MoreChisels-1.7.10-1.0-15.jar",
+        "size": null,
+        "sha256": null,
+        "destination": "mods/morechisels-15.jar"
+      }
+    ]
+  }
+}
