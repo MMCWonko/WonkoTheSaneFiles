@@ -4,9 +4,27 @@
   "version": "428",
   "time": 1424376785840,
   "client": {
+    "rules": [
+      {
+        "action": "disallow"
+      },
+      {
+        "action": "allow",
+        "side": "client"
+      }
+    ],
     "general.launcher": "minecraft"
   },
   "server": {
+    "rules": [
+      {
+        "action": "disallow"
+      },
+      {
+        "action": "allow",
+        "side": "server"
+      }
+    ],
     "general.launcher": "minecraft"
   },
   "common": {

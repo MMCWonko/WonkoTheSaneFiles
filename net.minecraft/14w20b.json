@@ -10,6 +10,15 @@
     }
   ],
   "client": {
+    "rules": [
+      {
+        "action": "disallow"
+      },
+      {
+        "action": "allow",
+        "side": "client"
+      }
+    ],
     "general.launcher": "minecraft",
     "general.folders": {
       "minecraft/screenshots": [
@@ -149,51 +158,96 @@
         "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-32.jar",
         "size": 474226,
         "sha256": "c2d86200e7df69fa025a76abb969e00d1d7b3ddd92d4379b1d9ba3c40114012f",
+        "rules": [
+          {
+            "action": "disallow"
+          },
+          {
+            "action": "allow",
+            "os": {
+              "name": "windows",
+              "arch": "32"
+            }
+          }
+        ],
         "name": "tv.twitch:twitch-platform:6.5",
-        "mavenBaseUrl": "https://libraries.minecraft.net/",
-        "platforms": [
-          "win32"
-        ]
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
       },
       {
         "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-64.jar",
         "size": 580099,
         "sha256": "b887a36e7542b0a905d392fc1a196b221d6e20d2f1fcbd3a6511e309dc36ec69",
+        "rules": [
+          {
+            "action": "disallow"
+          },
+          {
+            "action": "allow",
+            "os": {
+              "name": "windows",
+              "arch": "32"
+            }
+          }
+        ],
         "name": "tv.twitch:twitch-platform:6.5",
-        "mavenBaseUrl": "https://libraries.minecraft.net/",
-        "platforms": [
-          "win64"
-        ]
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
       },
       {
         "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-osx.jar",
         "size": 455360,
         "sha256": "2669249889c11ea1f72a6c70e9ba275deb1277e274307e196c7f76130cff796e",
+        "rules": [
+          {
+            "action": "disallow"
+          },
+          {
+            "action": "allow",
+            "os": {
+              "name": "osx",
+              "arch": "32"
+            }
+          }
+        ],
         "name": "tv.twitch:twitch-platform:6.5",
-        "mavenBaseUrl": "https://libraries.minecraft.net/",
-        "platforms": [
-          "osx64"
-        ]
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
       },
       {
         "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar",
         "size": 5654048,
         "sha256": "37736bc243ea6c83f2e8a21d5aff76a6ae9d1eddabda2f76929f75a57d84ca72",
+        "rules": [
+          {
+            "action": "disallow"
+          },
+          {
+            "action": "allow",
+            "os": {
+              "name": "windows",
+              "arch": "32"
+            }
+          }
+        ],
         "name": "tv.twitch:twitch-external-platform:4.5",
-        "mavenBaseUrl": "https://libraries.minecraft.net/",
-        "platforms": [
-          "win32"
-        ]
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
       },
       {
         "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar",
         "size": 7457620,
         "sha256": "e1a7ae9c7b0897b312643532072c8a74c828c580f8c296b5c199fdd52c06b4e5",
+        "rules": [
+          {
+            "action": "disallow"
+          },
+          {
+            "action": "allow",
+            "os": {
+              "name": "windows",
+              "arch": "32"
+            }
+          }
+        ],
         "name": "tv.twitch:twitch-external-platform:4.5",
-        "mavenBaseUrl": "https://libraries.minecraft.net/",
-        "platforms": [
-          "win64"
-        ]
+        "mavenBaseUrl": "https://libraries.minecraft.net/"
       }
     ],
     "java.mainClass": "net.minecraft.client.main.Main",
@@ -201,6 +255,15 @@
     "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}"
   },
   "server": {
+    "rules": [
+      {
+        "action": "disallow"
+      },
+      {
+        "action": "allow",
+        "side": "server"
+      }
+    ],
     "general.launcher": "minecraft",
     "java.serverLib": {
       "url": "http://s3.amazonaws.com/Minecraft.Download/versions/14w20b/minecraft_server.14w20b.jar",

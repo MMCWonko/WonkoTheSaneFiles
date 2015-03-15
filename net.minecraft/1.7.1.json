@@ -10,6 +10,15 @@
     }
   ],
   "client": {
+    "rules": [
+      {
+        "action": "disallow"
+      },
+      {
+        "action": "allow",
+        "side": "client"
+      }
+    ],
     "general.launcher": "minecraft",
     "general.folders": {
       "minecraft/screenshots": [
@@ -136,6 +145,15 @@
     "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} --uuid ${auth_uuid} --accessToken ${auth_access_token}"
   },
   "server": {
+    "rules": [
+      {
+        "action": "disallow"
+      },
+      {
+        "action": "allow",
+        "side": "server"
+      }
+    ],
     "general.launcher": "minecraft",
     "java.serverLib": {
       "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.7.1/minecraft_server.1.7.1.jar",

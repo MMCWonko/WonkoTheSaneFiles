@@ -5,6 +5,15 @@
   "time": 1288476000,
   "type": "old_alpha",
   "client": {
+    "rules": [
+      {
+        "action": "disallow"
+      },
+      {
+        "action": "allow",
+        "side": "client"
+      }
+    ],
     "general.traits": [
       "legacyLaunch",
       "no-texturepacks"
@@ -29,6 +38,15 @@
     "mc.arguments": " ${auth_player_name} ${auth_session}"
   },
   "server": {
+    "rules": [
+      {
+        "action": "disallow"
+      },
+      {
+        "action": "allow",
+        "side": "server"
+      }
+    ],
     "general.launcher": "minecraft"
   },
   "common": {
