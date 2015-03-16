@@ -3,39 +3,41 @@
   "uid": "tinkerssteelworks.ephys",
   "version": "1",
   "time": 1422144916000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://tehnut.info/jenkins/job/TSteelworks/1/artifact/build/libs/TSteelworks-1.7.10-1.0.7-1.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/tinkerssteelworks.ephys-1.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/TSteelworks/1/artifact/build/libs/TSteelworks-1.7.10-1.0.7-1.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/tinkerssteelworks.ephys-1.jar"
+        }
+      ]
+    }
+  ]
 }

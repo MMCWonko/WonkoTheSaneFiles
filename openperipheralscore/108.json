@@ -3,39 +3,41 @@
   "uid": "openperipheralscore",
   "version": "108",
   "time": 1396134338000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/108/artifact/build/dist/OpenPeripheralCore-0.3.3-snapshot-108.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/openperipheralscore-108.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/108/artifact/build/dist/OpenPeripheralCore-0.3.3-snapshot-108.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-108.jar"
+        }
+      ]
+    }
+  ]
 }

@@ -4,53 +4,55 @@
   "version": "a1.0.4",
   "time": 1278626400,
   "type": "old_alpha",
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.traits": [
-      "legacyLaunch",
-      "no-texturepacks"
-    ],
-    "general.launcher": "minecraft",
-    "general.folders": {
-      "minecraft/screenshots": [
-        "general.screenshots"
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
       ],
-      "minecraft/texturepacks": [
-        "mc.texturepacks"
-      ]
-    },
-    "java.libraries": [
-      {
-        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.4/a1.0.4.jar",
-        "size": 749245,
-        "sha256": "6544117181c9693d7f49d6a31fc3b96f7c35779fa8de50faef715dc1546b1ba6",
-        "name": "net.minecraft:minecraft:a1.0.4"
-      }
-    ],
-    "java.mainClass": "ax",
-    "mc.arguments": " ${auth_player_name} ${auth_session}"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
+      "general.traits": [
+        "legacyLaunch",
+        "no-texturepacks"
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ]
       },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft"
-  }
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.4/a1.0.4.jar",
+          "size": 749245,
+          "sha256": "6544117181c9693d7f49d6a31fc3b96f7c35779fa8de50faef715dc1546b1ba6",
+          "name": "net.minecraft:minecraft:a1.0.4"
+        }
+      ],
+      "java.mainClass": "ax",
+      "mc.arguments": " ${auth_player_name} ${auth_session}"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
 }

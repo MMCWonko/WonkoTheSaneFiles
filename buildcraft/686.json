@@ -3,39 +3,41 @@
   "uid": "buildcraft",
   "version": "686",
   "time": 1422658446033,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://nallar.me/buildservice/job/Buildcraft/686/artifact/build/libs/buildcraft-6.3.4.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/buildcraft-686.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://nallar.me/buildservice/job/Buildcraft/686/artifact/build/libs/buildcraft-6.3.4.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/buildcraft-686.jar"
+        }
+      ]
+    }
+  ]
 }

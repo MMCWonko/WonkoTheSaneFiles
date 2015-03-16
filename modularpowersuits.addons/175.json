@@ -3,39 +3,41 @@
   "uid": "modularpowersuits.addons",
   "version": "175",
   "time": 1372619302000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://build.technicpack.net/job/ModularPowersuitsAddons/175/artifact/build/dist/MPSA-0.3.0-175_MPS-561+.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/modularpowersuits.addons-175.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/ModularPowersuitsAddons/175/artifact/build/dist/MPSA-0.3.0-175_MPS-561+.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modularpowersuits.addons-175.jar"
+        }
+      ]
+    }
+  ]
 }

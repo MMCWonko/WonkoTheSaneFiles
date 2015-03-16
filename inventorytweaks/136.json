@@ -3,39 +3,41 @@
   "uid": "inventorytweaks",
   "version": "136",
   "time": 1404050804000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://build.technicpack.net/job/Inventory-Tweaks/136/artifact/build/libs/InventoryTweaks-1.58-dev-136.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/inventorytweaks-136.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Inventory-Tweaks/136/artifact/build/libs/InventoryTweaks-1.58-dev-136.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/inventorytweaks-136.jar"
+        }
+      ]
+    }
+  ]
 }

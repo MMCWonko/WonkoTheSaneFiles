@@ -3,39 +3,41 @@
   "uid": "supermassivetech",
   "version": "109",
   "time": 1424602838000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://ci.tterrag.com/job/Super%20Massive%20Tech/109/artifact/build/libs/SuperMassiveTech-MC1.7.10-0.3.0-alpha-109.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/supermassivetech-109.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/Super%20Massive%20Tech/109/artifact/build/libs/SuperMassiveTech-MC1.7.10-0.3.0-alpha-109.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/supermassivetech-109.jar"
+        }
+      ]
+    }
+  ]
 }

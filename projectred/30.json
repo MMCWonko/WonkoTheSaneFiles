@@ -3,39 +3,41 @@
   "uid": "projectred",
   "version": "30",
   "time": 1395770650000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://ci.indiewikis.com:8080/job/Project%20Red/30/artifact/dist/ProjectRedBase-1.6.4-4.3.5.30.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/projectred-30.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Project%20Red/30/artifact/dist/ProjectRedBase-1.6.4-4.3.5.30.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/projectred-30.jar"
+        }
+      ]
+    }
+  ]
 }

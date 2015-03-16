@@ -3,39 +3,41 @@
   "uid": "powercrystals.core",
   "version": "96",
   "time": 1367622414000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://build.technicpack.net/job/PowerCrystalsCore/96/artifact/build/dist/PowerCrystalsCore-1.1.4-96.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/powercrystals.core-96.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/PowerCrystalsCore/96/artifact/build/dist/PowerCrystalsCore-1.1.4-96.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/powercrystals.core-96.jar"
+        }
+      ]
+    }
+  ]
 }

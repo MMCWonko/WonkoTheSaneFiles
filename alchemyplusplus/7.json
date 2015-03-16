@@ -3,39 +3,41 @@
   "uid": "alchemyplusplus",
   "version": "7",
   "time": 1410161249000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.jakimfett.com/job/AlchemyPlusPlus%201.7/7/artifact/output/AlchemyPlusPlus-1.2.0.7.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/alchemyplusplus-7.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.jakimfett.com/job/AlchemyPlusPlus%201.7/7/artifact/output/AlchemyPlusPlus-1.2.0.7.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/alchemyplusplus-7.jar"
+        }
+      ]
+    }
+  ]
 }

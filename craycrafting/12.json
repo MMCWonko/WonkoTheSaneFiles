@@ -3,39 +3,41 @@
   "uid": "craycrafting",
   "version": "12",
   "time": 1408871465000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.dries007.net/job/CrayCrafting/12/artifact/build/libs/CrayCrafting-1.7.10-1.3.0.12.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/craycrafting-12.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/CrayCrafting/12/artifact/build/libs/CrayCrafting-1.7.10-1.3.0.12.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/craycrafting-12.jar"
+        }
+      ]
+    }
+  ]
 }

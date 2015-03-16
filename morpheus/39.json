@@ -3,39 +3,41 @@
   "uid": "morpheus",
   "version": "39",
   "time": 1422889881103,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.qmunity.co.uk/job/Morpheus/39/artifact/build/libs/Morpheus-1.8-2.0.39.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/morpheus-39.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.qmunity.co.uk/job/Morpheus/39/artifact/build/libs/Morpheus-1.8-2.0.39.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/morpheus-39.jar"
+        }
+      ]
+    }
+  ]
 }

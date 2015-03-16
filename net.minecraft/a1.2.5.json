@@ -4,51 +4,53 @@
   "version": "a1.2.5",
   "time": 1291154400,
   "type": "old_alpha",
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.traits": [
-      "legacyLaunch"
-    ],
-    "general.launcher": "minecraft",
-    "general.folders": {
-      "minecraft/screenshots": [
-        "general.screenshots"
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
       ],
-      "minecraft/texturepacks": [
-        "mc.texturepacks"
-      ]
-    },
-    "java.libraries": [
-      {
-        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.5/a1.2.5.jar",
-        "size": 1104245,
-        "sha256": "b0dbbfb3e49249fb550ea30bb37a559cde492323913ba46eaf285d68ce7c641f",
-        "name": "net.minecraft:minecraft:a1.2.5"
-      }
-    ],
-    "mc.arguments": " ${auth_player_name} ${auth_session}"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
+      "general.traits": [
+        "legacyLaunch"
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ]
       },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft"
-  }
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.5/a1.2.5.jar",
+          "size": 1104245,
+          "sha256": "b0dbbfb3e49249fb550ea30bb37a559cde492323913ba46eaf285d68ce7c641f",
+          "name": "net.minecraft:minecraft:a1.2.5"
+        }
+      ],
+      "mc.arguments": " ${auth_player_name} ${auth_session}"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
 }

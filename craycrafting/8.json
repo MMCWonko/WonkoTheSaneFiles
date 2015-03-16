@@ -3,39 +3,41 @@
   "uid": "craycrafting",
   "version": "8",
   "time": 1407841334000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.dries007.net/job/CrayCrafting/8/artifact/build/libs/CrayCrafting-1.7.10-1.0.0.8.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/craycrafting-8.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/CrayCrafting/8/artifact/build/libs/CrayCrafting-1.7.10-1.0.0.8.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/craycrafting-8.jar"
+        }
+      ]
+    }
+  ]
 }

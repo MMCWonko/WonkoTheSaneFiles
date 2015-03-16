@@ -10,39 +10,41 @@
       "version": "1.7.10"
     }
   ],
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/2210810",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/minefactoryreloaded-2.8.0RC2-557.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/2210810",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/minefactoryreloaded-2.8.0RC2-557.jar"
+        }
+      ]
+    }
+  ]
 }

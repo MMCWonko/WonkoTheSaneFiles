@@ -4,54 +4,56 @@
   "version": "b1.3b",
   "time": 1298325600,
   "type": "old_beta",
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.traits": [
+        "legacyLaunch"
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ],
+        "minecraft/saves": [
+          "mc.saves.region"
+        ]
       },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.traits": [
-      "legacyLaunch"
-    ],
-    "general.launcher": "minecraft",
-    "general.folders": {
-      "minecraft/screenshots": [
-        "general.screenshots"
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.3b/b1.3b.jar",
+          "size": 1250446,
+          "sha256": "3310c6fae2a4499bf3cd0b75db19021ebb3f47d1f11dd753c6a4d6b80925a067",
+          "name": "net.minecraft:minecraft:b1.3b"
+        }
       ],
-      "minecraft/texturepacks": [
-        "mc.texturepacks"
-      ],
-      "minecraft/saves": [
-        "mc.saves.region"
-      ]
+      "mc.arguments": " ${auth_player_name} ${auth_session}"
     },
-    "java.libraries": [
-      {
-        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.3b/b1.3b.jar",
-        "size": 1250446,
-        "sha256": "3310c6fae2a4499bf3cd0b75db19021ebb3f47d1f11dd753c6a4d6b80925a067",
-        "name": "net.minecraft:minecraft:b1.3b"
-      }
-    ],
-    "mc.arguments": " ${auth_player_name} ${auth_session}"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft"
-  }
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
 }

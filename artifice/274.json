@@ -3,39 +3,41 @@
   "uid": "artifice",
   "version": "274",
   "time": 1407290448000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://76.72.175.100:8080/job/Artifice/274/artifact/build/libs/Artifice-1.7-1.1.4-274.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/artifice-274.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://76.72.175.100:8080/job/Artifice/274/artifact/build/libs/Artifice-1.7-1.1.4-274.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/artifice-274.jar"
+        }
+      ]
+    }
+  ]
 }

@@ -3,39 +3,41 @@
   "uid": "minefactoryreloaded",
   "version": "1097",
   "time": 1374792233000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://build.technicpack.net/job/MineFactoryReloaded/1097/artifact/build/dist/MFR-API-2.7.0B8-1097.zip",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/minefactoryreloaded-1097.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/MineFactoryReloaded/1097/artifact/build/dist/MFR-API-2.7.0B8-1097.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/minefactoryreloaded-1097.jar"
+        }
+      ]
+    }
+  ]
 }

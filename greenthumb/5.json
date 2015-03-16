@@ -3,39 +3,41 @@
   "uid": "greenthumb",
   "version": "5",
   "time": 1419837558000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.dries007.net/job/GreenThumb/5/artifact/build/libs/GreenThumb-1.7.10-1.1.0.5.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/greenthumb-5.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/GreenThumb/5/artifact/build/libs/GreenThumb-1.7.10-1.1.0.5.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/greenthumb-5.jar"
+        }
+      ]
+    }
+  ]
 }

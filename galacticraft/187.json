@@ -3,39 +3,41 @@
   "uid": "galacticraft",
   "version": "187",
   "time": 1410456238000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://2.iongaming.org:8080/job/Galacticraft-1.7/187/artifact/Forge/build/libs/Galacticraft-Planets-BETA-1.7-3.0.2.187.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/galacticraft-187.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://2.iongaming.org:8080/job/Galacticraft-1.7/187/artifact/Forge/build/libs/Galacticraft-Planets-BETA-1.7-3.0.2.187.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/galacticraft-187.jar"
+        }
+      ]
+    }
+  ]
 }

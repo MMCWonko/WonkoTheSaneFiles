@@ -3,39 +3,41 @@
   "uid": "holoinventory",
   "version": "27",
   "time": 1384635321000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.dries007.net/job/HoloInventory/27/artifact/build/libs/HoloInventory-1.1.27.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/holoinventory-27.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/HoloInventory/27/artifact/build/libs/HoloInventory-1.1.27.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/holoinventory-27.jar"
+        }
+      ]
+    }
+  ]
 }

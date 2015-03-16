@@ -3,39 +3,41 @@
   "uid": "letitburn",
   "version": "1",
   "time": 1407631121000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.dries007.net/job/Let-it-Burn/1/artifact/build/libs/Let-it-Burn-1.7.10-1.0.0.1.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/letitburn-1.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/Let-it-Burn/1/artifact/build/libs/Let-it-Burn-1.7.10-1.0.0.1.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/letitburn-1.jar"
+        }
+      ]
+    }
+  ]
 }

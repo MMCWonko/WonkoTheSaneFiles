@@ -4,54 +4,56 @@
   "version": "1.3.2",
   "time": 1345068000,
   "type": "release",
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.traits": [
+        "legacyLaunch"
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ],
+        "minecraft/saves": [
+          "mc.saves.anvil"
+        ]
       },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.traits": [
-      "legacyLaunch"
-    ],
-    "general.launcher": "minecraft",
-    "general.folders": {
-      "minecraft/screenshots": [
-        "general.screenshots"
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.3.2/1.3.2.jar",
+          "size": 4586020,
+          "sha256": "3ac5797f4517bfb620df228c1fdac89d89355c85d87c65b197d64711a900c882",
+          "name": "net.minecraft:minecraft:1.3.2"
+        }
       ],
-      "minecraft/texturepacks": [
-        "mc.texturepacks"
-      ],
-      "minecraft/saves": [
-        "mc.saves.anvil"
-      ]
+      "mc.arguments": " ${auth_player_name} ${auth_session}"
     },
-    "java.libraries": [
-      {
-        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.3.2/1.3.2.jar",
-        "size": 4586020,
-        "sha256": "3ac5797f4517bfb620df228c1fdac89d89355c85d87c65b197d64711a900c882",
-        "name": "net.minecraft:minecraft:1.3.2"
-      }
-    ],
-    "mc.arguments": " ${auth_player_name} ${auth_session}"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft"
-  }
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
 }

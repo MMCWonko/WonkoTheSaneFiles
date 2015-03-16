@@ -3,39 +3,41 @@
   "uid": "bdew.pressure",
   "version": "41",
   "time": 1413813408000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.bdew.net/job/pressure-1.7.10/41/artifact/build/libs/pressure-mc1710-0.9.6.41.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/bdew.pressure-41.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/pressure-1.7.10/41/artifact/build/libs/pressure-mc1710-0.9.6.41.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.pressure-41.jar"
+        }
+      ]
+    }
+  ]
 }

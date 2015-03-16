@@ -3,39 +3,41 @@
   "uid": "neiaddons",
   "version": "1",
   "time": 1405329817000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/1/artifact/build/libs/neiaddons-mc1710-1.12.0.1.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/neiaddons-1.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/1/artifact/build/libs/neiaddons-mc1710-1.12.0.1.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/neiaddons-1.jar"
+        }
+      ]
+    }
+  ]
 }

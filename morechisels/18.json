@@ -3,39 +3,41 @@
   "uid": "morechisels",
   "version": "18",
   "time": 1425087821084,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://tehnut.info/jenkins/job/MoreChisels/18/artifact/build/libs/MoreChisels-1.7.10-1.0-18.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/morechisels-18.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/MoreChisels/18/artifact/build/libs/MoreChisels-1.7.10-1.0-18.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/morechisels-18.jar"
+        }
+      ]
+    }
+  ]
 }

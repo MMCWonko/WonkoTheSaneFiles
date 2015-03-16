@@ -4,54 +4,56 @@
   "version": "inf-20100618",
   "time": 1276639200,
   "type": "old_alpha",
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.traits": [
-      "legacyLaunch",
-      "no-texturepacks"
-    ],
-    "general.launcher": "minecraft",
-    "general.folders": {
-      "minecraft/screenshots": [
-        "general.screenshots"
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
       ],
-      "minecraft/texturepacks": [
-        "mc.texturepacks"
-      ]
-    },
-    "java.libraries": [
-      {
-        "url": "http://s3.amazonaws.com/Minecraft.Download/versions/inf-20100618/inf-20100618.jar",
-        "size": 601474,
-        "sha256": "2159fefa461f3a10ab545fc6b5d42ed5dbba655469f705711bb9cff79ae1a4be",
-        "name": "net.minecraft:minecraft:inf-20100618"
-      }
-    ],
-    "java.mainClass": "net.minecraft.client.d",
-    "mc.appletClass": "net.minecraft.client.MinecraftApplet",
-    "mc.arguments": " ${auth_player_name} ${auth_session}"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
+      "general.traits": [
+        "legacyLaunch",
+        "no-texturepacks"
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ]
       },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft"
-  }
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/inf-20100618/inf-20100618.jar",
+          "size": 601474,
+          "sha256": "2159fefa461f3a10ab545fc6b5d42ed5dbba655469f705711bb9cff79ae1a4be",
+          "name": "net.minecraft:minecraft:inf-20100618"
+        }
+      ],
+      "java.mainClass": "net.minecraft.client.d",
+      "mc.appletClass": "net.minecraft.client.MinecraftApplet",
+      "mc.arguments": " ${auth_player_name} ${auth_session}"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
 }

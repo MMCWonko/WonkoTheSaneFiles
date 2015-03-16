@@ -3,39 +3,41 @@
   "uid": "sanguimancy",
   "version": "11",
   "time": 1421265904000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://tehnut.info/jenkins/job/Sanguimancy/11/artifact/build/libs/Sanguimancy-1.7.10-1.1.9Pre-11.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/sanguimancy-11.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/Sanguimancy/11/artifact/build/libs/Sanguimancy-1.7.10-1.1.9Pre-11.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/sanguimancy-11.jar"
+        }
+      ]
+    }
+  ]
 }

@@ -3,39 +3,41 @@
   "uid": "opencomputers",
   "version": "5",
   "time": 1424393033786,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://ci.cil.li/job/OpenComputers-1.5-MC1.7.10/5/artifact/build/libs/OpenComputers-MC1.7.10-1.5.0.5-universal.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/opencomputers-5.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-1.5-MC1.7.10/5/artifact/build/libs/OpenComputers-MC1.7.10-1.5.0.5-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-5.jar"
+        }
+      ]
+    }
+  ]
 }

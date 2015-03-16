@@ -3,39 +3,41 @@
   "uid": "forestry",
   "version": "456",
   "time": 1423042185000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/456/artifact/build/dist/forestry_1.7.10-3.5.0.456-unstable.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/forestry-456.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/456/artifact/build/dist/forestry_1.7.10-3.5.0.456-unstable.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-456.jar"
+        }
+      ]
+    }
+  ]
 }

@@ -3,39 +3,41 @@
   "uid": "hexwool",
   "version": "4",
   "time": 1408853455000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://server.techjargaming.com:8080/job/HexWool/4/artifact/build/HexWool-1.7.10-0.4.1.4.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/hexwool-4.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://server.techjargaming.com:8080/job/HexWool/4/artifact/build/HexWool-1.7.10-0.4.1.4.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/hexwool-4.jar"
+        }
+      ]
+    }
+  ]
 }

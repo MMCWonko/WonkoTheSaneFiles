@@ -3,39 +3,41 @@
   "uid": "enderio",
   "version": "335",
   "time": 1422833693000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://ci.tterrag.com/job/EnderIO/335/artifact/build/libs/EnderIO-1.7.10-2.2.7.335.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/enderio-335.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/335/artifact/build/libs/EnderIO-1.7.10-2.2.7.335.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-335.jar"
+        }
+      ]
+    }
+  ]
 }

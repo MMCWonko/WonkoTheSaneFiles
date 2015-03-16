@@ -3,39 +3,41 @@
   "uid": "gendustry",
   "version": "42",
   "time": 1414222764000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/42/artifact/build/libs/gendustry-mc1710-1.4.0.42.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/gendustry-42.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/42/artifact/build/libs/gendustry-mc1710-1.4.0.42.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-42.jar"
+        }
+      ]
+    }
+  ]
 }

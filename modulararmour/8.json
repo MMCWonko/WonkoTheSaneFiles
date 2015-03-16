@@ -3,39 +3,41 @@
   "uid": "modulararmour",
   "version": "8",
   "time": 1425441169903,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://tehnut.info/jenkins/job/ModularArmour/8/artifact/build/libs/ModularArmour-1.7.10-0.0.10-8.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/modulararmour-8.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/ModularArmour/8/artifact/build/libs/ModularArmour-1.7.10-0.0.10-8.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modulararmour-8.jar"
+        }
+      ]
+    }
+  ]
 }

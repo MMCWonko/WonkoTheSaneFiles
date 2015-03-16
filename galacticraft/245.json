@@ -3,39 +3,41 @@
   "uid": "galacticraft",
   "version": "245",
   "time": 1417967432000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://2.iongaming.org:8080/job/Galacticraft-1.7/245/artifact/Forge/build/libs/Galacticraft-Planets-1.7-3.0.6.245.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/galacticraft-245.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://2.iongaming.org:8080/job/Galacticraft-1.7/245/artifact/Forge/build/libs/Galacticraft-Planets-1.7-3.0.6.245.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/galacticraft-245.jar"
+        }
+      ]
+    }
+  ]
 }

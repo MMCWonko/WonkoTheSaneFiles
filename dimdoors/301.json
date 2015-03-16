@@ -3,39 +3,41 @@
   "uid": "dimdoors",
   "version": "301",
   "time": 1390857994000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://build.technicpack.net/job/DimDoors/301/artifact/build/dist/DimensionalDoors-2.2.1RC1-301.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/dimdoors-301.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/DimDoors/301/artifact/build/dist/DimensionalDoors-2.2.1RC1-301.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/dimdoors-301.jar"
+        }
+      ]
+    }
+  ]
 }

@@ -3,39 +3,41 @@
   "uid": "minechem",
   "version": "393",
   "time": 1425488050545,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.jakimfett.com/job/Minechem%201.7%20v5/393/artifact/output/Minechem-1.7.10-5.0.5.393.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/minechem-393.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.jakimfett.com/job/Minechem%201.7%20v5/393/artifact/output/Minechem-1.7.10-5.0.5.393.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/minechem-393.jar"
+        }
+      ]
+    }
+  ]
 }

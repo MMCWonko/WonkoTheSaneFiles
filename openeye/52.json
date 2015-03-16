@@ -3,39 +3,41 @@
   "uid": "openeye",
   "version": "52",
   "time": 1398714801000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://www.openmods.info:8080/job/OpenEye/52/artifact/mod/build/libs/OpenEye-0.1-snapshot-52.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/openeye-52.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenEye/52/artifact/mod/build/libs/OpenEye-0.1-snapshot-52.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openeye-52.jar"
+        }
+      ]
+    }
+  ]
 }

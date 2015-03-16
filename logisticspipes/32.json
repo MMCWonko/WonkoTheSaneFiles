@@ -3,39 +3,41 @@
   "uid": "logisticspipes",
   "version": "32",
   "time": 1356139365000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://ci.thezorro266.com/job/LogisticsPipesMC1.4.7/32/artifact/build/dist/LogisticsPipes-1.4.6-0.6.9.32.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/logisticspipes-32.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.thezorro266.com/job/LogisticsPipesMC1.4.7/32/artifact/build/dist/LogisticsPipes-1.4.6-0.6.9.32.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/logisticspipes-32.jar"
+        }
+      ]
+    }
+  ]
 }

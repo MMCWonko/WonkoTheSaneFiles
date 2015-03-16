@@ -3,39 +3,41 @@
   "uid": "launchgui",
   "version": "5",
   "time": 1417085403000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://tehnut.info/jenkins/job/LaunchGUI-1.8/5/artifact/build/libs/LaunchGui-1.8-1.4-5-client.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/launchgui-5.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/LaunchGUI-1.8/5/artifact/build/libs/LaunchGui-1.8-1.4-5-client.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/launchgui-5.jar"
+        }
+      ]
+    }
+  ]
 }

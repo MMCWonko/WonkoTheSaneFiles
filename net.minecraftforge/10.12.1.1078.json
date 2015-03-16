@@ -10,78 +10,183 @@
       "version": "1.7.2"
     }
   ],
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.forgemods"
+        ]
       },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft",
-    "general.folders": {
-      "minecraft/mods": [
-        "mc.forgemods"
-      ]
+      "java.libraries": [
+        {
+          "size": 2369684,
+          "sha256": "f92eaca0d261f63457d1b7e1c1fe8d0ca74a7e8caa2252c1a39b3de80abd9551",
+          "name": "net.minecraftforge:forge:1.7.2-10.12.1.1078:universal",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": 33163,
+          "sha256": "c5f1ab8c8b59449e4a543f5359031f4afabb4514d8e9efdfa5639f6605b133be",
+          "name": "net.minecraft:launchwrapper:1.9",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 214593,
+          "sha256": "82a42eb3fd1af2a8901e0409c7bcaac323643ab17a217e249fd2176d3b8fabf9",
+          "name": "org.ow2.asm:asm-all:4.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 7218348,
+          "sha256": "293769a479e6b12f66ec7187c3cc800d074ecaca798c36e70a3a4555c3171178",
+          "name": "org.scala-lang:scala-library:2.10.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 14541813,
+          "sha256": "8d3723c40d104d27c9c68f9f9dc792f35f835f506d2d70d72b3f7faef1e31117",
+          "name": "org.scala-lang:scala-compiler:2.10.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 289882,
+          "sha256": "9f3bb4c3c91941763041de3e17f594f452a09a6410123b24ce0ed096a1a6582f",
+          "name": "java3d:vecmath:1.3.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 2523219,
+          "sha256": "c970a09a4d319942beb2b154f3a6b791ba3a687aaa1bc65d9e52934b1abb145e",
+          "name": "net.sf.trove4j:trove4j:3.0.3",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 244,
+          "sha256": "915fefe29ec67578f10fb1273dc9e3455eee7a1b53e60378e69dee652a24e3ec",
+          "name": "com.ibm.icu:icu4j-core-mojang:51.2",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 61312,
+          "sha256": "15db96ed0321c714dd7fa88da15005f59dc89e701ce105b592b9e9a57ea26ba7",
+          "name": "net.sf.jopt-simple:jopt-simple:4.5",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 5763,
+          "sha256": "6b01667c6c35c0d14db754faaa784f6fef0cf271e7526a61e1b7a5d7a3a2ea42",
+          "name": "lzma:lzma:0.0.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 244,
+          "sha256": "17b997dc820b950e4191eacc30032b783789ce9d84bfd8c567e7521d029603c3",
+          "name": "com.paulscode:codecjorbis:20101023",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 244,
+          "sha256": "80ff25dcc01917a4299a426890e33e7911c7d03a8f73c29606b5f26453e57d54",
+          "name": "com.paulscode:codecwav:20101023",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 244,
+          "sha256": "7eba2137667eb1a0543fd5e8bc65b72c340e9f4127d5fbf86a0820e9b0113796",
+          "name": "com.paulscode:libraryjavasound:20101123",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 244,
+          "sha256": "cc9b2979603c7be682b7fab2f0f286b439c62bc250a250d40490320634fe09bf",
+          "name": "com.paulscode:librarylwjglopenal:20100824",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 232,
+          "sha256": "f703be501c565c0c2018615f31c31fdda7cd0a7c870664cb35be7674e8a8e49f",
+          "name": "com.paulscode:soundsystem:20120107",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 1452996,
+          "sha256": "c087f0389b761e3e352679a58b37790e2395f3875add370acea37a7e94aee157",
+          "name": "io.netty:netty-all:4.0.10.Final",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 2172169,
+          "sha256": "2de68c47ca7b679d4ccad75059b2364dfcc02305ca4769365a0fbaa59580a740",
+          "name": "com.google.guava:guava:15.0",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 315806,
+          "sha256": "ad7966d6b3e5f0d052ac3d734164c83dce751bb3722ea3f8dca5b3019f62f4aa",
+          "name": "org.apache.commons:commons-lang3:3.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 185141,
+          "sha256": "b9655f5344b05081ad34101acb9635984a0179fd72f0eea61d7bd79fda5761fc",
+          "name": "commons-io:commons-io:2.4",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 190433,
+          "sha256": "5f40a1a511526c08178439d20b9bb9259991740600a5268cc504d63c6f73d963",
+          "name": "com.google.code.gson:gson:2.2.4",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 35931,
+          "sha256": "4ee25a384c4b727daadc7495e7fc1647328a683c41ea0f2673d964e8e825d53f",
+          "name": "com.mojang:authlib:1.3",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 108162,
+          "sha256": "1488b4697dfe2c4da55030c223b1202aef8f8b7f2fd6d897156bb891c76d7efd",
+          "name": "org.apache.logging.log4j:log4j-api:2.0-beta9",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 681135,
+          "sha256": "30710aca849821ef8ff3f1808eb21a25aa810209a153644ee5c8cf683ebffbbe",
+          "name": "org.apache.logging.log4j:log4j-core:2.0-beta9",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        }
+      ],
+      "java.mainClass": "net.minecraft.launchwrapper.Launch",
+      "mc.tweakers": [
+        "cpw.mods.fml.common.launcher.FMLTweaker"
+      ],
+      "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} --uuid ${auth_uuid} --accessToken ${auth_access_token}"
     },
-    "java.libraries": [
-      {
-        "size": 2369684,
-        "sha256": "f92eaca0d261f63457d1b7e1c1fe8d0ca74a7e8caa2252c1a39b3de80abd9551",
-        "name": "net.minecraftforge:forge:1.7.2-10.12.1.1078:universal",
-        "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
-      },
-      {
-        "size": 33163,
-        "sha256": "c5f1ab8c8b59449e4a543f5359031f4afabb4514d8e9efdfa5639f6605b133be",
-        "name": "net.minecraft:launchwrapper:1.9",
-        "mavenBaseUrl": "https://libraries.minecraft.net/"
-      },
-      {
-        "size": 214593,
-        "sha256": "82a42eb3fd1af2a8901e0409c7bcaac323643ab17a217e249fd2176d3b8fabf9",
-        "name": "org.ow2.asm:asm-all:4.1",
-        "mavenBaseUrl": "https://libraries.minecraft.net/"
-      },
-      {
-        "size": 7218348,
-        "sha256": "293769a479e6b12f66ec7187c3cc800d074ecaca798c36e70a3a4555c3171178",
-        "name": "org.scala-lang:scala-library:2.10.2",
-        "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
-      },
-      {
-        "size": 14541813,
-        "sha256": "8d3723c40d104d27c9c68f9f9dc792f35f835f506d2d70d72b3f7faef1e31117",
-        "name": "org.scala-lang:scala-compiler:2.10.2",
-        "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
-      },
-      {
-        "size": 5763,
-        "sha256": "6b01667c6c35c0d14db754faaa784f6fef0cf271e7526a61e1b7a5d7a3a2ea42",
-        "name": "lzma:lzma:0.0.1",
-        "mavenBaseUrl": "https://libraries.minecraft.net/"
-      }
-    ],
-    "java.mainClass": "net.minecraft.launchwrapper.Launch",
-    "mc.tweakers": [
-      "cpw.mods.fml.common.launcher.FMLTweaker"
-    ]
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft"
-  }
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
 }

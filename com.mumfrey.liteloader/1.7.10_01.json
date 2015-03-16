@@ -10,60 +10,62 @@
       "version": "1.7.10"
     }
   ],
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.liteloadermods"
+        ]
       },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft",
-    "general.folders": {
-      "minecraft/mods": [
-        "mc.liteloadermods"
+      "java.libraries": [
+        {
+          "url": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10_01.jar",
+          "size": 415403,
+          "sha256": "1b26f6763551da4717582ba5a773c664dfd3e07b53329390ebc715220e2a40c1",
+          "name": "com.mumfrey:liteloader:1.7.10_01"
+        },
+        {
+          "size": 33163,
+          "sha256": "c5f1ab8c8b59449e4a543f5359031f4afabb4514d8e9efdfa5639f6605b133be",
+          "name": "net.minecraft:launchwrapper:1.9",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 214593,
+          "sha256": "82a42eb3fd1af2a8901e0409c7bcaac323643ab17a217e249fd2176d3b8fabf9",
+          "name": "org.ow2.asm:asm-all:4.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        }
+      ],
+      "java.mainClass": "net.minecraft.launchwrapper.Launch",
+      "mc.tweakers": [
+        "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
       ]
     },
-    "java.libraries": [
-      {
-        "url": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10_01.jar",
-        "size": 415403,
-        "sha256": "1b26f6763551da4717582ba5a773c664dfd3e07b53329390ebc715220e2a40c1",
-        "name": "com.mumfrey:liteloader:1.7.10_01"
-      },
-      {
-        "size": 33163,
-        "sha256": "c5f1ab8c8b59449e4a543f5359031f4afabb4514d8e9efdfa5639f6605b133be",
-        "name": "net.minecraft:launchwrapper:1.9",
-        "mavenBaseUrl": "https://libraries.minecraft.net/"
-      },
-      {
-        "size": 214593,
-        "sha256": "82a42eb3fd1af2a8901e0409c7bcaac323643ab17a217e249fd2176d3b8fabf9",
-        "name": "org.ow2.asm:asm-all:4.1",
-        "mavenBaseUrl": "https://libraries.minecraft.net/"
-      }
-    ],
-    "java.mainClass": "net.minecraft.launchwrapper.Launch",
-    "mc.tweakers": [
-      "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
-    ]
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft"
-  }
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
 }

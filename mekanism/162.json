@@ -3,39 +3,41 @@
   "uid": "mekanism",
   "version": "162",
   "time": 1423759362729,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://ci.indiewikis.com:8080/job/Mekanism/162/artifact/output/MDK-1.7.10-7.1.2.162.zip",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/mekanism-162.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/162/artifact/output/MDK-1.7.10-7.1.2.162.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-162.jar"
+        }
+      ]
+    }
+  ]
 }

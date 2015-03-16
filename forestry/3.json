@@ -3,39 +3,41 @@
   "uid": "forestry",
   "version": "3",
   "time": 1412246289000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.ic2.player.to/job/Forestry/3/artifact/build/dist/forestry_1.7.10-3.1.0.3.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/forestry-3.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry/3/artifact/build/dist/forestry_1.7.10-3.1.0.3.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-3.jar"
+        }
+      ]
+    }
+  ]
 }

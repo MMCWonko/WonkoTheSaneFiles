@@ -3,39 +3,41 @@
   "uid": "openperipheralscore",
   "version": "203",
   "time": 1424008666000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/203/artifact/build/libs/OpenPeripheralCore-1.7.10-0.6.0-snapshot-203.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/openperipheralscore-203.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/203/artifact/build/libs/OpenPeripheralCore-1.7.10-0.6.0-snapshot-203.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-203.jar"
+        }
+      ]
+    }
+  ]
 }

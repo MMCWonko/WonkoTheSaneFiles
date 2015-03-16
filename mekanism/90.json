@@ -3,39 +3,41 @@
   "uid": "mekanism",
   "version": "90",
   "time": 1408792054000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://ci.indiewikis.com:8080/job/Mekanism/90/artifact/output/MDK-1.7.10-7.1.0.90.zip",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/mekanism-90.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/90/artifact/output/MDK-1.7.10-7.1.0.90.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-90.jar"
+        }
+      ]
+    }
+  ]
 }

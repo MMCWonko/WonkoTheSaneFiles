@@ -3,39 +3,41 @@
   "uid": "ic2",
   "version": "673",
   "time": 1423227188000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.ic2.player.to/job/IC2_experimental/673/artifact/build/libs/industrialcraft-2-2.2.673-experimental.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/ic2-673.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/IC2_experimental/673/artifact/build/libs/industrialcraft-2-2.2.673-experimental.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/ic2-673.jar"
+        }
+      ]
+    }
+  ]
 }

@@ -3,39 +3,41 @@
   "uid": "openperipheralsaddons",
   "version": "110",
   "time": 1402504909000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/110/artifact/build/libs/OpenPeripheralAddons-1.6.4-0.1.4-snapshot-110.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/openperipheralsaddons-110.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/110/artifact/build/libs/OpenPeripheralAddons-1.6.4-0.1.4-snapshot-110.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralsaddons-110.jar"
+        }
+      ]
+    }
+  ]
 }

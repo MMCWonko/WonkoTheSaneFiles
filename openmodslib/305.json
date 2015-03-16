@@ -3,39 +3,41 @@
   "uid": "openmodslib",
   "version": "305",
   "time": 1422914138000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://www.openmods.info:8080/job/OpenModsLib/305/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-305.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/openmodslib-305.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/305/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-305.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-305.jar"
+        }
+      ]
+    }
+  ]
 }

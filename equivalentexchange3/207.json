@@ -3,39 +3,41 @@
   "uid": "equivalentexchange3",
   "version": "207",
   "time": 1410312428000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://nallar.me/buildservice/job/Equivalent%20Exchange%203/207/artifact/build/libs/EquivalentExchange3-1.7.10-0.2.207.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/equivalentexchange3-207.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://nallar.me/buildservice/job/Equivalent%20Exchange%203/207/artifact/build/libs/EquivalentExchange3-1.7.10-0.2.207.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/equivalentexchange3-207.jar"
+        }
+      ]
+    }
+  ]
 }

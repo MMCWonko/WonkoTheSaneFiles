@@ -3,39 +3,41 @@
   "uid": "vanityblocks",
   "version": "22",
   "time": 1380354191000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://2.iongaming.org:8080/job/VanityBlocks/22/artifact/bin/VanityBlocks-1.6.4-B22.59190bb.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/vanityblocks-22.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://2.iongaming.org:8080/job/VanityBlocks/22/artifact/bin/VanityBlocks-1.6.4-B22.59190bb.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/vanityblocks-22.jar"
+        }
+      ]
+    }
+  ]
 }

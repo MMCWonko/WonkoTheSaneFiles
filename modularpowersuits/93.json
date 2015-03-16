@@ -3,39 +3,41 @@
   "uid": "modularpowersuits",
   "version": "93",
   "time": 1393343147000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://build.technicpack.net/job/ModularPowersuits/93/artifact/dist/ModularPowersuits-1.6.4-0.10.0-93.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/modularpowersuits-93.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/ModularPowersuits/93/artifact/dist/ModularPowersuits-1.6.4-0.10.0-93.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modularpowersuits-93.jar"
+        }
+      ]
+    }
+  ]
 }

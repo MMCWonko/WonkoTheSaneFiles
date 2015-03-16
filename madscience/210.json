@@ -3,39 +3,41 @@
   "uid": "madscience",
   "version": "210",
   "time": 1412317111000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://madsciencemod.com:8080/job/Mad%20Science/210/artifact/output/build.properties",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/madscience-210.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://madsciencemod.com:8080/job/Mad%20Science/210/artifact/output/build.properties",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/madscience-210.jar"
+        }
+      ]
+    }
+  ]
 }

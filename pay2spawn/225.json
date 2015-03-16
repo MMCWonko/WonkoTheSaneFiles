@@ -3,39 +3,41 @@
   "uid": "pay2spawn",
   "version": "225",
   "time": 1414448367000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://jenkins.dries007.net/job/Pay2Spawn/225/artifact/build/libs/Pay2Spawn-1.7.10-2.5.0.225.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/pay2spawn-225.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/Pay2Spawn/225/artifact/build/libs/Pay2Spawn-1.7.10-2.5.0.225.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/pay2spawn-225.jar"
+        }
+      ]
+    }
+  ]
 }

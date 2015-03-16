@@ -3,39 +3,41 @@
   "uid": "openperipheralintegration",
   "version": "16",
   "time": 1417641467000,
-  "client": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "client"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "server": {
-    "rules": [
-      {
-        "action": "disallow"
-      },
-      {
-        "action": "allow",
-        "side": "server"
-      }
-    ],
-    "general.launcher": "minecraft"
-  },
-  "common": {
-    "general.launcher": "minecraft",
-    "general.downloads": [
-      {
-        "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/16/artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-16.jar",
-        "size": null,
-        "sha256": null,
-        "destination": "mods/openperipheralintegration-16.jar"
-      }
-    ]
-  }
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/16/artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-16.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralintegration-16.jar"
+        }
+      ]
+    }
+  ]
 }
