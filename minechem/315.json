@@ -1,0 +1,35 @@
+{
+  "formatVersion": 0,
+  "uid": "minechem",
+  "version": "315",
+  "time": 1416331990000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
+}

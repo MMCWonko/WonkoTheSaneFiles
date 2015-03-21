@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "alchemyplusplus",
+  "version": "42",
+  "time": 1414555847000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.jakimfett.com/job/AlchemyPlusPlus%201.7/42/artifact/output/AlchemyPlusPlus-1.7.10-1.2.0.42.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/alchemyplusplus-42.jar"
+        }
+      ]
+    }
+  ]
+}

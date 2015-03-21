@@ -1,0 +1,32 @@
+{
+  "formatVersion": 0,
+  "uid": "sunstroke",
+  "name": null,
+  "versions": [
+    {
+      "version": "5",
+      "type": null,
+      "time": 1421218143000
+    },
+    {
+      "version": "4",
+      "type": null,
+      "time": 1421189085000
+    },
+    {
+      "version": "3",
+      "type": null,
+      "time": 1421153871000
+    },
+    {
+      "version": "2",
+      "type": null,
+      "time": 1421150735000
+    },
+    {
+      "version": "1",
+      "type": null,
+      "time": 1421134701000
+    }
+  ]
+}

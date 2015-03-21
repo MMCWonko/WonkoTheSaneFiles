@@ -1,0 +1,467 @@
+{
+  "formatVersion": 0,
+  "uid": "forgeessentials",
+  "name": null,
+  "versions": [
+    {
+      "version": "1.2.1.276",
+      "type": null,
+      "time": 1371953523
+    },
+    {
+      "version": "1.2.1.275",
+      "type": null,
+      "time": 1369028385
+    },
+    {
+      "version": "1.2.1.272",
+      "type": null,
+      "time": 1365608725
+    },
+    {
+      "version": "1.2.1.269",
+      "type": null,
+      "time": 1365607732
+    },
+    {
+      "version": "1.2.0.266",
+      "type": null,
+      "time": 1365406799
+    },
+    {
+      "version": "1.2.0.262",
+      "type": null,
+      "time": 1364392369
+    },
+    {
+      "version": "1.2.0.261",
+      "type": null,
+      "time": 1364325067
+    },
+    {
+      "version": "1.2.0.259",
+      "type": null,
+      "time": 1364253771
+    },
+    {
+      "version": "1.2.0.256",
+      "type": null,
+      "time": 1363392405
+    },
+    {
+      "version": "1.2.0.255",
+      "type": null,
+      "time": 1362790385
+    },
+    {
+      "version": "1.2.0.254",
+      "type": null,
+      "time": 1362182632
+    },
+    {
+      "version": "1.2.0.253",
+      "type": null,
+      "time": 1361599026
+    },
+    {
+      "version": "1.1.1.251",
+      "type": null,
+      "time": 1359629623
+    },
+    {
+      "version": "1.1.1.250",
+      "type": null,
+      "time": 1359627554
+    },
+    {
+      "version": "1.1.0.248",
+      "type": null,
+      "time": 1359444725
+    },
+    {
+      "version": "1.1.0.247",
+      "type": null,
+      "time": 1359422026
+    },
+    {
+      "version": "1.0.0.246",
+      "type": null,
+      "time": 1359406280
+    },
+    {
+      "version": "1.0.0.245",
+      "type": null,
+      "time": 1359227366
+    },
+    {
+      "version": "0.1.1.244",
+      "type": null,
+      "time": 1358874157
+    },
+    {
+      "version": "0.1.1.243",
+      "type": null,
+      "time": 1358838308
+    },
+    {
+      "version": "0.1.1.242",
+      "type": null,
+      "time": 1358797953
+    },
+    {
+      "version": "0.1.1.240",
+      "type": null,
+      "time": 1358797242
+    },
+    {
+      "version": "0.1.1.239",
+      "type": null,
+      "time": 1358711291
+    },
+    {
+      "version": "0.1.1.235",
+      "type": null,
+      "time": 1358538431
+    },
+    {
+      "version": "0.1.1.234",
+      "type": null,
+      "time": 1358491035
+    },
+    {
+      "version": "0.1.1.231",
+      "type": null,
+      "time": 1358369812
+    },
+    {
+      "version": "0.1.1.230",
+      "type": null,
+      "time": 1358366664
+    },
+    {
+      "version": "0.1.1.228",
+      "type": null,
+      "time": 1358279178
+    },
+    {
+      "version": "0.1.1.227",
+      "type": null,
+      "time": 1358192863
+    },
+    {
+      "version": "0.1.1.226",
+      "type": null,
+      "time": 1358109594
+    },
+    {
+      "version": "0.1.1.225",
+      "type": null,
+      "time": 1358106432
+    },
+    {
+      "version": "0.1.1.224",
+      "type": null,
+      "time": 1358023589
+    },
+    {
+      "version": "0.1.1.223",
+      "type": null,
+      "time": 1358019991
+    },
+    {
+      "version": "0.1.1.222",
+      "type": null,
+      "time": 1357933617
+    },
+    {
+      "version": "0.1.1.221",
+      "type": null,
+      "time": 1357847198
+    },
+    {
+      "version": "0.1.0.220",
+      "type": null,
+      "time": 1357760931
+    },
+    {
+      "version": "0.1.0.219",
+      "type": null,
+      "time": 1357674437
+    },
+    {
+      "version": "0.1.0.218",
+      "type": null,
+      "time": 1357588891
+    },
+    {
+      "version": "0.1.0.217",
+      "type": null,
+      "time": 1357588040
+    },
+    {
+      "version": "0.1.0.216",
+      "type": null,
+      "time": 1357501776
+    },
+    {
+      "version": "0.1.0.215",
+      "type": null,
+      "time": 1357457391
+    },
+    {
+      "version": "0.1.0.214",
+      "type": null,
+      "time": 1357415283
+    },
+    {
+      "version": "0.1.0.213",
+      "type": null,
+      "time": 1357384444
+    },
+    {
+      "version": "0.1.0.212",
+      "type": null,
+      "time": 1357374549
+    },
+    {
+      "version": "0.1.0.211",
+      "type": null,
+      "time": 1357372125
+    },
+    {
+      "version": "0.1.0.210",
+      "type": null,
+      "time": 1357343324
+    },
+    {
+      "version": "0.1.0.209",
+      "type": null,
+      "time": 1357329135
+    },
+    {
+      "version": "0.1.0.208",
+      "type": null,
+      "time": 1357242401
+    },
+    {
+      "version": "0.1.0.207",
+      "type": null,
+      "time": 1357217800
+    },
+    {
+      "version": "0.1.0.206",
+      "type": null,
+      "time": 1357217459
+    },
+    {
+      "version": "0.1.0.199",
+      "type": null,
+      "time": 1357189300
+    },
+    {
+      "version": "0.1.0.198",
+      "type": null,
+      "time": 1357160130
+    },
+    {
+      "version": "0.1.0.191",
+      "type": null,
+      "time": 1357069680
+    },
+    {
+      "version": "0.1.0.190",
+      "type": null,
+      "time": 1356983198
+    },
+    {
+      "version": "0.1.0.189",
+      "type": null,
+      "time": 1356921125
+    },
+    {
+      "version": "0.1.0.188",
+      "type": null,
+      "time": 1356896771
+    },
+    {
+      "version": "0.1.0.187",
+      "type": null,
+      "time": 1356810392
+    },
+    {
+      "version": "0.1.0.186",
+      "type": null,
+      "time": 1356792167
+    },
+    {
+      "version": "0.1.0.180",
+      "type": null,
+      "time": 1356749282
+    },
+    {
+      "version": "0.0.1.83",
+      "type": null,
+      "time": 1355514374
+    },
+    {
+      "version": "0.0.1.82",
+      "type": null,
+      "time": 1355427948
+    },
+    {
+      "version": "0.0.1.80",
+      "type": null,
+      "time": 1355257808
+    },
+    {
+      "version": "0.0.1.79",
+      "type": null,
+      "time": 1355256659
+    },
+    {
+      "version": "0.0.1.77",
+      "type": null,
+      "time": 1355168611
+    },
+    {
+      "version": "0.0.1.76",
+      "type": null,
+      "time": 1355155462
+    },
+    {
+      "version": "0.0.1.74",
+      "type": null,
+      "time": 1355083626
+    },
+    {
+      "version": "0.0.1.72",
+      "type": null,
+      "time": 1354995812
+    },
+    {
+      "version": "0.0.1.71",
+      "type": null,
+      "time": 1354978616
+    },
+    {
+      "version": "0.0.1.70",
+      "type": null,
+      "time": 1354909411
+    },
+    {
+      "version": "0.0.1.69",
+      "type": null,
+      "time": 1354834029
+    },
+    {
+      "version": "0.0.1.68",
+      "type": null,
+      "time": 1354823013
+    },
+    {
+      "version": "0.0.1.67",
+      "type": null,
+      "time": 1354736629
+    },
+    {
+      "version": "0.0.1.66",
+      "type": null,
+      "time": 1354650232
+    },
+    {
+      "version": "0.0.1.65",
+      "type": null,
+      "time": 1354563820
+    },
+    {
+      "version": "0.0.1.64",
+      "type": null,
+      "time": 1354479431
+    },
+    {
+      "version": "0.0.1.62",
+      "type": null,
+      "time": 1354391030
+    },
+    {
+      "version": "0.0.1.61",
+      "type": null,
+      "time": 1354306698
+    },
+    {
+      "version": "0.0.1.58",
+      "type": null,
+      "time": 1354218255
+    },
+    {
+      "version": "0.0.1.57",
+      "type": null,
+      "time": 1354131810
+    },
+    {
+      "version": "0.0.1.56",
+      "type": null,
+      "time": 1354045409
+    },
+    {
+      "version": "0.0.1.55",
+      "type": null,
+      "time": 1354041379
+    },
+    {
+      "version": "0.0.1.53",
+      "type": null,
+      "time": 1353959010
+    },
+    {
+      "version": "0.0.1.52",
+      "type": null,
+      "time": 1353872634
+    },
+    {
+      "version": "0.0.1.51",
+      "type": null,
+      "time": 1353786247
+    },
+    {
+      "version": "0.0.1.50",
+      "type": null,
+      "time": 1353699881
+    },
+    {
+      "version": "0.0.1.49",
+      "type": null,
+      "time": 1353613471
+    },
+    {
+      "version": "0.0.1.48",
+      "type": null,
+      "time": 1353527042
+    },
+    {
+      "version": "0.0.1.47",
+      "type": null,
+      "time": 1353440655
+    },
+    {
+      "version": "0.0.1.46",
+      "type": null,
+      "time": 1353417023
+    },
+    {
+      "version": "0.0.1.45",
+      "type": null,
+      "time": 1353416986
+    },
+    {
+      "version": "0.0.1.44",
+      "type": null,
+      "time": 1353412905
+    },
+    {
+      "version": "0.0.1.4",
+      "type": null,
+      "time": 1352918470
+    }
+  ]
+}

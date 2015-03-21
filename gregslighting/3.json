@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "gregslighting",
+  "version": "3",
+  "time": 1367131565000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/GregsLighting/3/artifact/build/dist/GregsLighting-1.8.1-3.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gregslighting-3.jar"
+        }
+      ]
+    }
+  ]
+}

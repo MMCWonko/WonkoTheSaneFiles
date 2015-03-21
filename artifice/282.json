@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "artifice",
+  "version": "282",
+  "time": 1407880491000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://76.72.175.100:8080/job/Artifice/282/artifact/build/libs/Artifice-1.7-1.1.4-282.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/artifice-282.jar"
+        }
+      ]
+    }
+  ]
+}

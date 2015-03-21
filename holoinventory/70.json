@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "70",
+  "time": 1395336753000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/HoloInventory/70/artifact/build/libs/HoloInventory-1.8.0.70.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/holoinventory-70.jar"
+        }
+      ]
+    }
+  ]
+}

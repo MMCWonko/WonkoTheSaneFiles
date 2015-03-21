@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "flatbedrock",
+  "version": "34",
+  "time": 1374206093000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/FlatBedrock/34/artifact/build/dist/FlatBedrock-1.1.1-34.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/flatbedrock-34.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "inventorytweaks",
+  "version": "160",
+  "time": 1419446212000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Inventory-Tweaks/160/artifact/build/libs/InventoryTweaks-1.59-dev-160.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/inventorytweaks-160.jar"
+        }
+      ]
+    }
+  ]
+}

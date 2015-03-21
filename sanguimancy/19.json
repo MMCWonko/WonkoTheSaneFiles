@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "sanguimancy",
+  "version": "19",
+  "time": 1422897875777,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/Sanguimancy/19/artifact/build/libs/Sanguimancy-1.7.10-1.1.9Pre-19.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/sanguimancy-19.jar"
+        }
+      ]
+    }
+  ]
+}

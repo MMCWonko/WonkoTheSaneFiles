@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits",
+  "version": "169",
+  "time": 1410645931000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/ModularPowersuits/169/artifact/build/libs/ModularPowersuits-0.11.0.169.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modularpowersuits-169.jar"
+        }
+      ]
+    }
+  ]
+}

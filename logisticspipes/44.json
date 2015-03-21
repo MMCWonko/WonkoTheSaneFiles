@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "version": "44",
+  "time": 1409069649000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/44/artifact/build/libs/logisticspipes-0.8.0.44.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/logisticspipes-44.jar"
+        }
+      ]
+    }
+  ]
+}

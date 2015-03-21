@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "openeye",
+  "version": "127",
+  "time": 1402958443000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenEye/127/artifact/mod/build/libs/OpenEye-0.6-1.6.4-snapshot-127.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openeye-127.jar"
+        }
+      ]
+    }
+  ]
+}

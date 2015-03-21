@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "galacticraft",
+  "version": "176",
+  "time": 1408840165000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://2.iongaming.org:8080/job/Galacticraft-1.7/176/artifact/Forge/build/libs/Galacticraft-Planets-BETA-1.7-3.0.1.176.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/galacticraft-176.jar"
+        }
+      ]
+    }
+  ]
+}

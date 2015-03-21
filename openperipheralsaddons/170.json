@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralsaddons",
+  "version": "170",
+  "time": 1424190835000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/170/artifact/build/libs/OpenPeripheralAddons-1.7.10-0.2.0-snapshot-170.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralsaddons-170.jar"
+        }
+      ]
+    }
+  ]
+}

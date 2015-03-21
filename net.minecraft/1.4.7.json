@@ -1,0 +1,59 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraft",
+  "version": "1.4.7",
+  "time": 1356645600,
+  "type": "release",
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.traits": [
+        "legacyLaunch"
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ],
+        "minecraft/saves": [
+          "mc.saves.anvil"
+        ]
+      },
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.4.7/1.4.7.jar",
+          "size": 5005736,
+          "sha256": "19e33ede1930524d6d829bb4d38484aa8934e5db0ed8d6164bd00219a83dde0d",
+          "name": "net.minecraft:minecraft:1.4.7"
+        }
+      ],
+      "mc.arguments": " ${auth_player_name} ${auth_session}"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
+}

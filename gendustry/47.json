@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "47",
+  "time": 1418776184000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/47/artifact/build/libs/gendustry-mc1710-1.4.3.47.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-47.jar"
+        }
+      ]
+    }
+  ]
+}

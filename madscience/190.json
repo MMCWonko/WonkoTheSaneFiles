@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "madscience",
+  "version": "190",
+  "time": 1406735323000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://madsciencemod.com:8080/job/Mad%20Science/190/artifact/output/build.properties",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/madscience-190.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkersmechworks",
+  "version": "0.2.13.96",
+  "time": 1423814134,
+  "type": "Beta",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/tinkers-mechworks/2227136",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/tinkersmechworks-0.2.13.96.jar"
+        }
+      ]
+    }
+  ]
+}

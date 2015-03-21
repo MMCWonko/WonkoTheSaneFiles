@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "492",
+  "time": 1416433633000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/492/artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-492.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-492.jar"
+        }
+      ]
+    }
+  ]
+}

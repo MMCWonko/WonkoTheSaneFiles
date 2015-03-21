@@ -1,0 +1,50 @@
+{
+  "formatVersion": 0,
+  "uid": "minefactoryreloaded",
+  "version": "2.8.0RC7-71",
+  "time": 1424590725,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/2228271",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/minefactoryreloaded-2.8.0RC7-71.jar"
+        }
+      ]
+    }
+  ]
+}

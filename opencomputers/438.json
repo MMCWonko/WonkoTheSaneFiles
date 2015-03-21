@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "438",
+  "time": 1424741982001,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/438/artifact/build/libs/OpenComputers-MC1.7.10-1.5.1.438-dev-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-438.jar"
+        }
+      ]
+    }
+  ]
+}

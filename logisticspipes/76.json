@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "version": "76",
+  "time": 1414931648000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/76/artifact/build/libs/logisticspipes-0.8.2.76.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/logisticspipes-76.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkersconstruct",
+  "version": "1.8.1",
+  "time": 1419343831,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/2222705",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/tinkersconstruct-1.8.1.jar"
+        }
+      ]
+    }
+  ]
+}

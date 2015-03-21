@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "62",
+  "time": 1393098141000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/HoloInventory/62/artifact/build/libs/HoloInventory-1.6.1.62.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/holoinventory-62.jar"
+        }
+      ]
+    }
+  ]
+}

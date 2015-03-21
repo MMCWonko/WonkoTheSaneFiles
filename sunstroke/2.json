@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "sunstroke",
+  "version": "2",
+  "time": 1421150735000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/SunStroke/2/artifact/build/libs/SunStroke-1.7.10-1.0-2.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/sunstroke-2.jar"
+        }
+      ]
+    }
+  ]
+}

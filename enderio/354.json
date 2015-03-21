@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "354",
+  "time": 1425216918000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/354/artifact/build/libs/EnderIO-1.7.10-2.2.8.354.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-354.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "version": "16",
+  "time": 1419118848000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/D3Core/16/artifact/build/libs/D3Core-1.7.10-1.1.0.16.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/d3core-16.jar"
+        }
+      ]
+    }
+  ]
+}

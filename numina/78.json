@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "78",
+  "time": 1396955029000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Numina/78/artifact/build/libs/numina-0.3.0.73.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/numina-78.jar"
+        }
+      ]
+    }
+  ]
+}

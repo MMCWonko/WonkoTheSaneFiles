@@ -1,0 +1,48 @@
+{
+  "formatVersion": 0,
+  "uid": "forgeessentials",
+  "version": "0.0.1.48",
+  "time": 1353527042,
+  "requires": [
+    {
+      "uid": "net.minecraft"
+    }
+  ],
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://files.minecraftforge.net/ForgeEssentials/ForgeEssentials-universal-0.0.1.48.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forgeessentials-0.0.1.48.jar"
+        }
+      ]
+    }
+  ]
+}

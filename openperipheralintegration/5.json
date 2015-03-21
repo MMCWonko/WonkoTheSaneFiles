@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralintegration",
+  "version": "5",
+  "time": 1416174958000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/5/artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1-snapshot-5.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralintegration-5.jar"
+        }
+      ]
+    }
+  ]
+}

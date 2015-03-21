@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "454",
+  "time": 1422943292000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/454/artifact/build/dist/forestry_1.7.10-3.3.0.454-unstable.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-454.jar"
+        }
+      ]
+    }
+  ]
+}

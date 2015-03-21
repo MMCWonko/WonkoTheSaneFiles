@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "vanityblocks",
+  "version": "27",
+  "time": 1381377674000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://2.iongaming.org:8080/job/VanityBlocks/27/artifact/bin/VanityBlocks-1.6.4-B27.5f71ff5.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/vanityblocks-27.jar"
+        }
+      ]
+    }
+  ]
+}

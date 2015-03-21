@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "morechisels",
+  "version": "17",
+  "time": 1424587855503,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/MoreChisels/17/artifact/build/libs/MoreChisels-1.7.10-1.0-17.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/morechisels-17.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "8",
+  "time": 1407223630000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/8/artifact/build/libs/gendustry-mc1710-1.3.0.8.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-8.jar"
+        }
+      ]
+    }
+  ]
+}

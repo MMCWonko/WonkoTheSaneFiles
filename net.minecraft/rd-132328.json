@@ -1,0 +1,57 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraft",
+  "version": "rd-132328",
+  "time": 1242250080,
+  "type": "old_alpha",
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.traits": [
+        "no-texturepacks"
+      ],
+      "general.launcher": "minecraft",
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ]
+      },
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-132328/rd-132328.jar",
+          "size": 35436,
+          "sha256": "52884e025805428db39eaa3d7fd38c3c171204e421caef1abec2d14c7126a7d6",
+          "name": "net.minecraft:minecraft:rd-132328"
+        }
+      ],
+      "java.mainClass": "com.mojang.rubydung.RubyDung",
+      "mc.arguments": " ${auth_player_name} ${auth_session}"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft"
+    }
+  ]
+}

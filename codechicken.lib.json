@@ -1,0 +1,262 @@
+{
+  "formatVersion": 0,
+  "uid": "codechicken.lib",
+  "name": null,
+  "versions": [
+    {
+      "version": "1.0.0.62",
+      "type": null,
+      "time": 1393116467
+    },
+    {
+      "version": "1.0.0.61",
+      "type": null,
+      "time": 1392414111
+    },
+    {
+      "version": "1.0.0.55",
+      "type": null,
+      "time": 1391372440
+    },
+    {
+      "version": "1.0.0.54",
+      "type": null,
+      "time": 1391372042
+    },
+    {
+      "version": "1.0.0.53",
+      "type": null,
+      "time": 1391371720
+    },
+    {
+      "version": "1.0.0.52",
+      "type": null,
+      "time": 1390874473
+    },
+    {
+      "version": "1.0.0.51",
+      "type": null,
+      "time": 1389754004
+    },
+    {
+      "version": "1.0.0.50",
+      "type": null,
+      "time": 1389182431
+    },
+    {
+      "version": "1.0.0.49",
+      "type": null,
+      "time": 1387615706
+    },
+    {
+      "version": "1.0.0.47",
+      "type": null,
+      "time": 1387315846
+    },
+    {
+      "version": "1.0.0.45",
+      "type": null,
+      "time": 1386729671
+    },
+    {
+      "version": "1.0.0.44",
+      "type": null,
+      "time": 1384984402
+    },
+    {
+      "version": "1.0.0.43",
+      "type": null,
+      "time": 1383257663
+    },
+    {
+      "version": "1.0.0.42",
+      "type": null,
+      "time": 1383085614
+    },
+    {
+      "version": "1.0.0.41",
+      "type": null,
+      "time": 1383083841
+    },
+    {
+      "version": "1.0.0.40",
+      "type": null,
+      "time": 1381614989
+    },
+    {
+      "version": "1.0.0.39",
+      "type": null,
+      "time": 1380666384
+    },
+    {
+      "version": "1.0.0.38",
+      "type": null,
+      "time": 1380578559
+    },
+    {
+      "version": "1.0.0.37",
+      "type": null,
+      "time": 1380578369
+    },
+    {
+      "version": "1.0.0.36",
+      "type": null,
+      "time": 1379809663
+    },
+    {
+      "version": "1.0.0.35",
+      "type": null,
+      "time": 1379804802
+    },
+    {
+      "version": "1.0.0.34",
+      "type": null,
+      "time": 1379647330
+    },
+    {
+      "version": "1.0.0.33",
+      "type": null,
+      "time": 1379543368
+    },
+    {
+      "version": "1.0.0.32",
+      "type": null,
+      "time": 1379496132
+    },
+    {
+      "version": "1.0.0.31",
+      "type": null,
+      "time": 1378787242
+    },
+    {
+      "version": "1.0.0.30",
+      "type": null,
+      "time": 1378665205
+    },
+    {
+      "version": "1.0.0.29",
+      "type": null,
+      "time": 1378352825
+    },
+    {
+      "version": "1.0.0.28",
+      "type": null,
+      "time": 1378252858
+    },
+    {
+      "version": "1.0.0.24",
+      "type": null,
+      "time": 1377567066
+    },
+    {
+      "version": "1.0.0.23",
+      "type": null,
+      "time": 1377228884
+    },
+    {
+      "version": "1.0.0.22",
+      "type": null,
+      "time": 1377077770
+    },
+    {
+      "version": "1.0.0.21",
+      "type": null,
+      "time": 1376554001
+    },
+    {
+      "version": "1.0.0.20",
+      "type": null,
+      "time": 1376264080
+    },
+    {
+      "version": "1.0.0.19",
+      "type": null,
+      "time": 1375939191
+    },
+    {
+      "version": "1.0.0.18",
+      "type": null,
+      "time": 1375640976
+    },
+    {
+      "version": "1.0.0.17",
+      "type": null,
+      "time": 1375394721
+    },
+    {
+      "version": "1.0.0.16",
+      "type": null,
+      "time": 1375358876
+    },
+    {
+      "version": "1.0.0.15",
+      "type": null,
+      "time": 1375356289
+    },
+    {
+      "version": "1.0.0.14",
+      "type": null,
+      "time": 1375227204
+    },
+    {
+      "version": "1.0.0.12",
+      "type": null,
+      "time": 1375218855
+    },
+    {
+      "version": "1.0.0.11",
+      "type": null,
+      "time": 1375150880
+    },
+    {
+      "version": "1.0.0.10",
+      "type": null,
+      "time": 1375088208
+    },
+    {
+      "version": "1.0.0.9",
+      "type": null,
+      "time": 1374635591
+    },
+    {
+      "version": "1.0.0.8",
+      "type": null,
+      "time": 1374545303
+    },
+    {
+      "version": "1.0.0.7",
+      "type": null,
+      "time": 1374470155
+    },
+    {
+      "version": "1.0.0.6",
+      "type": null,
+      "time": 1374455751
+    },
+    {
+      "version": "1.0.0.5",
+      "type": null,
+      "time": 1374396459
+    },
+    {
+      "version": "1.0.0.4",
+      "type": null,
+      "time": 1374153293
+    },
+    {
+      "version": "1.0.0.3",
+      "type": null,
+      "time": 1374145403
+    },
+    {
+      "version": "1.0.0.2",
+      "type": null,
+      "time": 1374054980
+    },
+    {
+      "version": "1.0.0.1",
+      "type": null,
+      "time": 1374054101
+    }
+  ]
+}

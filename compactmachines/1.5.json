@@ -1,0 +1,50 @@
+{
+  "formatVersion": 0,
+  "uid": "compactmachines",
+  "version": "1.5",
+  "time": 1411822348,
+  "type": "Beta",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/224218-compact-machines/2215294",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/compactmachines-1.5.jar"
+        }
+      ]
+    }
+  ]
+}

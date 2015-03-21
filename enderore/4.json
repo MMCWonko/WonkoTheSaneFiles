@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "enderore",
+  "version": "4",
+  "time": 1369357129000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/EnderOre/4/artifact/build/dist/EnderOre-1.0-4.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderore-4.jar"
+        }
+      ]
+    }
+  ]
+}

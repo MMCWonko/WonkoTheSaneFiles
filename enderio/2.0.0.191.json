@@ -1,0 +1,50 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "2.0.0.191",
+  "time": 1408728057,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/ender-io/2212330",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-2.0.0.191.jar"
+        }
+      ]
+    }
+  ]
+}

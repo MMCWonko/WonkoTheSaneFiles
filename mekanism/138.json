@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "138",
+  "time": 1418562942000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/138/artifact/output/MDK-1.7.10-7.1.1.138.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-138.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "vanityblocks",
+  "version": "84",
+  "time": 1411924412000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://2.iongaming.org:8080/job/VanityBlocks/84/artifact/build/libs/VanityBlocks-V1.7.10-B84.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/vanityblocks-84.jar"
+        }
+      ]
+    }
+  ]
+}

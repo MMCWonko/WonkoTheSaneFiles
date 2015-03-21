@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "buildcraft",
+  "version": "603",
+  "time": 1415706850000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://nallar.me/buildservice/job/Buildcraft/603/artifact/build/libs/buildcraft-6.1.8.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/buildcraft-603.jar"
+        }
+      ]
+    }
+  ]
+}

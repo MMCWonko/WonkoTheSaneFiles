@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "powerconverters",
+  "version": "28",
+  "time": 1409221898000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jamesmckay.id.au:8080/job/Power%20Converters/28/artifact/build/libs/PowerConverters-1.7.10-3.0.0.28.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/powerconverters-28.jar"
+        }
+      ]
+    }
+  ]
+}

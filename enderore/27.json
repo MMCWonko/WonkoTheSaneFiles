@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "enderore",
+  "version": "27",
+  "time": 1383605283000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/EnderOre/27/artifact/artifacts/EnderOre-1.0-27.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderore-27.jar"
+        }
+      ]
+    }
+  ]
+}

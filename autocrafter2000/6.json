@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "autocrafter2000",
+  "version": "6",
+  "time": 1395259006000,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/AutoCrafter2000/6/artifact/build/libs/AutoCrafter2000-1.6.4-1.0.0.6.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/autocrafter2000-6.jar"
+        }
+      ]
+    }
+  ]
+}

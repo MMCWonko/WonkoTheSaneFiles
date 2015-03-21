@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "169",
+  "time": 1424363792684,
+  "data": [
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ],
+      "general.launcher": "minecraft"
+    },
+    {
+      "general.launcher": "minecraft",
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/169/artifact/output/MDK-1.7.10-7.1.2.169.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-169.jar"
+        }
+      ]
+    }
+  ]
+}
