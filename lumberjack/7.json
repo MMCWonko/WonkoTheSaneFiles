@@ -5,31 +5,6 @@
   "time": 1408310361000,
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft",
       "general.downloads": [
         {
           "url": "http://jenkins.dries007.net/job/Lumberjack/7/artifact/build/libs/Lumberjack-1.7.10-1.0.1.7.jar",

@@ -12,16 +12,6 @@
   ],
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft",
       "general.folders": {
         "minecraft/mods": [
           "mc.liteloadermods"
@@ -56,22 +46,16 @@
       "java.mainClass": "net.minecraft.launchwrapper.Launch",
       "mc.tweakers": [
         "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
-      ]
-    },
-    {
+      ],
       "rules": [
         {
           "action": "disallow"
         },
         {
           "action": "allow",
-          "side": "server"
+          "side": "client"
         }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft"
+      ]
     }
   ]
 }

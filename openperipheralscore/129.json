@@ -5,31 +5,6 @@
   "time": 1400187920000,
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft",
       "general.downloads": [
         {
           "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/129/artifact/build/libs/OpenPeripheralCore-1.6.4-0.4-snapshot-129.jar",

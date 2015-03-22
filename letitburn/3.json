@@ -5,31 +5,6 @@
   "time": 1408746319000,
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft",
       "general.downloads": [
         {
           "url": "http://jenkins.dries007.net/job/Let-it-Burn/3/artifact/build/libs/LetItBurn-1.7.10-1.1.0.3.jar",

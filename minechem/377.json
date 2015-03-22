@@ -4,32 +4,6 @@
   "version": "377",
   "time": 1423249029199,
   "data": [
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft"
-    }
+
   ]
 }

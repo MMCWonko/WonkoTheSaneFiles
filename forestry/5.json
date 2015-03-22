@@ -5,31 +5,6 @@
   "time": 1416054070000,
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft",
       "general.downloads": [
         {
           "url": "http://jenkins.ic2.player.to/job/Forestry/5/artifact/build/dist/forestry_1.7.10-3.2.0.5.jar",

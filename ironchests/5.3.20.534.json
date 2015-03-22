@@ -11,31 +11,6 @@
   ],
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft",
       "general.downloads": [
         {
           "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.534.zip",

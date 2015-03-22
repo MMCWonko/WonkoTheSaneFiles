@@ -11,15 +11,6 @@
   ],
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
       "general.launcher": "minecraft",
       "general.folders": {
         "minecraft/screenshots": [
@@ -186,7 +177,7 @@
               "action": "allow",
               "os": {
                 "name": "windows",
-                "arch": "32"
+                "arch": "64"
               }
             }
           ],
@@ -205,7 +196,7 @@
               "action": "allow",
               "os": {
                 "name": "osx",
-                "arch": "32"
+                "arch": "64"
               }
             }
           ],
@@ -243,7 +234,7 @@
               "action": "allow",
               "os": {
                 "name": "windows",
-                "arch": "32"
+                "arch": "64"
               }
             }
           ],
@@ -252,19 +243,20 @@
         }
       ],
       "java.mainClass": "net.minecraft.client.main.Main",
+      "mc.jarModTarget": "net.minecraft:minecraft:14w21b",
       "mc.assets": "1.7.4",
-      "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}"
-    },
-    {
+      "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
       "rules": [
         {
           "action": "disallow"
         },
         {
           "action": "allow",
-          "side": "server"
+          "side": "client"
         }
-      ],
+      ]
+    },
+    {
       "general.launcher": "java.jar",
       "java.libraries": [
         {
@@ -274,10 +266,16 @@
           "name": "net.minecraft:minecraft_server:14w21b"
         }
       ],
-      "mc.jarModTarget": "net.minecraft:minecraft_server:14w21b"
-    },
-    {
-      "general.launcher": "minecraft"
+      "mc.jarModTarget": "net.minecraft:minecraft_server:14w21b",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ]
     }
   ]
 }

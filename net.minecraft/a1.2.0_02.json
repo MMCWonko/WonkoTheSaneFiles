@@ -6,20 +6,10 @@
   "type": "old_alpha",
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
       "general.traits": [
         "legacyLaunch",
         "no-texturepacks"
       ],
-      "general.launcher": "minecraft",
       "general.folders": {
         "minecraft/screenshots": [
           "general.screenshots"
@@ -36,22 +26,16 @@
           "name": "net.minecraft:minecraft:a1.2.0_02"
         }
       ],
-      "mc.arguments": " ${auth_player_name} ${auth_session}"
-    },
-    {
+      "mc.arguments": " ${auth_player_name} ${auth_session}",
       "rules": [
         {
           "action": "disallow"
         },
         {
           "action": "allow",
-          "side": "server"
+          "side": "client"
         }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft"
+      ]
     }
   ]
 }

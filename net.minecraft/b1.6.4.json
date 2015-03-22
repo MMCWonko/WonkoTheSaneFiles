@@ -6,19 +6,9 @@
   "type": "old_beta",
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
       "general.traits": [
         "legacyLaunch"
       ],
-      "general.launcher": "minecraft",
       "general.folders": {
         "minecraft/screenshots": [
           "general.screenshots"
@@ -38,22 +28,16 @@
           "name": "net.minecraft:minecraft:b1.6.4"
         }
       ],
-      "mc.arguments": " ${auth_player_name} ${auth_session}"
-    },
-    {
+      "mc.arguments": " ${auth_player_name} ${auth_session}",
       "rules": [
         {
           "action": "disallow"
         },
         {
           "action": "allow",
-          "side": "server"
+          "side": "client"
         }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft"
+      ]
     }
   ]
 }

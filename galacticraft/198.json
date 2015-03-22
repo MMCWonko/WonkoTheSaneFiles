@@ -5,31 +5,6 @@
   "time": 1410933201000,
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft",
       "general.downloads": [
         {
           "url": "http://2.iongaming.org:8080/job/Galacticraft-1.7/198/artifact/Forge/build/libs/Galacticraft-Planets-BETA-1.7-3.0.2.198.jar",

@@ -4,6 +4,21 @@
   "name": null,
   "versions": [
     {
+      "version": "1.8.3",
+      "type": "release",
+      "time": 1424440809
+    },
+    {
+      "version": "1.8.2",
+      "type": "release",
+      "time": 1424360849
+    },
+    {
+      "version": "1.8.2-pre7",
+      "type": "snapshot",
+      "time": 1424091695
+    },
+    {
       "version": "1.8.2-pre6",
       "type": "snapshot",
       "time": 1422619104

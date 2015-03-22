@@ -11,15 +11,6 @@
   ],
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
       "general.launcher": "minecraft",
       "general.folders": {
         "minecraft/screenshots": [
@@ -113,18 +104,19 @@
         }
       ],
       "java.mainClass": "net.minecraft.client.main.Main",
-      "mc.arguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}"
-    },
-    {
+      "mc.jarModTarget": "net.minecraft:minecraft:1.6.2",
+      "mc.arguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}",
       "rules": [
         {
           "action": "disallow"
         },
         {
           "action": "allow",
-          "side": "server"
+          "side": "client"
         }
-      ],
+      ]
+    },
+    {
       "general.launcher": "java.jar",
       "java.libraries": [
         {
@@ -134,10 +126,16 @@
           "name": "net.minecraft:minecraft_server:1.6.2"
         }
       ],
-      "mc.jarModTarget": "net.minecraft:minecraft_server:1.6.2"
-    },
-    {
-      "general.launcher": "minecraft"
+      "mc.jarModTarget": "net.minecraft:minecraft_server:1.6.2",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ]
     }
   ]
 }

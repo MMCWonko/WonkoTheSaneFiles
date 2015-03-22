@@ -5,31 +5,6 @@
   "time": 1420498184000,
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft",
       "general.downloads": [
         {
           "url": "http://ci.tterrag.com/job/Super%20Massive%20Tech/106/artifact/build/libs/SuperMassiveTech-MC1.7.10-0.3.0-alpha-106.jar",

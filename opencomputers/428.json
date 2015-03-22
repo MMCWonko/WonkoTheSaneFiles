@@ -5,31 +5,6 @@
   "time": 1424376785840,
   "data": [
     {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ],
-      "general.launcher": "minecraft"
-    },
-    {
-      "general.launcher": "minecraft",
       "general.downloads": [
         {
           "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/428/artifact/build/libs/OpenComputers-MC1.7.10-1.5.0.428-dev-universal.jar",
