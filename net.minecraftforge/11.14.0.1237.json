@@ -19,9 +19,9 @@
       },
       "java.libraries": [
         {
-          "size": 2870136,
-          "sha256": "d234da6ab6a7de0ba2267674b948fb5edf553e79e39dfa2f57eff8c96ad92ab4",
-          "name": "net.minecraftforge:forge:1.8-11.14.0.1237-1.8:universal",
+          "size": 162,
+          "sha256": "f33c27745f2bd87344be790465ef984a972fd539dc83bd4f61d4242c607ef1ee",
+          "name": "net.minecraftforge:forge:1.8-1.8-11.14.0.1237-1.8:universal",
           "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
         },
         {
@@ -140,9 +140,9 @@
       },
       "java.libraries": [
         {
-          "size": 2870136,
-          "sha256": "d234da6ab6a7de0ba2267674b948fb5edf553e79e39dfa2f57eff8c96ad92ab4",
-          "name": "net.minecraftforge:forge:1.8-11.14.0.1237-1.8:universal",
+          "size": 162,
+          "sha256": "f33c27745f2bd87344be790465ef984a972fd539dc83bd4f61d4242c607ef1ee",
+          "name": "net.minecraftforge:forge:1.8-1.8-11.14.0.1237-1.8:universal",
           "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
         },
         {

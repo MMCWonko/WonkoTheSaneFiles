@@ -23,9 +23,9 @@
       },
       "java.libraries": [
         {
-          "size": 162,
-          "sha256": "f33c27745f2bd87344be790465ef984a972fd539dc83bd4f61d4242c607ef1ee",
-          "name": "net.minecraftforge:minecraftforge:9.10.1.851",
+          "size": 1891969,
+          "sha256": "3965828de0eaf330a38ef15b8bd1ebeeacbf351cd6696db5fcddc06dc80819da",
+          "name": "net.minecraftforge:forge:1.6.2-9.10.1.851:universal",
           "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
         },
         {
@@ -159,9 +159,9 @@
       },
       "java.libraries": [
         {
-          "size": 162,
-          "sha256": "f33c27745f2bd87344be790465ef984a972fd539dc83bd4f61d4242c607ef1ee",
-          "name": "net.minecraftforge:minecraftforge:9.10.1.851",
+          "size": 1891969,
+          "sha256": "3965828de0eaf330a38ef15b8bd1ebeeacbf351cd6696db5fcddc06dc80819da",
+          "name": "net.minecraftforge:forge:1.6.2-9.10.1.851:universal",
           "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
         },
         {
@@ -267,6 +267,7 @@
           "mavenBaseUrl": "https://libraries.minecraft.net/"
         }
       ],
+      "java.mainClass": "cpw.mods.fml.relauncher.ServerLaunchWrapper",
       "rules": [
         {
           "action": "disallow"
