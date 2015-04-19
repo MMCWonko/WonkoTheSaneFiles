@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "ic2",
+  "version": "612",
+  "time": 1408640131000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/IC2_experimental/612/artifact/build/libs/industrialcraft-2-2.2.612-experimental.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/ic2-612.jar"
+        }
+      ]
+    }
+  ]
+}

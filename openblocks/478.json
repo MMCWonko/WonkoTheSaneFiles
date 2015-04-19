@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "478",
+  "time": 1415619380000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/478/artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-478.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-478.jar"
+        }
+      ]
+    }
+  ]
+}

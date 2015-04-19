@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "239",
+  "time": 1415052024000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/239/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-239.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-239.jar"
+        }
+      ]
+    }
+  ]
+}

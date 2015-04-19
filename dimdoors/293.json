@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "dimdoors",
+  "version": "293",
+  "time": 1390434262000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/DimDoors/293/artifact/build/dist/DimensionalDoors-2.2.1RC1-293.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/dimdoors-293.jar"
+        }
+      ]
+    }
+  ]
+}

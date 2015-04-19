@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "139",
+  "time": 1403012788000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/139/artifact/build/libs/OpenPeripheralCore-1.6.4-0.4.1-snapshot-139.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-139.jar"
+        }
+      ]
+    }
+  ]
+}

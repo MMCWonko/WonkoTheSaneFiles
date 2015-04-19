@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "version": "100",
+  "time": 1423171929368,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/100/artifact/build/libs/logisticspipes-0.8.3.100.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/logisticspipes-100.jar"
+        }
+      ]
+    }
+  ]
+}

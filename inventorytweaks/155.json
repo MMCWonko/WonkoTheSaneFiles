@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "inventorytweaks",
+  "version": "155",
+  "time": 1410716200000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Inventory-Tweaks/155/artifact/build/libs/InventoryTweaks-1.59-dev-155.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/inventorytweaks-155.jar"
+        }
+      ]
+    }
+  ]
+}

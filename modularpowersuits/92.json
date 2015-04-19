@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits",
+  "version": "92",
+  "time": 1391203312000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/ModularPowersuits/92/artifact/dist/ModularPowersuits-1.6.4-0.10.0-92.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modularpowersuits-92.jar"
+        }
+      ]
+    }
+  ]
+}

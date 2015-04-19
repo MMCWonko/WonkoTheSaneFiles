@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "gregslighting",
+  "version": "7",
+  "time": 1367809761000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/GregsLighting/7/artifact/build/dist/GregsLighting-1.8.1-7.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gregslighting-7.jar"
+        }
+      ]
+    }
+  ]
+}

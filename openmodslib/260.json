@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "260",
+  "time": 1416509038000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/260/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-260.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-260.jar"
+        }
+      ]
+    }
+  ]
+}

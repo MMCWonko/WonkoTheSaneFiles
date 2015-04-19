@@ -23,6 +23,81 @@
     },
     {
       "uid": "compactsolars"
+    },
+    {
+      "uid": "ic2"
+    },
+    {
+      "uid": "dimdoors"
+    },
+    {
+      "uid": "enderore"
+    },
+    {
+      "uid": "flatbedrock"
+    },
+    {
+      "uid": "gregslighting"
+    },
+    {
+      "uid": "hexxitgear"
+    },
+    {
+      "uid": "inventorytweaks"
+    },
+    {
+      "uid": "minefactoryreloaded"
+    },
+    {
+      "uid": "modularpowersuits"
+    },
+    {
+      "uid": "numina"
+    },
+    {
+      "uid": "buildcraft"
+    },
+    {
+      "uid": "equivalentexchange3"
+    },
+    {
+      "uid": "openblocks"
+    },
+    {
+      "uid": "openeye"
+    },
+    {
+      "uid": "openmodslib"
+    },
+    {
+      "uid": "openperipheralsaddons"
+    },
+    {
+      "uid": "openperipheralscore"
+    },
+    {
+      "uid": "openperipheralintegration"
+    },
+    {
+      "uid": "logisticspipes"
+    },
+    {
+      "uid": "bdlib"
+    },
+    {
+      "uid": "gendustry"
+    },
+    {
+      "uid": "bdew.generators"
+    },
+    {
+      "uid": "neiaddons"
+    },
+    {
+      "uid": "bdew.pressure"
+    },
+    {
+      "uid": "modularpowersuits.addons"
     }
   ],
   "formatVersion": 0

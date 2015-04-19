@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "185",
+  "time": 1421442212000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/185/artifact/build/libs/OpenPeripheralCore-1.7.10-0.5.0-snapshot-185.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-185.jar"
+        }
+      ]
+    }
+  ]
+}

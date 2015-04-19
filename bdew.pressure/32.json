@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.pressure",
+  "version": "32",
+  "time": 1411482894000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/pressure-1.7.10/32/artifact/build/libs/pressure-mc1710-0.9.5.32.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.pressure-32.jar"
+        }
+      ]
+    }
+  ]
+}

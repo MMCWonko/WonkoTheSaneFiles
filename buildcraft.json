@@ -1,0 +1,122 @@
+{
+  "formatVersion": 0,
+  "uid": "buildcraft",
+  "name": null,
+  "versions": [
+    {
+      "version": "693",
+      "type": null,
+      "time": 1423342447243
+    },
+    {
+      "version": "692",
+      "type": null,
+      "time": 1423248846908
+    },
+    {
+      "version": "691",
+      "type": null,
+      "time": 1423245246786
+    },
+    {
+      "version": "687",
+      "type": null,
+      "time": 1422921246828
+    },
+    {
+      "version": "686",
+      "type": null,
+      "time": 1422658446033
+    },
+    {
+      "version": "685",
+      "type": null,
+      "time": 1422449649000
+    },
+    {
+      "version": "684",
+      "type": null,
+      "time": 1421999646000
+    },
+    {
+      "version": "683",
+      "type": null,
+      "time": 1421963650000
+    },
+    {
+      "version": "673",
+      "type": null,
+      "time": 1421319250000
+    },
+    {
+      "version": "672",
+      "type": null,
+      "time": 1421132050000
+    },
+    {
+      "version": "670",
+      "type": null,
+      "time": 1420908847000
+    },
+    {
+      "version": "669",
+      "type": null,
+      "time": 1420905247000
+    },
+    {
+      "version": "666",
+      "type": null,
+      "time": 1420552450000
+    },
+    {
+      "version": "620",
+      "type": null,
+      "time": 1418594049000
+    },
+    {
+      "version": "619",
+      "type": null,
+      "time": 1418572449000
+    },
+    {
+      "version": "615",
+      "type": null,
+      "time": 1418248450000
+    },
+    {
+      "version": "614",
+      "type": null,
+      "time": 1418237650000
+    },
+    {
+      "version": "612",
+      "type": null,
+      "time": 1417470846000
+    },
+    {
+      "version": "611",
+      "type": null,
+      "time": 1417301648000
+    },
+    {
+      "version": "610",
+      "type": null,
+      "time": 1417114449000
+    },
+    {
+      "version": "604",
+      "type": null,
+      "time": 1415750050000
+    },
+    {
+      "version": "603",
+      "type": null,
+      "time": 1415706850000
+    },
+    {
+      "version": "602",
+      "type": null,
+      "time": 1415652849000
+    }
+  ]
+}

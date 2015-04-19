@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "257",
+  "time": 1416153996000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/257/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-257.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-257.jar"
+        }
+      ]
+    }
+  ]
+}

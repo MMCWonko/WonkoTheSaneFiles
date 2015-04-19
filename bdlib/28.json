@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "28",
+  "time": 1412759692000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/28/artifact/build/libs/bdlib-mc1710-1.5.0.28.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-28.jar"
+        }
+      ]
+    }
+  ]
+}

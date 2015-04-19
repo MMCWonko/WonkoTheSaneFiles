@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "inventorytweaks",
+  "version": "138",
+  "time": 1404319321000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Inventory-Tweaks/138/artifact/build/libs/InventoryTweaks-1.58-dev-138.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/inventorytweaks-138.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "version": "41",
+  "time": 1408913774000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/41/artifact/build/libs/logisticspipes-0.8.0.41.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/logisticspipes-41.jar"
+        }
+      ]
+    }
+  ]
+}

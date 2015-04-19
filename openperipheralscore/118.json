@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "118",
+  "time": 1397578443000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/118/artifact/build/dist/OpenPeripheralCore-0.3.3-snapshot-118.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-118.jar"
+        }
+      ]
+    }
+  ]
+}

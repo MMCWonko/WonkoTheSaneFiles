@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "320",
+  "time": 1425575067043,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/320/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-320.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-320.jar"
+        }
+      ]
+    }
+  ]
+}

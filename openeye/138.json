@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openeye",
+  "version": "138",
+  "time": 1417898867000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenEye/138/artifact/mod/build/libs/OpenEye-0.6-1.6.4-snapshot-138.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openeye-138.jar"
+        }
+      ]
+    }
+  ]
+}

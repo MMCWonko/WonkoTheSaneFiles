@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits.addons",
+  "version": "131",
+  "time": 1368057286000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/ModularPowersuitsAddons/131/artifact/build/dist/MPSA-0.2.3-131_MPS-444.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modularpowersuits.addons-131.jar"
+        }
+      ]
+    }
+  ]
+}

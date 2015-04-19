@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "505",
+  "time": 1417292762000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/505/artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-505.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-505.jar"
+        }
+      ]
+    }
+  ]
+}

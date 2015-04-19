@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderore",
+  "version": "25",
+  "time": 1381936547000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/EnderOre/25/artifact/artifacts/EnderOre-1.0-25.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderore-25.jar"
+        }
+      ]
+    }
+  ]
+}

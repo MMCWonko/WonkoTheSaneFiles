@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "53",
+  "time": 1387692974000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Numina/53/artifact/dist/Numina-1.6.2-0.1.1-53.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/numina-53.jar"
+        }
+      ]
+    }
+  ]
+}

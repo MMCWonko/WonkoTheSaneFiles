@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "286",
+  "time": 1420311945000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/286/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-286.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-286.jar"
+        }
+      ]
+    }
+  ]
+}

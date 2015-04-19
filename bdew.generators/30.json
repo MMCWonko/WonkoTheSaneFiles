@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "version": "30",
+  "time": 1422095943000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/generators-1.7.10/30/artifact/build/libs/generators-mc1710-0.9.7.30.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.generators-30.jar"
+        }
+      ]
+    }
+  ]
+}

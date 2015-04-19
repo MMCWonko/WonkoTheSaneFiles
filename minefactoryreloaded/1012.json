@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "minefactoryreloaded",
+  "version": "1012",
+  "time": 1371951862000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/MineFactoryReloaded/1012/artifact/build/dist/MFR-API-2.7.0B2-1012.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/minefactoryreloaded-1012.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "516",
+  "time": 1419266339000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/516/artifact/build/libs/OpenBlocks-1.7.10-1.3-snapshot-516.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-516.jar"
+        }
+      ]
+    }
+  ]
+}

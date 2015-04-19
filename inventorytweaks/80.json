@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "inventorytweaks",
+  "version": "80",
+  "time": 1379790382000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Inventory-Tweaks/80/artifact/build/out/InventoryTweaks-api-MC1.6.4-1.57-dev-b80.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/inventorytweaks-80.jar"
+        }
+      ]
+    }
+  ]
+}

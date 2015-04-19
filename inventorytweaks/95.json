@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "inventorytweaks",
+  "version": "95",
+  "time": 1388180640000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Inventory-Tweaks/95/artifact/build/libs/InventoryTweaks-1.57-dev-95.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/inventorytweaks-95.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "hexxitgear",
+  "version": "21",
+  "time": 1371785454000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/HexxitGear/21/artifact/build/dist/HexxitGear-1.0-21.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/hexxitgear-21.jar"
+        }
+      ]
+    }
+  ]
+}
