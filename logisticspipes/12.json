@@ -2,12 +2,12 @@
   "formatVersion": 0,
   "uid": "logisticspipes",
   "version": "12",
-  "time": 1408206730000,
+  "time": 1354551077000,
   "data": [
     {
       "general.downloads": [
         {
-          "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/12/artifact/build/libs/logisticspipes-0.8.0.12.jar",
+          "url": "http://ci.thezorro266.com/job/LogisticsPipesMC1.4.7/12/artifact/build/dist/LogisticsPipes-0.6.1.pre.12.jar",
           "size": null,
           "sha256": null,
           "destination": "mods/logisticspipes-12.jar"

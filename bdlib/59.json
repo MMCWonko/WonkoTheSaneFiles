@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "59",
+  "time": 1426172669465,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/59/artifact/build/libs/bdlib-mc1710-1.7.0.59.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-59.jar"
+        }
+      ]
+    }
+  ]
+}

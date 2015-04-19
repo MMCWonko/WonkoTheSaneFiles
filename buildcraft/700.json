@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "buildcraft",
+  "version": "700",
+  "time": 1427900046423,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://nallar.me/buildservice/job/Buildcraft/700/artifact/build/libs/buildcraft-6.4.6.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/buildcraft-700.jar"
+        }
+      ]
+    }
+  ]
+}

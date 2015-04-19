@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.pressure",
+  "version": "83",
+  "time": 1427273323710,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/pressure-1.7.10/83/artifact/build/libs/pressure-mc1710-1.1.0.83.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.pressure-83.jar"
+        }
+      ]
+    }
+  ]
+}

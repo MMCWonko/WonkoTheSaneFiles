@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "586",
+  "time": 1428436684000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/586/artifact/build/libs/OpenBlocks-1.7.10-1.4-snapshot-586.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-586.jar"
+        }
+      ]
+    }
+  ]
+}
