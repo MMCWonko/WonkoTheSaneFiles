@@ -1,0 +1,92 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "name": null,
+  "versions": [
+    {
+      "version": "21",
+      "type": null,
+      "time": 1427063156000
+    },
+    {
+      "version": "19",
+      "type": null,
+      "time": 1421509490000
+    },
+    {
+      "version": "18",
+      "type": null,
+      "time": 1421507513000
+    },
+    {
+      "version": "16",
+      "type": null,
+      "time": 1419118848000
+    },
+    {
+      "version": "15",
+      "type": null,
+      "time": 1419084856000
+    },
+    {
+      "version": "14",
+      "type": null,
+      "time": 1418748192000
+    },
+    {
+      "version": "13",
+      "type": null,
+      "time": 1415054838000
+    },
+    {
+      "version": "12",
+      "type": null,
+      "time": 1414537479000
+    },
+    {
+      "version": "11",
+      "type": null,
+      "time": 1410293611000
+    },
+    {
+      "version": "10",
+      "type": null,
+      "time": 1410123837000
+    },
+    {
+      "version": "9",
+      "type": null,
+      "time": 1409682072000
+    },
+    {
+      "version": "8",
+      "type": null,
+      "time": 1409265412000
+    },
+    {
+      "version": "7",
+      "type": null,
+      "time": 1408559526000
+    },
+    {
+      "version": "6",
+      "type": null,
+      "time": 1408486559000
+    },
+    {
+      "version": "5",
+      "type": null,
+      "time": 1408476097000
+    },
+    {
+      "version": "4",
+      "type": null,
+      "time": 1408311156000
+    },
+    {
+      "version": "3",
+      "type": null,
+      "time": 1408239871000
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "187",
+  "time": 1426627629711,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/187/artifact/output/MDK-1.7.10-7.1.2.187.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-187.jar"
+        }
+      ]
+    }
+  ]
+}

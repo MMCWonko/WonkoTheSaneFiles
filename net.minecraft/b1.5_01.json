@@ -1,0 +1,43 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraft",
+  "version": "b1.5_01",
+  "time": 1303250400,
+  "type": "old_beta",
+  "data": [
+    {
+      "general.traits": [
+        "legacyLaunch"
+      ],
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ],
+        "minecraft/saves": [
+          "mc.saves.region"
+        ]
+      },
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.5_01/b1.5_01.jar",
+          "size": 1378045,
+          "sha256": "c94ea9e4cf3b06e64a99d15eb6c7746e708a6328cc3523c9b78db0900b7298e0",
+          "name": "net.minecraft:minecraft:b1.5_01"
+        }
+      ],
+      "mc.arguments": " ${auth_player_name} ${auth_session}",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    }
+  ]
+}

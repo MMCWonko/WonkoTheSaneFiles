@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "powercrystals.core",
+  "version": "95",
+  "time": 1367622027000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/PowerCrystalsCore/95/artifact/build/dist/PowerCrystalsCore-1.1.4B1-95.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/powercrystals.core-95.jar"
+        }
+      ]
+    }
+  ]
+}

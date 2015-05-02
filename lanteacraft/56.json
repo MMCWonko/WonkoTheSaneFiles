@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "lanteacraft",
+  "version": "56",
+  "time": 1418513898,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/lanteacraft/2221846",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/lanteacraft-56.jar"
+        }
+      ]
+    }
+  ]
+}

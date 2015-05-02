@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "533",
+  "time": 1428671390830,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/533/artifact/build/libs/OpenComputers-MC1.7.10-1.5.7.533-dev-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-533.jar"
+        }
+      ]
+    }
+  ]
+}

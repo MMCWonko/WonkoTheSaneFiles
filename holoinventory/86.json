@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "86",
+  "time": 1407240020000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/HoloInventory/86/artifact/build/libs/HoloInventory-1.7.10-1.8.3.86.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/holoinventory-86.jar"
+        }
+      ]
+    }
+  ]
+}

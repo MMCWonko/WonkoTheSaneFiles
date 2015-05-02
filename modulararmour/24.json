@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "modulararmour",
+  "version": "24",
+  "time": 1429415965247,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/ModularArmour/24/artifact/build/libs/ModularArmour-1.7.10-null-24.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modulararmour-24.jar"
+        }
+      ]
+    }
+  ]
+}

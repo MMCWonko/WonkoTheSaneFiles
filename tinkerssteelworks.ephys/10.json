@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkerssteelworks.ephys",
+  "version": "10",
+  "time": 1427743829786,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/TSteelworks/10/artifact/build/libs/TSteelworks-1.7.10-1.1.0-10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/tinkerssteelworks.ephys-10.jar"
+        }
+      ]
+    }
+  ]
+}

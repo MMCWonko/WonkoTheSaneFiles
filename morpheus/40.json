@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "morpheus",
+  "version": "40",
+  "time": 1427366898635,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.qmunity.co.uk/job/Morpheus/40/artifact/build/libs/Morpheus-1.8-2.0.40.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/morpheus-40.jar"
+        }
+      ]
+    }
+  ]
+}

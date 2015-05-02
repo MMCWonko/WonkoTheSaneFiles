@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "madscience",
+  "version": "172",
+  "time": 1404250380000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://madsciencemod.com:8080/job/Mad%20Science/172/artifact/output/build.properties",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/madscience-172.jar"
+        }
+      ]
+    }
+  ]
+}

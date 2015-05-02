@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "alchemyplusplus",
+  "version": "72",
+  "time": 1418251808000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.jakimfett.com/job/AlchemyPlusPlus%201.7/72/artifact/output/AlchemyPlusPlus-1.7.10-1.2.0.72.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/alchemyplusplus-72.jar"
+        }
+      ]
+    }
+  ]
+}

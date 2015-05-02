@@ -1,0 +1,52 @@
+{
+  "formatVersion": 0,
+  "uid": "bloodmagic",
+  "name": null,
+  "versions": [
+    {
+      "version": "1.3.2",
+      "type": "Release",
+      "time": 1429215712
+    },
+    {
+      "version": "1.3.1",
+      "type": "Release",
+      "time": 1425509869
+    },
+    {
+      "version": "1.3.0b",
+      "type": "Release",
+      "time": 1421422990
+    },
+    {
+      "version": "1.3.0a",
+      "type": "Release",
+      "time": 1419888494
+    },
+    {
+      "version": "1.3.0",
+      "type": "Release",
+      "time": 1418995271
+    },
+    {
+      "version": "1.3.0Beta",
+      "type": "Beta",
+      "time": 1418430536
+    },
+    {
+      "version": "1.2.1b",
+      "type": "Release",
+      "time": 1417276524
+    },
+    {
+      "version": "1.2.1a",
+      "type": "Release",
+      "time": 1416669817
+    },
+    {
+      "version": "1.2.1",
+      "type": "Release",
+      "time": 1416507821
+    }
+  ]
+}

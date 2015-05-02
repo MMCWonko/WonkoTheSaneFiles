@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "2.2.8.344",
+  "time": 1423189828,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/ender-io/2226458",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-2.2.8.344.jar"
+        }
+      ]
+    }
+  ]
+}

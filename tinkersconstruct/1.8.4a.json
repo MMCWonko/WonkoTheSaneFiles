@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkersconstruct",
+  "version": "1.8.4a",
+  "time": 1429552433,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/2234864",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/tinkersconstruct-1.8.4a.jar"
+        }
+      ]
+    }
+  ]
+}

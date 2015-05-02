@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "542",
+  "time": 1428708692356,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/542/artifact/build/libs/OpenComputers-MC1.7.10-1.5.7.542-dev-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-542.jar"
+        }
+      ]
+    }
+  ]
+}

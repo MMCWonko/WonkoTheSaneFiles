@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "artifice",
+  "version": "321",
+  "time": 1424896205796,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://76.72.175.100:8080/job/Artifice/321/artifact/build/libs/Artifice-1.7.10-1.1.4-321.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/artifice-321.jar"
+        }
+      ]
+    }
+  ]
+}

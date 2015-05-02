@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "autocrafter2000",
+  "version": "5",
+  "time": 1395258591000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/AutoCrafter2000/5/artifact/build/libs/AutoCrafter2000-1.6.4-1.0.0.5.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/autocrafter2000-5.jar"
+        }
+      ]
+    }
+  ]
+}

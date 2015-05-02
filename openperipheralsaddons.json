@@ -4,6 +4,11 @@
   "name": null,
   "versions": [
     {
+      "version": "196",
+      "type": null,
+      "time": 1430060706781
+    },
+    {
       "version": "195",
       "type": null,
       "time": 1428843295586
@@ -11,27 +16,27 @@
     {
       "version": "194",
       "type": null,
-      "time": 1428837001100
+      "time": 1428837001000
     },
     {
       "version": "193",
       "type": null,
-      "time": 1428775827233
+      "time": 1428775827000
     },
     {
       "version": "192",
       "type": null,
-      "time": 1428764731673
+      "time": 1428764731000
     },
     {
       "version": "191",
       "type": null,
-      "time": 1428761256478
+      "time": 1428761256000
     },
     {
       "version": "190",
       "type": null,
-      "time": 1428691052847
+      "time": 1428691052000
     },
     {
       "version": "189",
@@ -422,11 +427,6 @@
       "version": "98",
       "type": null,
       "time": 1400094212000
-    },
-    {
-      "version": "96",
-      "type": null,
-      "time": 1398760610000
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "powercrystals.core",
+  "version": "32",
+  "time": 1361854763000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/PowerCrystalsCore/32/artifact/build/dist/PowerCrystalsCore-1.0.3B1-32.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/powercrystals.core-32.jar"
+        }
+      ]
+    }
+  ]
+}

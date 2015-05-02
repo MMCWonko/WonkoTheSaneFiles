@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "endertech",
+  "version": "0.2.0.304",
+  "time": 1409163224,
+  "type": "Release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/223428-endertech/2212855",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/endertech-0.2.0.304.jar"
+        }
+      ]
+    }
+  ]
+}

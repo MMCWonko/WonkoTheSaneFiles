@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "347",
+  "time": 1429995127633,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/347/artifact/build/libs/OpenModsLib-1.7.10-0.7.1-snapshot-347.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-347.jar"
+        }
+      ]
+    }
+  ]
+}

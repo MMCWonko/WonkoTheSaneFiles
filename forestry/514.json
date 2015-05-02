@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "514",
+  "time": 1427778676758,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/514/artifact/build/dist/forestry_1.7.10-3.5.0.514-unstable.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-514.jar"
+        }
+      ]
+    }
+  ]
+}

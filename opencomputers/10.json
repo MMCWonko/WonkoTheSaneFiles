@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "10",
+  "time": 1426272494772,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-1.5-MC1.7.10/10/artifact/build/libs/OpenComputers-MC1.7.10-1.5.3.10-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-10.jar"
+        }
+      ]
+    }
+  ]
+}

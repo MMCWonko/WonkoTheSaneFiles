@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderzoo",
+  "version": "23",
+  "time": 1426684954000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/Ender%20Zoo/23/artifact/build/libs/EnderZoo-1.8-1.2.23_beta.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderzoo-23.jar"
+        }
+      ]
+    }
+  ]
+}

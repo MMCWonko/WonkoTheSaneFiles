@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "morechisels",
+  "version": "7",
+  "time": 1422096954000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/MoreChisels/7/artifact/build/libs/MoreChisels-1.7.10-1.0-7.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/morechisels-7.jar"
+        }
+      ]
+    }
+  ]
+}

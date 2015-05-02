@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "372",
+  "time": 1428853901000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/372/artifact/build/libs/EnderIO-1.7.10-2.3.0.372_beta.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-372.jar"
+        }
+      ]
+    }
+  ]
+}

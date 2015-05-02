@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "placeabletools",
+  "version": "22",
+  "time": 1407631385000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/PlaceableTools/22/artifact/build/libs/PlaceableTools-1.7.10-1.0.0.22.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/placeabletools-22.jar"
+        }
+      ]
+    }
+  ]
+}

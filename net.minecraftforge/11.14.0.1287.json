@@ -1,0 +1,250 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge",
+  "version": "11.14.0.1287",
+  "time": 1421291174,
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.8"
+    }
+  ],
+  "data": [
+    {
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.forgemods"
+        ]
+      },
+      "java.libraries": [
+        {
+          "size": 2898010,
+          "sha256": "8898286d8c672886b14ba8c2dba95b255dafaf4d75a185c65482f3ce2642e04e",
+          "name": "net.minecraftforge:forge:1.8-11.14.0.1287-1.8:universal",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": 33144,
+          "sha256": "18b336306b08fc6730fea687aab5f41f3a9ae0f545faeb8a12d472594f39b6b3",
+          "name": "net.minecraft:launchwrapper:1.11",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 241640,
+          "sha256": "923778a7c333248c015d6e8d7d41a1a81fd8318cc8f8d0cccdbe839b590988d2",
+          "name": "org.ow2.asm:asm-all:5.0.3",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 2553162,
+          "sha256": "d38c1d2a78dc4a5da75025f0ebcfda260f7dfe32cfb021dfb60f9d66ee3b7565",
+          "name": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 221138,
+          "sha256": "29cdf1d19e2d34cf58fd8b28a2c6634291959be11dffb8ecf76c324efd54fb4f",
+          "name": "com.typesafe:config:1.2.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 58732,
+          "sha256": "51634552a7d9e183bc472a2fc580f7f581ef4e3ba2b184d58b64e8fa0e5184ba",
+          "name": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 13576365,
+          "sha256": "8600e1703f12bc181cacf2a1431f40fbbe7a610ff90f2021236c5e69b0194411",
+          "name": "org.scala-lang:scala-compiler:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 25365,
+          "sha256": "e7f6c8d68ff93791ad617a4f4570b4cf7aaf1709e9ab8d4b25cc4a73239cd740",
+          "name": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": 206575,
+          "sha256": "0267e3eb819375fdd3879a9e70d5e2d2fab236bd6fdce21bd9e43ae6a7a81c5d",
+          "name": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": 5612251,
+          "sha256": "77d20515bd20a72dc877e243ad7bc7bb4208d6379354013f12c9cf6210735f77",
+          "name": "org.scala-lang:scala-library:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 430212,
+          "sha256": "b6a8bd4c0ed299e2b838a40a36a59aae3004fa7e8227b21d02dfe00b5dca3bf5",
+          "name": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 4415402,
+          "sha256": "d9f0dc71b6cb81ab98e8f5e972e802fb21acb52cc943bc33b174b19f09ff83d7",
+          "name": "org.scala-lang:scala-reflect:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 736796,
+          "sha256": "3a6d2b390532ed68a4029e6ecf4eb09e9cd4cd14772bae56688daf5608ed45e5",
+          "name": "org.scala-lang:scala-swing_2.11:1.0.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 660517,
+          "sha256": "fa3c852f62e164fcad1e8dc777947dbf4d35ecf80854d2950853495a6234d498",
+          "name": "org.scala-lang:scala-xml_2.11:1.0.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 5763,
+          "sha256": "6b01667c6c35c0d14db754faaa784f6fef0cf271e7526a61e1b7a5d7a3a2ea42",
+          "name": "lzma:lzma:0.0.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 61312,
+          "sha256": "15db96ed0321c714dd7fa88da15005f59dc89e701ce105b592b9e9a57ea26ba7",
+          "name": "net.sf.jopt-simple:jopt-simple:4.5",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        }
+      ],
+      "java.mainClass": "net.minecraft.launchwrapper.Launch",
+      "mc.tweakers": [
+        "net.minecraftforge.fml.common.launcher.FMLTweaker"
+      ],
+      "mc.assets": "1.8",
+      "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    },
+    {
+      "general.launcher": "java.mainClass",
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.forgemods"
+        ]
+      },
+      "java.libraries": [
+        {
+          "size": 2898010,
+          "sha256": "8898286d8c672886b14ba8c2dba95b255dafaf4d75a185c65482f3ce2642e04e",
+          "name": "net.minecraftforge:forge:1.8-11.14.0.1287-1.8:universal",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": 33144,
+          "sha256": "18b336306b08fc6730fea687aab5f41f3a9ae0f545faeb8a12d472594f39b6b3",
+          "name": "net.minecraft:launchwrapper:1.11",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 241640,
+          "sha256": "923778a7c333248c015d6e8d7d41a1a81fd8318cc8f8d0cccdbe839b590988d2",
+          "name": "org.ow2.asm:asm-all:5.0.3",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 2553162,
+          "sha256": "d38c1d2a78dc4a5da75025f0ebcfda260f7dfe32cfb021dfb60f9d66ee3b7565",
+          "name": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 221138,
+          "sha256": "29cdf1d19e2d34cf58fd8b28a2c6634291959be11dffb8ecf76c324efd54fb4f",
+          "name": "com.typesafe:config:1.2.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 58732,
+          "sha256": "51634552a7d9e183bc472a2fc580f7f581ef4e3ba2b184d58b64e8fa0e5184ba",
+          "name": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 13576365,
+          "sha256": "8600e1703f12bc181cacf2a1431f40fbbe7a610ff90f2021236c5e69b0194411",
+          "name": "org.scala-lang:scala-compiler:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 25365,
+          "sha256": "e7f6c8d68ff93791ad617a4f4570b4cf7aaf1709e9ab8d4b25cc4a73239cd740",
+          "name": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": 206575,
+          "sha256": "0267e3eb819375fdd3879a9e70d5e2d2fab236bd6fdce21bd9e43ae6a7a81c5d",
+          "name": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": 5612251,
+          "sha256": "77d20515bd20a72dc877e243ad7bc7bb4208d6379354013f12c9cf6210735f77",
+          "name": "org.scala-lang:scala-library:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 430212,
+          "sha256": "b6a8bd4c0ed299e2b838a40a36a59aae3004fa7e8227b21d02dfe00b5dca3bf5",
+          "name": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 4415402,
+          "sha256": "d9f0dc71b6cb81ab98e8f5e972e802fb21acb52cc943bc33b174b19f09ff83d7",
+          "name": "org.scala-lang:scala-reflect:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 736796,
+          "sha256": "3a6d2b390532ed68a4029e6ecf4eb09e9cd4cd14772bae56688daf5608ed45e5",
+          "name": "org.scala-lang:scala-swing_2.11:1.0.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 660517,
+          "sha256": "fa3c852f62e164fcad1e8dc777947dbf4d35ecf80854d2950853495a6234d498",
+          "name": "org.scala-lang:scala-xml_2.11:1.0.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": 5763,
+          "sha256": "6b01667c6c35c0d14db754faaa784f6fef0cf271e7526a61e1b7a5d7a3a2ea42",
+          "name": "lzma:lzma:0.0.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": 61312,
+          "sha256": "15db96ed0321c714dd7fa88da15005f59dc89e701ce105b592b9e9a57ea26ba7",
+          "name": "net.sf.jopt-simple:jopt-simple:4.5",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        }
+      ],
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "346",
+  "time": 1423334013000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/346/artifact/build/libs/EnderIO-1.7.10-2.2.8.346.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-346.jar"
+        }
+      ]
+    }
+  ]
+}

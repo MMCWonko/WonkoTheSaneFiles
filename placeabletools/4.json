@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "placeabletools",
+  "version": "4",
+  "time": 1394966055000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/PlaceableTools/4/artifact/build/libs/PlaceableTools-v1.0.0.4.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/placeabletools-4.jar"
+        }
+      ]
+    }
+  ]
+}

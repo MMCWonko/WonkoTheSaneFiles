@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits",
+  "version": "180",
+  "time": 1430167620000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/ModularPowersuits/180/artifact/build/libs/ModularPowersuits-0.11.0.180.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modularpowersuits-180.jar"
+        }
+      ]
+    }
+  ]
+}

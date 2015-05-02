@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "141",
+  "time": 1418674595000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/141/artifact/output/MDK-1.7.10-7.1.1.141.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-141.jar"
+        }
+      ]
+    }
+  ]
+}

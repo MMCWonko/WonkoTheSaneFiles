@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "powerconverters",
+  "version": "55",
+  "time": 1429283192000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jamesmckay.id.au:8080/job/Power%20Converters/55/artifact/build/libs/PowerConverters-1.7.10_3.1.0.55.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/powerconverters-55.jar"
+        }
+      ]
+    }
+  ]
+}

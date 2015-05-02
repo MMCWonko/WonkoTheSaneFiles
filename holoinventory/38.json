@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "38",
+  "time": 1385327122000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/HoloInventory/38/artifact/build/libs/HoloInventory-1.5.38.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/holoinventory-38.jar"
+        }
+      ]
+    }
+  ]
+}

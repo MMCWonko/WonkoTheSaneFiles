@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "artifice",
+  "version": "295",
+  "time": 1410545518000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://76.72.175.100:8080/job/Artifice/295/artifact/build/libs/Artifice-1.7-1.1.4-295.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/artifice-295.jar"
+        }
+      ]
+    }
+  ]
+}

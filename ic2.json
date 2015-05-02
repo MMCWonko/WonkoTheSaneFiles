@@ -4,6 +4,11 @@
   "name": null,
   "versions": [
     {
+      "version": "718",
+      "type": null,
+      "time": 1429976583235
+    },
+    {
       "version": "717",
       "type": null,
       "time": 1429289118269
@@ -492,11 +497,6 @@
       "version": "619",
       "type": null,
       "time": 1408934676000
-    },
-    {
-      "version": "618",
-      "type": null,
-      "time": 1408898511000
     }
   ]
 }

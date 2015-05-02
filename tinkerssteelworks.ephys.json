@@ -1,0 +1,62 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkerssteelworks.ephys",
+  "name": null,
+  "versions": [
+    {
+      "version": "14",
+      "type": null,
+      "time": 1429654673229
+    },
+    {
+      "version": "13",
+      "type": null,
+      "time": 1427819352753
+    },
+    {
+      "version": "12",
+      "type": null,
+      "time": 1427803664513
+    },
+    {
+      "version": "10",
+      "type": null,
+      "time": 1427743829786
+    },
+    {
+      "version": "9",
+      "type": null,
+      "time": 1427574389767
+    },
+    {
+      "version": "8",
+      "type": null,
+      "time": 1427574014433
+    },
+    {
+      "version": "7",
+      "type": null,
+      "time": 1425733478146
+    },
+    {
+      "version": "6",
+      "type": null,
+      "time": 1423315258798
+    },
+    {
+      "version": "5",
+      "type": null,
+      "time": 1422562515000
+    },
+    {
+      "version": "4",
+      "type": null,
+      "time": 1422228167000
+    },
+    {
+      "version": "1",
+      "type": null,
+      "time": 1422144916000
+    }
+  ]
+}

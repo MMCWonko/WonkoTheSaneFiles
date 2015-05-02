@@ -1,0 +1,47 @@
+{
+  "formatVersion": 0,
+  "uid": "cookiecore",
+  "name": null,
+  "versions": [
+    {
+      "version": "8",
+      "type": null,
+      "time": 1429377820458
+    },
+    {
+      "version": "7",
+      "type": null,
+      "time": 1427817779919
+    },
+    {
+      "version": "6",
+      "type": null,
+      "time": 1427803083162
+    },
+    {
+      "version": "5",
+      "type": null,
+      "time": 1422564698000
+    },
+    {
+      "version": "4",
+      "type": null,
+      "time": 1422302982000
+    },
+    {
+      "version": "3",
+      "type": null,
+      "time": 1422153700000
+    },
+    {
+      "version": "2",
+      "type": null,
+      "time": 1422145626000
+    },
+    {
+      "version": "1",
+      "type": null,
+      "time": 1422143201000
+    }
+  ]
+}

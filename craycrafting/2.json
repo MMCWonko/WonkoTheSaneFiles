@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "craycrafting",
+  "version": "2",
+  "time": 1390780396000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/CrayCrafting/2/artifact/build/libs/CrayCrafting-Beta-0.2.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/craycrafting-2.jar"
+        }
+      ]
+    }
+  ]
+}

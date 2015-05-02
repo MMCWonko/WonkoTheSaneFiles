@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "projectred",
+  "version": "29",
+  "time": 1395600888000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Project%20Red/29/artifact/dist/ProjectRedBase-1.6.4-4.3.4.29.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/projectred-29.jar"
+        }
+      ]
+    }
+  ]
+}

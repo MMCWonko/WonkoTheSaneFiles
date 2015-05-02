@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "alchemyplusplus",
+  "version": "9",
+  "time": 1410162689000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.jakimfett.com/job/AlchemyPlusPlus%201.7/9/artifact/output/AlchemyPlusPlus-1.2.0.9.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/alchemyplusplus-9.jar"
+        }
+      ]
+    }
+  ]
+}

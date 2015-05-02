@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "101",
+  "time": 1430172910789,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Numina/101/artifact/build/libs/Numina-0.4.0.101.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/numina-101.jar"
+        }
+      ]
+    }
+  ]
+}

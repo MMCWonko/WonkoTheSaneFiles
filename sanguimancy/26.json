@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "sanguimancy",
+  "version": "26",
+  "time": 1428185810190,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/Sanguimancy/26/artifact/build/libs/Sanguimancy-1.7.10-1.1.9-26.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/sanguimancy-26.jar"
+        }
+      ]
+    }
+  ]
+}

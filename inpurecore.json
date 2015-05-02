@@ -1,0 +1,57 @@
+{
+  "formatVersion": 0,
+  "uid": "inpurecore",
+  "name": null,
+  "versions": [
+    {
+      "version": "1.0.0B9-54",
+      "type": "Release",
+      "time": 1424221895
+    },
+    {
+      "version": "1.0.0B8-49",
+      "type": "Release",
+      "time": 1422413027
+    },
+    {
+      "version": "1.0.0B8-47",
+      "type": "Release",
+      "time": 1422396213
+    },
+    {
+      "version": "1.0.0B7-19",
+      "type": "Release",
+      "time": 1415311859
+    },
+    {
+      "version": "1.0.0B6-13",
+      "type": "Release",
+      "time": 1415057947
+    },
+    {
+      "version": "1.0.0B5-11",
+      "type": "Release",
+      "time": 1414982133
+    },
+    {
+      "version": "1.0.0B4-7",
+      "type": "Release",
+      "time": 1414870178
+    },
+    {
+      "version": "1.0.0B3-6",
+      "type": "Release",
+      "time": 1414775966
+    },
+    {
+      "version": "1.0.0B2-4",
+      "type": "Release",
+      "time": 1410925682
+    },
+    {
+      "version": "1.0.0B1-1",
+      "type": "Release",
+      "time": 1409179410
+    }
+  ]
+}

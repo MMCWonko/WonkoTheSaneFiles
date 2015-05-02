@@ -1,0 +1,87 @@
+{
+  "formatVersion": 0,
+  "uid": "modulararmour",
+  "name": null,
+  "versions": [
+    {
+      "version": "27",
+      "type": null,
+      "time": 1429476087857
+    },
+    {
+      "version": "26",
+      "type": null,
+      "time": 1429450760364
+    },
+    {
+      "version": "24",
+      "type": null,
+      "time": 1429415965247
+    },
+    {
+      "version": "22",
+      "type": null,
+      "time": 1429414142944
+    },
+    {
+      "version": "21",
+      "type": null,
+      "time": 1429413828060
+    },
+    {
+      "version": "16",
+      "type": null,
+      "time": 1428614092899
+    },
+    {
+      "version": "15",
+      "type": null,
+      "time": 1428461536952
+    },
+    {
+      "version": "14",
+      "type": null,
+      "time": 1427237082568
+    },
+    {
+      "version": "13",
+      "type": null,
+      "time": 1426773561795
+    },
+    {
+      "version": "12",
+      "type": null,
+      "time": 1425953567500
+    },
+    {
+      "version": "10",
+      "type": null,
+      "time": 1425695462773
+    },
+    {
+      "version": "8",
+      "type": null,
+      "time": 1425441169903
+    },
+    {
+      "version": "6",
+      "type": null,
+      "time": 1423193605546
+    },
+    {
+      "version": "5",
+      "type": null,
+      "time": 1423022121276
+    },
+    {
+      "version": "4",
+      "type": null,
+      "time": 1422931874787
+    },
+    {
+      "version": "1",
+      "type": null,
+      "time": 1422748931615
+    }
+  ]
+}

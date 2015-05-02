@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "323",
+  "time": 1421281577000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/323/artifact/build/libs/EnderIO-1.7.10-2.2.6.323.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-323.jar"
+        }
+      ]
+    }
+  ]
+}

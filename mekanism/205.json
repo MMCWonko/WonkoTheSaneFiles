@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "205",
+  "time": 1427604195778,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/205/artifact/output/MDK-1.7.10-8.0.3.205.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-205.jar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "version": "14",
+  "time": 1418748192000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.dries007.net/job/D3Core/14/artifact/build/libs/D3Core-1.7.10-1.0.0.14.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/d3core-14.jar"
+        }
+      ]
+    }
+  ]
+}

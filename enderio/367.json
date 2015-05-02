@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "367",
+  "time": 1427929213000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/367/artifact/build/libs/EnderIO-1.7.10-2.2.8.367.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-367.jar"
+        }
+      ]
+    }
+  ]
+}
