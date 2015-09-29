@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "84",
+  "time": "1431333126841",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/84/artifact/build/libs/gendustry-1.4.11.84-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-84.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

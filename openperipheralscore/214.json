@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "openperipheralscore",
   "version": "214",
-  "time": 1427997746000,
+  "time": "1427997746000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

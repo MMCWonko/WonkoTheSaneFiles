@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "alchemyplusplus",
   "version": "38",
-  "time": 1414546507000,
+  "time": "1414546507000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

@@ -2,13 +2,8 @@
   "formatVersion": 0,
   "uid": "codechicken.lib",
   "version": "1.0.0.44",
-  "time": 1384984402,
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.6.4"
-    }
-  ],
+  "time": "1384984402",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -19,6 +14,12 @@
           "destination": "mods/codechicken.lib-1.0.0.44.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
     }
   ]
 }

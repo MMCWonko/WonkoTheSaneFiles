@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "com.mumfrey.liteloader",
   "version": "1.6.2_03",
-  "time": 1375228794,
+  "time": "1375228794",
   "type": "release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.6.2"
-    }
-  ],
   "data": [
     {
       "general.folders": {
@@ -20,13 +14,13 @@
       "java.libraries": [
         {
           "url": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.6.2/liteloader-1.6.2_03.jar",
-          "size": 74038,
-          "sha256": "4c3054d84aa79d616ccde3d3ee3fb79862d8d0c057d13be1fe0d9a79e22339cb",
+          "size": null,
+          "sha256": null,
           "name": "com.mumfrey:liteloader:1.6.2_03"
         },
         {
-          "size": 17358,
-          "sha256": "c180ec48d802c0e10a9d32e46962f5d88eff70790023e9121e920bd2a390ba1c",
+          "size": null,
+          "sha256": null,
           "name": "net.minecraft:launchwrapper:1.3",
           "mavenBaseUrl": "https://libraries.minecraft.net/"
         }
@@ -44,6 +38,12 @@
           "side": "client"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.2"
     }
   ]
 }

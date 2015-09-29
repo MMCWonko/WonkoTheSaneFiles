@@ -1,43 +1,28 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "b1.4_01",
-  "time": 1301954400,
+  "time": "1301954400-01-01T00:00:00+00:00",
+  "releaseTime": "1301954400-01-01T00:00:00+00:00",
   "type": "old_beta",
   "data": [
+
+  ],
+  "requires": [
+
+  ],
+  "order": -2,
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+libraries": [
     {
-      "general.traits": [
-        "legacyLaunch"
-      ],
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/texturepacks": [
-          "mc.texturepacks"
-        ],
-        "minecraft/saves": [
-          "mc.saves.region"
-        ]
-      },
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.4_01/b1.4_01.jar",
-          "size": 1306748,
-          "sha256": "1b5145648feec9ac2e02b3e1acfc38b31c8068630f75d3a68b38c35b6ff8dc0a",
-          "name": "net.minecraft:minecraft:b1.4_01"
-        }
-      ],
-      "mc.arguments": " ${auth_player_name} ${auth_session}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:b1.4_01",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.4_01/b1.4_01.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

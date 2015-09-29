@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "autocrafter2000",
   "version": "7",
-  "time": 1395259136000,
+  "time": "1395259136000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

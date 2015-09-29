@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "mekanism",
   "version": "215",
-  "time": 1428106879729,
+  "time": "1428106879729",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

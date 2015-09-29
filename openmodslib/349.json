@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "openmodslib",
   "version": "349",
-  "time": 1430046110534,
+  "time": "1430046110534",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

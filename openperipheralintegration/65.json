@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "openperipheralintegration",
   "version": "65",
-  "time": 1430251162211,
+  "time": "1430251162211",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

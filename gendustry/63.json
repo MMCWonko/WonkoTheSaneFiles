@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "gendustry",
   "version": "63",
-  "time": 1424605599715,
+  "time": "1424605599715",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

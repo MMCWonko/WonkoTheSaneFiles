@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "placeabletools",
   "version": "4",
-  "time": 1394966055000,
+  "time": "1394966055000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

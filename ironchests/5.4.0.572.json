@@ -2,13 +2,8 @@
   "formatVersion": 0,
   "uid": "ironchests",
   "version": "5.4.0.572",
-  "time": 1379339187,
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.6.2"
-    }
-  ],
+  "time": "1379339187",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -19,6 +14,12 @@
           "destination": "mods/ironchests-5.4.0.572.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.2"
     }
   ]
 }

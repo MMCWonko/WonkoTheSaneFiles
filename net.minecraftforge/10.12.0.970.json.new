@@ -1,0 +1,126 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge",
+  "version": "10.12.0.970",
+  "time": "1388199108",
+  "type": "release",
+  "data": [
+    {
+      "java.libraries": [
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraftforge:forge:1.7.2-10.12.0.970:universal",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraft:launchwrapper:1.9",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.ow2.asm:asm-all:4.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-library:2.10.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-compiler:2.10.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "lzma:lzma:0.0.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        }
+      ],
+      "java.mainClass": "net.minecraft.launchwrapper.Launch",
+      "mc.tweakers": [
+        "cpw.mods.fml.common.launcher.FMLTweaker"
+      ],
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    },
+    {
+      "general.launcher": "java.mainClass",
+      "java.libraries": [
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraftforge:forge:1.7.2-10.12.0.970:universal",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraft:launchwrapper:1.9",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.ow2.asm:asm-all:4.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-library:2.10.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-compiler:2.10.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "lzma:lzma:0.0.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        }
+      ],
+      "java.mainClass": "cpw.mods.fml.relauncher.ServerLaunchWrapper",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ]
+    },
+    {
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.forgemods"
+        ]
+      }
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.2"
+    }
+  ]
+}

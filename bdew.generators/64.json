@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "bdew.generators",
   "version": "64",
-  "time": 1427978688699,
+  "time": "1427978688699",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

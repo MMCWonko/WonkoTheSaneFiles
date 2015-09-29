@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "opencomputers",
   "version": "17",
-  "time": 1429617935120,
+  "time": "1429617935120",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

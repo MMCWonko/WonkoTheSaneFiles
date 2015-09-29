@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "modularpowersuits",
   "version": "164",
-  "time": 1410377680000,
+  "time": "1410377680000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

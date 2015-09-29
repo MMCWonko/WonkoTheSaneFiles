@@ -1,43 +1,30 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "c0.0.13a_03",
-  "time": 1242943200,
+  "time": "1242943200-01-01T00:00:00+00:00",
+  "releaseTime": "1242943200-01-01T00:00:00+00:00",
   "type": "old_alpha",
   "data": [
+
+  ],
+  "requires": [
+
+  ],
+  "order": -2,
+  "mainClass": "com.mojang.minecraft.c",
+  "appletClass": "com.mojang.minecraft.MinecraftApplet",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+libraries": [
     {
-      "general.traits": [
-        "legacyLaunch",
-        "no-texturepacks"
-      ],
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/texturepacks": [
-          "mc.texturepacks"
-        ]
-      },
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.13a_03/c0.0.13a_03.jar",
-          "size": 66277,
-          "sha256": "9afcc927218c0f30738b48089eb8d02ac32b8c62e1f727880c715b635cc2c254",
-          "name": "net.minecraft:minecraft:c0.0.13a_03"
-        }
-      ],
-      "java.mainClass": "com.mojang.minecraft.c",
-      "mc.appletClass": "com.mojang.minecraft.MinecraftApplet",
-      "mc.arguments": " ${auth_player_name} ${auth_session}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:c0.0.13a_03",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.13a_03/c0.0.13a_03.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

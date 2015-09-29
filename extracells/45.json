@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "extracells",
+  "version": "45",
+  "time": 1423151336541,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://shadowcity.net:8080/job/ecrv1/45/artifact/build/libs/ExtraCells-1.7.10-2.1.37b45.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/extracells-45.jar"
+        }
+      ]
+    }
+  ]
+}

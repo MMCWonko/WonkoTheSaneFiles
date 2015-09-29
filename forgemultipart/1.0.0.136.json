@@ -2,13 +2,8 @@
   "formatVersion": 0,
   "uid": "forgemultipart",
   "version": "1.0.0.136",
-  "time": 1376990726,
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.6.2"
-    }
-  ],
+  "time": "1376990726",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -19,6 +14,12 @@
           "destination": "mods/forgemultipart-1.0.0.136.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.2"
     }
   ]
 }

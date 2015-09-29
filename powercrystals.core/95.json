@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "powercrystals.core",
   "version": "95",
-  "time": 1367622027000,
+  "time": "1367622027000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

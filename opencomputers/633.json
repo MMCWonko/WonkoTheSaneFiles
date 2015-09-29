@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "633",
+  "time": "1432036981149",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/633/artifact/build/libs/OpenComputers-MC1.7.10-1.5.10.633-dev-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-633.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

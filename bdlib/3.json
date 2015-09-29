@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "bdlib",
   "version": "3",
-  "time": 1405422203000,
+  "time": "1405422203000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "powerconverters",
   "version": "27",
-  "time": 1409100388000,
+  "time": "1409100388000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

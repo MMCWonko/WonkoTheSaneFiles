@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "artifice",
   "version": "320",
-  "time": 1424887470540,
+  "time": "1424887470540",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

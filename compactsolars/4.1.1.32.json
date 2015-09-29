@@ -2,13 +2,8 @@
   "formatVersion": 0,
   "uid": "compactsolars",
   "version": "4.1.1.32",
-  "time": 1365377809,
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.5.1"
-    }
-  ],
+  "time": "1365377809",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -19,6 +14,12 @@
           "destination": "mods/compactsolars-4.1.1.32.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.5.1"
     }
   ]
 }

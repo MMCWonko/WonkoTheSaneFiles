@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "bdlib",
   "version": "42",
-  "time": 1424254274882,
+  "time": "1424254274882",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

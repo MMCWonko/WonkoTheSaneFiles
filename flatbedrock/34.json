@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "flatbedrock",
   "version": "34",
-  "time": 1374206093000,
+  "time": "1374206093000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

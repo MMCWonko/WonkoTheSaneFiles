@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "modulararmour",
   "version": "13",
-  "time": 1426773561795,
+  "time": "1426773561795",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

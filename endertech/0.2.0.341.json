@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "endertech",
   "version": "0.2.0.341",
-  "time": 1410306680,
+  "time": "1410306680",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/endertech-0.2.0.341.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

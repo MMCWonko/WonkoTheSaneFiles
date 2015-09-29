@@ -1,6 +1,18 @@
 {
   "index": [
     {
+      "uid": "net.minecraft"
+    },
+    {
+      "uid": "org.lwjgl"
+    },
+    {
+      "uid": "net.minecraftforge"
+    },
+    {
+      "uid": "com.mumfrey.liteloader"
+    },
+    {
       "uid": "ironchests"
     },
     {
@@ -23,6 +35,9 @@
     },
     {
       "uid": "compactsolars"
+    },
+    {
+      "uid": "extracells"
     },
     {
       "uid": "ic2"
@@ -106,9 +121,6 @@
       "uid": "powerconverters"
     },
     {
-      "uid": "galacticraft"
-    },
-    {
       "uid": "artifice"
     },
     {
@@ -116,9 +128,6 @@
     },
     {
       "uid": "enderio"
-    },
-    {
-      "uid": "extracells"
     },
     {
       "uid": "supermassivetech"
@@ -208,6 +217,9 @@
       "uid": "enderzoo"
     },
     {
+      "uid": "bloodmagic"
+    },
+    {
       "uid": "compactmachines"
     },
     {
@@ -223,28 +235,19 @@
       "uid": "endertech"
     },
     {
-      "uid": "bloodmagic"
-    },
-    {
       "uid": "creepercollateral"
     },
     {
       "uid": "inpurecore"
     },
     {
-      "uid": "net.minecraft"
-    },
-    {
-      "uid": "org.lwjgl"
-    },
-    {
-      "uid": "com.mumfrey.liteloader"
-    },
-    {
-      "uid": "net.minecraftforge"
-    },
-    {
       "uid": "net.minecraftforge.fml"
+    },
+    {
+      "uid": "galacticraft"
+    },
+    {
+      "uid": "betterstorage"
     }
   ],
   "formatVersion": 0

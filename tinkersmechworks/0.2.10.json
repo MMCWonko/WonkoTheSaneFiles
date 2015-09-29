@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "tinkersmechworks",
   "version": "0.2.10",
-  "time": 1414448742,
+  "time": "1414448742",
   "type": "Beta",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/tinkersmechworks-0.2.10.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

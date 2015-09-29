@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "122",
+  "time": 1399145227000,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/122/artifact/build/libs/OpenPeripheralCore-1.6.4-0.4-4173b3d-122.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-122.jar"
+        }
+      ]
+    }
+  ]
+}

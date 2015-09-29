@@ -1,43 +1,28 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "1.4.4",
-  "time": 1352844000,
+  "time": "1352844000-01-01T00:00:00+00:00",
+  "releaseTime": "1352844000-01-01T00:00:00+00:00",
   "type": "release",
   "data": [
+
+  ],
+  "requires": [
+
+  ],
+  "order": -2,
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+libraries": [
     {
-      "general.traits": [
-        "legacyLaunch"
-      ],
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/texturepacks": [
-          "mc.texturepacks"
-        ],
-        "minecraft/saves": [
-          "mc.saves.anvil"
-        ]
-      },
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.4.4/1.4.4.jar",
-          "size": 4967851,
-          "sha256": "17fac7877d3f181f7ec8e954e3987551d21c886affc1b1363024be4d8f475fbe",
-          "name": "net.minecraft:minecraft:1.4.4"
-        }
-      ],
-      "mc.arguments": " ${auth_player_name} ${auth_session}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:1.4.4",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.4.4/1.4.4.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

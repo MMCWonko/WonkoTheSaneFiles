@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "torchtools",
   "version": "10",
-  "time": 1407074946000,
+  "time": "1407074946000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

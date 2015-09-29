@@ -1,275 +1,170 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "1.7.4",
-  "time": 1386592090,
+  "time": "1386592090-01-01T00:00:00+00:00",
+  "releaseTime": "1386592090-01-01T00:00:00+00:00",
   "type": "release",
+  "data": [
+
+  ],
   "requires": [
     {
       "uid": "org.lwjgl"
     }
   ],
-  "data": [
+  "order": -2,
+  "mainClass": "net.minecraft.client.main.Main",
+  "assets": "1.7.4",
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
+  "+libraries": [
     {
-      "general.launcher": "minecraft",
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/resourcepackks": [
-          "mc.resourcepacks"
-        ],
-        "minecraft/saves": [
-          "mc.saves.anvil"
-        ]
-      },
-      "java.libraries": [
-        {
-          "size": 289882,
-          "sha256": "9f3bb4c3c91941763041de3e17f594f452a09a6410123b24ce0ed096a1a6582f",
-          "name": "java3d:vecmath:1.3.1",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 2523219,
-          "sha256": "c970a09a4d319942beb2b154f3a6b791ba3a687aaa1bc65d9e52934b1abb145e",
-          "name": "net.sf.trove4j:trove4j:3.0.3",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 244,
-          "sha256": "915fefe29ec67578f10fb1273dc9e3455eee7a1b53e60378e69dee652a24e3ec",
-          "name": "com.ibm.icu:icu4j-core-mojang:51.2",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 61312,
-          "sha256": "15db96ed0321c714dd7fa88da15005f59dc89e701ce105b592b9e9a57ea26ba7",
-          "name": "net.sf.jopt-simple:jopt-simple:4.5",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 244,
-          "sha256": "17b997dc820b950e4191eacc30032b783789ce9d84bfd8c567e7521d029603c3",
-          "name": "com.paulscode:codecjorbis:20101023",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 244,
-          "sha256": "80ff25dcc01917a4299a426890e33e7911c7d03a8f73c29606b5f26453e57d54",
-          "name": "com.paulscode:codecwav:20101023",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 244,
-          "sha256": "7eba2137667eb1a0543fd5e8bc65b72c340e9f4127d5fbf86a0820e9b0113796",
-          "name": "com.paulscode:libraryjavasound:20101123",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 244,
-          "sha256": "cc9b2979603c7be682b7fab2f0f286b439c62bc250a250d40490320634fe09bf",
-          "name": "com.paulscode:librarylwjglopenal:20100824",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 232,
-          "sha256": "f703be501c565c0c2018615f31c31fdda7cd0a7c870664cb35be7674e8a8e49f",
-          "name": "com.paulscode:soundsystem:20120107",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 1452996,
-          "sha256": "c087f0389b761e3e352679a58b37790e2395f3875add370acea37a7e94aee157",
-          "name": "io.netty:netty-all:4.0.10.Final",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 2172169,
-          "sha256": "2de68c47ca7b679d4ccad75059b2364dfcc02305ca4769365a0fbaa59580a740",
-          "name": "com.google.guava:guava:15.0",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 315806,
-          "sha256": "ad7966d6b3e5f0d052ac3d734164c83dce751bb3722ea3f8dca5b3019f62f4aa",
-          "name": "org.apache.commons:commons-lang3:3.1",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 185141,
-          "sha256": "b9655f5344b05081ad34101acb9635984a0179fd72f0eea61d7bd79fda5761fc",
-          "name": "commons-io:commons-io:2.4",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 190433,
-          "sha256": "5f40a1a511526c08178439d20b9bb9259991740600a5268cc504d63c6f73d963",
-          "name": "com.google.code.gson:gson:2.2.4",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 34602,
-          "sha256": "7a3381ab018b7d93445a8d47ccf71a76c6226555969f9be253764304ca3f28e1",
-          "name": "com.mojang:authlib:1.2",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 108162,
-          "sha256": "1488b4697dfe2c4da55030c223b1202aef8f8b7f2fd6d897156bb891c76d7efd",
-          "name": "org.apache.logging.log4j:log4j-api:2.0-beta9",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 681135,
-          "sha256": "30710aca849821ef8ff3f1808eb21a25aa810209a153644ee5c8cf683ebffbbe",
-          "name": "org.apache.logging.log4j:log4j-core:2.0-beta9",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": 52316,
-          "sha256": "8f14f26706d1d1f52856b21ff973165eb449f3194d3ccbc283213ec5fbb3a4cd",
-          "name": "tv.twitch:twitch:5.16",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.7.4/1.7.4.jar",
-          "size": 5206444,
-          "sha256": "5dffe83162442558a680761e7afd7c3ef056d4a414dd5108059395771a2ee196",
-          "name": "net.minecraft:minecraft:1.7.4"
-        }
-      ],
-      "java.natives": [
-        {
-          "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-32.jar",
-          "size": 386793,
-          "sha256": "c03cdab444d33f35e079128b4d5b586d6eabee13cd1dd7f575cb1558c5d5577c",
-          "rules": [
-            {
-              "action": "disallow"
-            },
-            {
-              "action": "allow",
-              "os": {
-                "name": "windows",
-                "arch": "32"
-              }
-            }
-          ],
-          "name": "tv.twitch:twitch-platform:5.16",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-64.jar",
-          "size": 463391,
-          "sha256": "d11b13d7c0692c506cbe48836678ee5035c4cf67fbca15838a540a67a36e196c",
-          "rules": [
-            {
-              "action": "disallow"
-            },
-            {
-              "action": "allow",
-              "os": {
-                "name": "windows",
-                "arch": "64"
-              }
-            }
-          ],
-          "name": "tv.twitch:twitch-platform:5.16",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-osx.jar",
-          "size": 418332,
-          "sha256": "b6eb882284d2938acfb23676f429cab280000d03010f7bb9ce6f8bd52d073097",
-          "rules": [
-            {
-              "action": "disallow"
-            },
-            {
-              "action": "allow",
-              "os": {
-                "name": "osx",
-                "arch": "64"
-              }
-            }
-          ],
-          "name": "tv.twitch:twitch-platform:5.16",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar",
-          "size": 5654048,
-          "sha256": "37736bc243ea6c83f2e8a21d5aff76a6ae9d1eddabda2f76929f75a57d84ca72",
-          "rules": [
-            {
-              "action": "disallow"
-            },
-            {
-              "action": "allow",
-              "os": {
-                "name": "windows",
-                "arch": "32"
-              }
-            }
-          ],
-          "name": "tv.twitch:twitch-external-platform:4.5",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar",
-          "size": 7457620,
-          "sha256": "e1a7ae9c7b0897b312643532072c8a74c828c580f8c296b5c199fdd52c06b4e5",
-          "rules": [
-            {
-              "action": "disallow"
-            },
-            {
-              "action": "allow",
-              "os": {
-                "name": "windows",
-                "arch": "64"
-              }
-            }
-          ],
-          "name": "tv.twitch:twitch-external-platform:4.5",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        }
-      ],
-      "java.mainClass": "net.minecraft.client.main.Main",
-      "mc.jarModTarget": "net.minecraft:minecraft:1.7.4",
-      "mc.assets": "1.7.4",
-      "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:1.7.4",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.7.4/1.7.4.jar",
+      "insert": "prepend"
     },
     {
-      "general.launcher": "java.jar",
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.7.4/minecraft_server.1.7.4.jar",
-          "size": 9170552,
-          "sha256": "0a6062e8a892036393bb1f21be4eaeea666904f5cbe4dd861823180f1c509d9a",
-          "name": "net.minecraft:minecraft_server:1.7.4"
-        }
-      ],
-      "mc.jarModTarget": "net.minecraft:minecraft_server:1.7.4",
+      "name": "tv.twitch:twitch-external-platform:4.5",
+      "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-${arch}.jar",
       "rules": [
         {
           "action": "disallow"
         },
         {
           "action": "allow",
-          "side": "server"
+          "os": {
+            "name": "windows"
+          }
         }
-      ]
+      ],
+      "insert": "prepend"
+    },
+    {
+      "name": "tv.twitch:twitch-platform:5.16",
+      "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-osx.jar",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ],
+      "insert": "prepend"
+    },
+    {
+      "name": "tv.twitch:twitch-platform:5.16",
+      "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-${arch}.jar",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ],
+      "insert": "prepend"
+    },
+    {
+      "name": "tv.twitch:twitch:5.16",
+      "url": "https://libraries.minecraft.net/tv/twitch/twitch/5.16/twitch-5.16.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-core:2.0-beta9",
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-api:2.0-beta9",
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.mojang:authlib:1.2",
+      "url": "https://libraries.minecraft.net/com/mojang/authlib/1.2/authlib-1.2.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.google.code.gson:gson:2.2.4",
+      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "commons-io:commons-io:2.4",
+      "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.1",
+      "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.google.guava:guava:15.0",
+      "url": "https://libraries.minecraft.net/com/google/guava/guava/15.0/guava-15.0.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "io.netty:netty-all:4.0.10.Final",
+      "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:soundsystem:20120107",
+      "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:librarylwjglopenal:20100824",
+      "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:libraryjavasound:20101123",
+      "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:codecwav:20101023",
+      "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.paulscode:codecjorbis:20101023",
+      "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:4.5",
+      "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "com.ibm.icu:icu4j-core-mojang:51.2",
+      "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "net.sf.trove4j:trove4j:3.0.3",
+      "url": "https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+      "insert": "prepend"
+    },
+    {
+      "name": "java3d:vecmath:1.3.1",
+      "url": "https://libraries.minecraft.net/java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

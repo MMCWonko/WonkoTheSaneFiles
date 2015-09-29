@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "minefactoryreloaded",
   "version": "2.8.0RC3-591",
-  "time": 1409348395,
+  "time": "1409348395",
   "type": "Beta",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/minefactoryreloaded-2.8.0RC3-591.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

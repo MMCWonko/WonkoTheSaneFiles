@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "holoinventory",
   "version": "42",
-  "time": 1386435386000,
+  "time": "1386435386000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

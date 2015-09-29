@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "greenthumb",
   "version": "2",
-  "time": 1410123750000,
+  "time": "1410123750000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

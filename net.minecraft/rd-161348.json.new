@@ -1,0 +1,44 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraft",
+  "version": "rd-161348",
+  "time": "1242474480",
+  "type": "old_alpha",
+  "data": [
+    {
+      "general.traits": [
+        "no-texturepacks"
+      ],
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ]
+      },
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-161348/rd-161348.jar",
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraft:minecraft:rd-161348"
+        }
+      ],
+      "java.mainClass": "com.mojang.minecraft.RubyDung",
+      "mc.arguments": " ${auth_player_name} ${auth_session}",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

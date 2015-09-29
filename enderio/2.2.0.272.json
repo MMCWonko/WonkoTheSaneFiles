@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "enderio",
   "version": "2.2.0.272",
-  "time": 1415676617,
+  "time": "1415676617",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/enderio-2.2.0.272.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

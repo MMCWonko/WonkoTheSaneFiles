@@ -2,13 +2,8 @@
   "formatVersion": 0,
   "uid": "forgeessentials",
   "version": "0.1.0.188",
-  "time": 1356896771,
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.4.6"
-    }
-  ],
+  "time": "1356896771",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -19,6 +14,12 @@
           "destination": "mods/forgeessentials-0.1.0.188.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.4.6"
     }
   ]
 }

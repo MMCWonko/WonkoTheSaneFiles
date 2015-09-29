@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "creepercollateral",
   "version": "1.0.0B1-3",
-  "time": 1409182484,
+  "time": "1409182484",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/creepercollateral-1.0.0B1-3.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

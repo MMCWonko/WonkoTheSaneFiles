@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "openblocks",
   "version": "590",
-  "time": 1428608288583,
+  "time": "1428608288583",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

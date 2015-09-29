@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "inventorytweaks",
   "version": "136",
-  "time": 1404050804000,
+  "time": "1404050804000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

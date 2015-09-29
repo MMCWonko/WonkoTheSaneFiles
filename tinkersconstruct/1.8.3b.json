@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "tinkersconstruct",
   "version": "1.8.3b",
-  "time": 1426267963,
+  "time": "1426267963",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/tinkersconstruct-1.8.3b.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

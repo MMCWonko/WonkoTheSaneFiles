@@ -1,41 +1,28 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "a1.0.15",
-  "time": 1280872800,
+  "time": "1280872800-01-01T00:00:00+00:00",
+  "releaseTime": "1280872800-01-01T00:00:00+00:00",
   "type": "old_alpha",
   "data": [
+
+  ],
+  "requires": [
+
+  ],
+  "order": -2,
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+libraries": [
     {
-      "general.traits": [
-        "legacyLaunch",
-        "no-texturepacks"
-      ],
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/texturepacks": [
-          "mc.texturepacks"
-        ]
-      },
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.15/a1.0.15.jar",
-          "size": 858726,
-          "sha256": "af137494fd6a05503fcb38b2dcecf9754e445e25e932a9765941b9eda3a9e34d",
-          "name": "net.minecraft:minecraft:a1.0.15"
-        }
-      ],
-      "mc.arguments": " ${auth_player_name} ${auth_session}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:a1.0.15",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.15/a1.0.15.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

@@ -2,13 +2,8 @@
   "formatVersion": 0,
   "uid": "secretroomsmod",
   "version": "4.5.0.201",
-  "time": 1391621211,
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.4.7"
-    }
-  ],
+  "time": "1391621211",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -19,6 +14,12 @@
           "destination": "mods/secretroomsmod-4.5.0.201.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.4.7"
     }
   ]
 }

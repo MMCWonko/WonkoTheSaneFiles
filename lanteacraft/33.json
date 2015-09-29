@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "lanteacraft",
   "version": "33",
-  "time": 1402149512,
+  "time": "1402149512",
   "type": "Beta",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.6.4"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/lanteacraft-33.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
     }
   ]
 }

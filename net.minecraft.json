@@ -4,6 +4,81 @@
   "name": null,
   "versions": [
     {
+      "version": "15w39c",
+      "type": "snapshot",
+      "time": 1443014034
+    },
+    {
+      "version": "15w39b",
+      "type": "snapshot",
+      "time": 1442848192
+    },
+    {
+      "version": "15w39a",
+      "type": "snapshot",
+      "time": 1442841392
+    },
+    {
+      "version": "15w38b",
+      "type": "snapshot",
+      "time": 1442499751
+    },
+    {
+      "version": "15w37a",
+      "type": "snapshot",
+      "time": 1441894951
+    },
+    {
+      "version": "15w36d",
+      "type": "snapshot",
+      "time": 1441376551
+    },
+    {
+      "version": "15w35e",
+      "type": "snapshot",
+      "time": 1440785642
+    },
+    {
+      "version": "15w34d",
+      "type": "snapshot",
+      "time": 1440170875
+    },
+    {
+      "version": "15w33c",
+      "type": "snapshot",
+      "time": 1439557846
+    },
+    {
+      "version": "15w32c",
+      "type": "snapshot",
+      "time": 1438956497
+    },
+    {
+      "version": "15w31c",
+      "type": "snapshot",
+      "time": 1438350308
+    },
+    {
+      "version": "1.8.8",
+      "type": "release",
+      "time": 1437993088
+    },
+    {
+      "version": "1.8.7",
+      "type": "release",
+      "time": 1433499044
+    },
+    {
+      "version": "1.8.6",
+      "type": "release",
+      "time": 1432549879
+    },
+    {
+      "version": "1.8.5",
+      "type": "release",
+      "time": 1432293328
+    },
+    {
       "version": "1.8.4",
       "type": "release",
       "time": 1429270670
@@ -19,11 +94,6 @@
       "time": 1424360849
     },
     {
-      "version": "1.8.2-pre7",
-      "type": "snapshot",
-      "time": 1424091695
-    },
-    {
       "version": "1.8.1",
       "type": "release",
       "time": 1416838411
@@ -34,109 +104,9 @@
       "time": 1409646275
     },
     {
-      "version": "14w34d",
-      "type": "snapshot",
-      "time": 1408538819
-    },
-    {
-      "version": "14w33c",
-      "type": "snapshot",
-      "time": 1408125626
-    },
-    {
-      "version": "14w32d",
-      "type": "snapshot",
-      "time": 1407510821
-    },
-    {
-      "version": "14w31a",
-      "type": "snapshot",
-      "time": 1406734685
-    },
-    {
-      "version": "14w30c",
-      "type": "snapshot",
-      "time": 1406212749
-    },
-    {
-      "version": "14w29b",
-      "type": "snapshot",
-      "time": 1405531660
-    },
-    {
-      "version": "14w28b",
-      "type": "snapshot",
-      "time": 1405002528
-    },
-    {
-      "version": "14w27b",
-      "type": "snapshot",
-      "time": 1404326096
-    },
-    {
-      "version": "14w26c",
-      "type": "snapshot",
-      "time": 1403795103
-    },
-    {
       "version": "1.7.10",
       "type": "release",
       "time": 1400088563
-    },
-    {
-      "version": "14w25b",
-      "type": "snapshot",
-      "time": 1403180988
-    },
-    {
-      "version": "1.7.10-pre4",
-      "type": "snapshot",
-      "time": 1400084963
-    },
-    {
-      "version": "1.7.10-pre3",
-      "type": "snapshot",
-      "time": 1400081363
-    },
-    {
-      "version": "1.7.10-pre2",
-      "type": "snapshot",
-      "time": 1400077763
-    },
-    {
-      "version": "1.7.10-pre1",
-      "type": "snapshot",
-      "time": 1400074163
-    },
-    {
-      "version": "14w21b",
-      "type": "snapshot",
-      "time": 1400771875
-    },
-    {
-      "version": "14w20b",
-      "type": "snapshot",
-      "time": 1400172441
-    },
-    {
-      "version": "14w19a",
-      "type": "snapshot",
-      "time": 1399559059
-    },
-    {
-      "version": "14w18b",
-      "type": "snapshot",
-      "time": 1399030697
-    },
-    {
-      "version": "14w17a",
-      "type": "snapshot",
-      "time": 1398354289
-    },
-    {
-      "version": "14w11b",
-      "type": "snapshot",
-      "time": 1397486179
     },
     {
       "version": "1.7.9",
@@ -144,49 +114,9 @@
       "time": 1397482163
     },
     {
-      "version": "14w10c",
-      "type": "snapshot",
-      "time": 1394200195
-    },
-    {
-      "version": "14w08a",
-      "type": "snapshot",
-      "time": 1393434000
-    },
-    {
       "version": "1.7.5",
       "type": "release",
       "time": 1393406537
-    },
-    {
-      "version": "14w07a",
-      "type": "snapshot",
-      "time": 1392375907
-    },
-    {
-      "version": "14w06b",
-      "type": "snapshot",
-      "time": 1391707842
-    },
-    {
-      "version": "14w05b",
-      "type": "snapshot",
-      "time": 1391177150
-    },
-    {
-      "version": "14w04b",
-      "type": "snapshot",
-      "time": 1390578526
-    },
-    {
-      "version": "14w03b",
-      "type": "snapshot",
-      "time": 1389890179
-    },
-    {
-      "version": "14w02c",
-      "type": "snapshot",
-      "time": 1389368556
     },
     {
       "version": "1.7.4",
@@ -194,24 +124,9 @@
       "time": 1386592090
     },
     {
-      "version": "1.7.3",
-      "type": "release",
-      "time": 1386338134
-    },
-    {
       "version": "1.7.2",
       "type": "release",
       "time": 1382706000
-    },
-    {
-      "version": "1.7.1",
-      "type": "snapshot",
-      "time": 1382529667
-    },
-    {
-      "version": "1.7",
-      "type": "snapshot",
-      "time": 1382454245
     },
     {
       "version": "1.6.4",

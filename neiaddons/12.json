@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "neiaddons",
   "version": "12",
-  "time": 1420645862000,
+  "time": "1420645862000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

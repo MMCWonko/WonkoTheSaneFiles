@@ -1,41 +1,29 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "rd-132211",
-  "time": 1242245460,
+  "time": "1242245460-01-01T00:00:00+00:00",
+  "releaseTime": "1242245460-01-01T00:00:00+00:00",
   "type": "old_alpha",
   "data": [
+
+  ],
+  "requires": [
+
+  ],
+  "order": -2,
+  "mainClass": "com.mojang.rubydung.RubyDung",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+libraries": [
     {
-      "general.traits": [
-        "no-texturepacks"
-      ],
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/texturepacks": [
-          "mc.texturepacks"
-        ]
-      },
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-132211/rd-132211.jar",
-          "size": 26705,
-          "sha256": "010350502cc8f8e14183815a1ce143abcf7e58b1594944e621da4ba02c2ca240",
-          "name": "net.minecraft:minecraft:rd-132211"
-        }
-      ],
-      "java.mainClass": "com.mojang.rubydung.RubyDung",
-      "mc.arguments": " ${auth_player_name} ${auth_session}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:rd-132211",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-132211/rd-132211.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

@@ -1,41 +1,29 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "rd-161348",
-  "time": 1242474480,
+  "time": "1242474480-01-01T00:00:00+00:00",
+  "releaseTime": "1242474480-01-01T00:00:00+00:00",
   "type": "old_alpha",
   "data": [
+
+  ],
+  "requires": [
+
+  ],
+  "order": -2,
+  "mainClass": "com.mojang.minecraft.RubyDung",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+libraries": [
     {
-      "general.traits": [
-        "no-texturepacks"
-      ],
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/texturepacks": [
-          "mc.texturepacks"
-        ]
-      },
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-161348/rd-161348.jar",
-          "size": 60481,
-          "sha256": "b336a1911ef4ff88ba5284fbd710b65b2f4823a069024fa3ec0c2515f43497d6",
-          "name": "net.minecraft:minecraft:rd-161348"
-        }
-      ],
-      "java.mainClass": "com.mojang.minecraft.RubyDung",
-      "mc.arguments": " ${auth_player_name} ${auth_session}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:rd-161348",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-161348/rd-161348.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

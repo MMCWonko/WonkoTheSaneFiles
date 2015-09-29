@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "enderio",
   "version": "365",
-  "time": 1427707120000,
+  "time": "1427707120000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "logisticspipes",
   "version": "34",
-  "time": 1408798090000,
+  "time": "1408798090000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

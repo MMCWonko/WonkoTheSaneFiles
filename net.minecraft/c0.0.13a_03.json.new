@@ -1,0 +1,46 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraft",
+  "version": "c0.0.13a_03",
+  "time": "1242943200",
+  "type": "old_alpha",
+  "data": [
+    {
+      "general.traits": [
+        "legacyLaunch",
+        "no-texturepacks"
+      ],
+      "general.folders": {
+        "minecraft/screenshots": [
+          "general.screenshots"
+        ],
+        "minecraft/texturepacks": [
+          "mc.texturepacks"
+        ]
+      },
+      "java.libraries": [
+        {
+          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.13a_03/c0.0.13a_03.jar",
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraft:minecraft:c0.0.13a_03"
+        }
+      ],
+      "java.mainClass": "com.mojang.minecraft.c",
+      "mc.appletClass": "com.mojang.minecraft.MinecraftApplet",
+      "mc.arguments": " ${auth_player_name} ${auth_session}",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

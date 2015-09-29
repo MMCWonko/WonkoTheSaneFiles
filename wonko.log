@@ -1,0 +1,335 @@
+ INFO  General : [0;33;49mWelcome to WonkoTheSane![0m
+ INFO  General : [0;33;49mWelcome to WonkoTheSane![0m
+ INFO  General : [0;33;49mWelcome to WonkoTheSane![0m
+ INFO  General : [0;33;49mWelcome to WonkoTheSane![0m
+ INFO  General : [0;33;49mWelcome to WonkoTheSane![0m
+ INFO  General : [0;33;49mWelcome to WonkoTheSane![0m
+ INFO  net.minecraft : Refreshing
+ INFO  net.minecraft : Refreshing
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.5.2/1.5.2.jar
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/versions.json
+ERROR  net.minecraft : Unable to store: 1.5.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.5.1/1.5.1.jar
+ERROR  net.minecraft : Unable to store: 1.5.1
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.5/1.5.jar
+ERROR  net.minecraft : Unable to store: 1.5
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.4.7/1.4.7.jar
+ERROR  net.minecraft : Unable to store: 1.4.7
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.4.6/1.4.6.jar
+ERROR  net.minecraft : Unable to store: 1.4.6
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.4.5/1.4.5.jar
+ERROR  net.minecraft : Unable to store: 1.4.5
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.4.4/1.4.4.jar
+ERROR  net.minecraft : Unable to store: 1.4.4
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.4.3/1.4.3.jar
+ERROR  net.minecraft : Unable to store: 1.4.3
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.4.2/1.4.2.jar
+ERROR  net.minecraft : Unable to store: 1.4.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.4.1/1.4.1.jar
+ERROR  net.minecraft : Unable to store: 1.4.1
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.4/1.4.jar
+ERROR  net.minecraft : Unable to store: 1.4
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.3.2/1.3.2.jar
+ERROR  net.minecraft : Unable to store: 1.3.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.3.1/1.3.1.jar
+ERROR  net.minecraft : Unable to store: 1.3.1
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.3/1.3.jar
+ERROR  net.minecraft : Unable to store: 1.3
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.2.5/1.2.5.jar
+ERROR  net.minecraft : Unable to store: 1.2.5
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.2.4/1.2.4.jar
+ERROR  net.minecraft : Unable to store: 1.2.4
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.2.3/1.2.3.jar
+ERROR  net.minecraft : Unable to store: 1.2.3
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.2.2/1.2.2.jar
+ERROR  net.minecraft : Unable to store: 1.2.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.2.1/1.2.1.jar
+ERROR  net.minecraft : Unable to store: 1.2.1
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.1/1.1.jar
+ERROR  net.minecraft : Unable to store: 1.1
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/1.0/1.0.jar
+ERROR  net.minecraft : Unable to store: 1.0
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.8.1/b1.8.1.jar
+ERROR  net.minecraft : Unable to store: b1.8.1
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.8/b1.8.jar
+ERROR  net.minecraft : Unable to store: b1.8
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.7.3/b1.7.3.jar
+ERROR  net.minecraft : Unable to store: b1.7.3
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.7.2/b1.7.2.jar
+ERROR  net.minecraft : Unable to store: b1.7.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.7/b1.7.jar
+ERROR  net.minecraft : Unable to store: b1.7
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.6.6/b1.6.6.jar
+ERROR  net.minecraft : Unable to store: b1.6.6
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.6.5/b1.6.5.jar
+ERROR  net.minecraft : Unable to store: b1.6.5
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.6.4/b1.6.4.jar
+ERROR  net.minecraft : Unable to store: b1.6.4
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.6.3/b1.6.3.jar
+ERROR  net.minecraft : Unable to store: b1.6.3
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.6.2/b1.6.2.jar
+ERROR  net.minecraft : Unable to store: b1.6.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.6.1/b1.6.1.jar
+ERROR  net.minecraft : Unable to store: b1.6.1
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.6/b1.6.jar
+ERROR  net.minecraft : Unable to store: b1.6
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.5_01/b1.5_01.jar
+ERROR  net.minecraft : Unable to store: b1.5_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.5/b1.5.jar
+ERROR  net.minecraft : Unable to store: b1.5
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.4_01/b1.4_01.jar
+ERROR  net.minecraft : Unable to store: b1.4_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.4/b1.4.jar
+ERROR  net.minecraft : Unable to store: b1.4
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.3_01/b1.3_01.jar
+ERROR  net.minecraft : Unable to store: b1.3_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.3b/b1.3b.jar
+ERROR  net.minecraft : Unable to store: b1.3b
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.2_02/b1.2_02.jar
+ERROR  net.minecraft : Unable to store: b1.2_02
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.2_01/b1.2_01.jar
+ERROR  net.minecraft : Unable to store: b1.2_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.2/b1.2.jar
+ERROR  net.minecraft : Unable to store: b1.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.1_02/b1.1_02.jar
+ERROR  net.minecraft : Unable to store: b1.1_02
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.1_01/b1.1_01.jar
+ERROR  net.minecraft : Unable to store: b1.1_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.0.2/b1.0.2.jar
+ERROR  net.minecraft : Unable to store: b1.0.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.0_01/b1.0_01.jar
+ERROR  net.minecraft : Unable to store: b1.0_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/b1.0/b1.0.jar
+ERROR  net.minecraft : Unable to store: b1.0
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.6/a1.2.6.jar
+ERROR  net.minecraft : Unable to store: a1.2.6
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.5/a1.2.5.jar
+ERROR  net.minecraft : Unable to store: a1.2.5
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.4_01/a1.2.4_01.jar
+ERROR  net.minecraft : Unable to store: a1.2.4_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.3_04/a1.2.3_04.jar
+ERROR  net.minecraft : Unable to store: a1.2.3_04
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.3_02/a1.2.3_02.jar
+ERROR  net.minecraft : Unable to store: a1.2.3_02
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.3_01/a1.2.3_01.jar
+ERROR  net.minecraft : Unable to store: a1.2.3_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.3/a1.2.3.jar
+ERROR  net.minecraft : Unable to store: a1.2.3
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.2b/a1.2.2b.jar
+ERROR  net.minecraft : Unable to store: a1.2.2b
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.2a/a1.2.2a.jar
+ERROR  net.minecraft : Unable to store: a1.2.2a
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.1_01/a1.2.1_01.jar
+ERROR  net.minecraft : Unable to store: a1.2.1_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.1/a1.2.1.jar
+ERROR  net.minecraft : Unable to store: a1.2.1
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.0_02/a1.2.0_02.jar
+ERROR  net.minecraft : Unable to store: a1.2.0_02
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.0_01/a1.2.0_01.jar
+ERROR  net.minecraft : Unable to store: a1.2.0_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.2.0/a1.2.0.jar
+ERROR  net.minecraft : Unable to store: a1.2.0
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.1.2_01/a1.1.2_01.jar
+ERROR  net.minecraft : Unable to store: a1.1.2_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.1.2/a1.1.2.jar
+ERROR  net.minecraft : Unable to store: a1.1.2
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.1.0/a1.1.0.jar
+ERROR  net.minecraft : Unable to store: a1.1.0
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.17_04/a1.0.17_04.jar
+ERROR  net.minecraft : Unable to store: a1.0.17_04
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.17_02/a1.0.17_02.jar
+ERROR  net.minecraft : Unable to store: a1.0.17_02
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.16/a1.0.16.jar
+ERROR  net.minecraft : Unable to store: a1.0.16
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.15/a1.0.15.jar
+ERROR  net.minecraft : Unable to store: a1.0.15
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.14/a1.0.14.jar
+ERROR  net.minecraft : Unable to store: a1.0.14
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.11/a1.0.11.jar
+ERROR  net.minecraft : Unable to store: a1.0.11
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.5_01/a1.0.5_01.jar
+ERROR  net.minecraft : Unable to store: a1.0.5_01
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/a1.0.4/a1.0.4.jar
+ERROR  net.minecraft : Unable to store: a1.0.4
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/inf-20100618/inf-20100618.jar
+ERROR  net.minecraft : Unable to store: inf-20100618
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/c0.30_01c/c0.30_01c.jar
+ERROR  net.minecraft : Unable to store: c0.30_01c
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.13a_03/c0.0.13a_03.jar
+ERROR  net.minecraft : Unable to store: c0.0.13a_03
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.13a/c0.0.13a.jar
+ERROR  net.minecraft : Unable to store: c0.0.13a
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.11a/c0.0.11a.jar
+ERROR  net.minecraft : Unable to store: c0.0.11a
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/rd-161348/rd-161348.jar
+ERROR  net.minecraft : Unable to store: rd-161348
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/rd-160052/rd-160052.jar
+ERROR  net.minecraft : Unable to store: rd-160052
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/rd-132328/rd-132328.jar
+ERROR  net.minecraft : Unable to store: rd-132328
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+DEBUG  net.minecraft : DL: http://s3.amazonaws.com/Minecraft.Download/versions/rd-132211/rd-132211.jar
+ERROR  net.minecraft : Unable to store: rd-132211
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ WARN  net.minecraft : /home/jan/.rvm/gems/ruby-2.2.1/gems/wonko_the_sane-0.1.0/lib/wonko_the_sane/util/http_cache.rb:47:in `http_get'
+ERROR  net.minecraft : uninitialized constant HTTPCache::URI
+ INFO  General : [0;33;49mWelcome to WonkoTheSane![0m

@@ -1,43 +1,28 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "1.2.1",
-  "time": 1330552800,
+  "time": "1330552800-01-01T00:00:00+00:00",
+  "releaseTime": "1330552800-01-01T00:00:00+00:00",
   "type": "release",
   "data": [
+
+  ],
+  "requires": [
+
+  ],
+  "order": -2,
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+libraries": [
     {
-      "general.traits": [
-        "legacyLaunch"
-      ],
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/texturepacks": [
-          "mc.texturepacks"
-        ],
-        "minecraft/saves": [
-          "mc.saves.anvil"
-        ]
-      },
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.2.1/1.2.1.jar",
-          "size": 3988926,
-          "sha256": "c55eb2b94d4ce045287f111b709208f6e1b0703f2d289c8dda58402bc2d5bbd3",
-          "name": "net.minecraft:minecraft:1.2.1"
-        }
-      ],
-      "mc.arguments": " ${auth_player_name} ${auth_session}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:1.2.1",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.2.1/1.2.1.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

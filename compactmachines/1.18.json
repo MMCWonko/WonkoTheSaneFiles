@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "compactmachines",
   "version": "1.18",
-  "time": 1428500766,
+  "time": "1428500766",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/compactmachines-1.18.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

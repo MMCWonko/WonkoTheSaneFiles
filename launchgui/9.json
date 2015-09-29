@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "launchgui",
   "version": "9",
-  "time": 1423375867604,
+  "time": "1423375867604",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

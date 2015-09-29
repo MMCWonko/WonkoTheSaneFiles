@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "minefactoryreloaded",
   "version": "2.8.0-104",
-  "time": 1428818474,
+  "time": "1428818474",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/minefactoryreloaded-2.8.0-104.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

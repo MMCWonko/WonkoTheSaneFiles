@@ -1,0 +1,49 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge.fml",
+  "version": "6.1.8.669",
+  "time": "1372719380",
+  "type": null,
+  "data": [
+    {
+      "mc.jarmod": [
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraftforge:fml:1.6.1-6.1.8.669:universal@jar",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        }
+      ],
+      "mc.arguments": [
+        "-Dfml.ignoreInvalidMinecraftCertificates=true",
+        "-Dfml.ignorePatchDiscrepancies=true"
+      ],
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    },
+    {
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.forgemods",
+          "mc.forgecoremods"
+        ],
+        "minecraft/coremods": [
+          "mc.forgecoremods"
+        ]
+      }
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.1"
+    }
+  ]
+}

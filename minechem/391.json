@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "minechem",
   "version": "391",
-  "time": 1425150370729,
+  "time": "1425150370729",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

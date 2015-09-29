@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "627",
+  "time": "1431711708000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/627/artifact/build/libs/OpenBlocks-1.7.10-1.4.3-snapshot-627.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-627.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

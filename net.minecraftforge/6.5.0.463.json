@@ -1,0 +1,32 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge",
+  "name": "net.minecraftforge",
+  "fileId": "net.minecraftforge",
+  "version": "6.5.0.463",
+  "time": "1355953698-01-01T00:00:00+00:00",
+  "releaseTime": "1355953698-01-01T00:00:00+00:00",
+  "type": null,
+  "data": [
+
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.4.6"
+    }
+  ],
+  "order": 5,
+  "mcVersion": "1.4.6",
+  "minecraftArguments": [
+    "-Dfml.ignoreInvalidMinecraftCertificates=true",
+    "-Dfml.ignorePatchDiscrepancies=true"
+  ],
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+    {
+    }
+  ]
+}

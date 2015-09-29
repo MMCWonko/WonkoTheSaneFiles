@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "buildcraft",
   "version": "702",
-  "time": 1428346446960,
+  "time": "1428346446960",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

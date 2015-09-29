@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "minefactoryreloaded",
   "version": "1083",
-  "time": 1373721961000,
+  "time": "1373721961000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

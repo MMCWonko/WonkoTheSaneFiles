@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "madscience",
   "version": "190",
-  "time": 1406735323000,
+  "time": "1406735323000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

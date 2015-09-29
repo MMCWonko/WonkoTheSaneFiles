@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "numina",
   "version": "93",
-  "time": 1410270477000,
+  "time": "1410270477000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

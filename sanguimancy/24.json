@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "sanguimancy",
   "version": "24",
-  "time": 1424541548133,
+  "time": "1424541548133",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

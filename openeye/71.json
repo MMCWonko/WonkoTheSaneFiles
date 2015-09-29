@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "openeye",
   "version": "71",
-  "time": 1399569518000,
+  "time": "1399569518000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

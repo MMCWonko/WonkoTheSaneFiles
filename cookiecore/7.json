@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "cookiecore",
   "version": "7",
-  "time": 1427817779919,
+  "time": "1427817779919",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

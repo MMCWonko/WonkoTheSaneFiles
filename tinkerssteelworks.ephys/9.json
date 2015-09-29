@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "tinkerssteelworks.ephys",
   "version": "9",
-  "time": 1427574389767,
+  "time": "1427574389767",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

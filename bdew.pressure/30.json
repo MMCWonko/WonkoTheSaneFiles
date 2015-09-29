@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "bdew.pressure",
   "version": "30",
-  "time": 1411314878000,
+  "time": "1411314878000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

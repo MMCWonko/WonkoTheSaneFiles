@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "lanteacraft",
   "version": "57",
-  "time": 1418556456,
+  "time": "1418556456",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/lanteacraft-57.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

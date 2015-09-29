@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "loaderlist",
   "version": "2",
-  "time": 1414991857000,
+  "time": "1414991857000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

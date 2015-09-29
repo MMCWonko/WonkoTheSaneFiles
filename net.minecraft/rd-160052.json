@@ -1,41 +1,29 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraft",
+  "name": "net.minecraft",
+  "fileId": "net.minecraft",
   "version": "rd-160052",
-  "time": 1242427920,
+  "time": "1242427920-01-01T00:00:00+00:00",
+  "releaseTime": "1242427920-01-01T00:00:00+00:00",
   "type": "old_alpha",
   "data": [
+
+  ],
+  "requires": [
+
+  ],
+  "order": -2,
+  "mainClass": "com.mojang.rubydung.RubyDung",
+  "minecraftArguments": " ${auth_player_name} ${auth_session}",
+  "+libraries": [
     {
-      "general.traits": [
-        "no-texturepacks"
-      ],
-      "general.folders": {
-        "minecraft/screenshots": [
-          "general.screenshots"
-        ],
-        "minecraft/texturepacks": [
-          "mc.texturepacks"
-        ]
-      },
-      "java.libraries": [
-        {
-          "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-160052/rd-160052.jar",
-          "size": 49077,
-          "sha256": "e3966b07fd0b017313ce914f97797d13ecef642c8ba96db5367f5f3732835960",
-          "name": "net.minecraft:minecraft:rd-160052"
-        }
-      ],
-      "java.mainClass": "com.mojang.rubydung.RubyDung",
-      "mc.arguments": " ${auth_player_name} ${auth_session}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
+      "name": "net.minecraft:minecraft:rd-160052",
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-160052/rd-160052.jar",
+      "insert": "prepend"
     }
+  ],
+  "+jarMods": [
+
   ]
 }

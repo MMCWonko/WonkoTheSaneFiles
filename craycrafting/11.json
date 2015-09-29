@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "craycrafting",
   "version": "11",
-  "time": 1408382161000,
+  "time": "1408382161000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

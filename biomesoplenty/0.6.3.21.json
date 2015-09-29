@@ -2,13 +2,8 @@
   "formatVersion": 0,
   "uid": "biomesoplenty",
   "version": "0.6.3.21",
-  "time": 1379835490,
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.6.4"
-    }
-  ],
+  "time": "1379835490",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -19,6 +14,12 @@
           "destination": "mods/biomesoplenty-0.6.3.21.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
     }
   ]
 }

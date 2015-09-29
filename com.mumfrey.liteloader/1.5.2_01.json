@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "com.mumfrey.liteloader",
   "version": "1.5.2_01",
-  "time": 1367366420,
+  "time": "1367366420",
   "type": "release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.5.2"
-    }
-  ],
   "data": [
     {
       "general.folders": {
@@ -20,25 +14,25 @@
       "java.libraries": [
         {
           "url": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.5.2/liteloader-1.5.2_01.jar",
-          "size": 47066,
-          "sha256": "e6c7f3895ee4cfd39886c30843514ac5a38c216987c3ed61e1f6cf0a2bb16987",
+          "size": null,
+          "sha256": null,
           "name": "com.mumfrey:liteloader:1.5.2_01"
         },
         {
-          "size": 27788,
-          "sha256": "9ee2e7fc1f951710c8e06753e217c04bb43f621ec3659f064663b6248eda51e1",
+          "size": null,
+          "sha256": null,
           "name": "net.minecraft:launchwrapper:1.5",
           "mavenBaseUrl": "https://libraries.minecraft.net/"
         },
         {
-          "size": 61312,
-          "sha256": "15db96ed0321c714dd7fa88da15005f59dc89e701ce105b592b9e9a57ea26ba7",
+          "size": null,
+          "sha256": null,
           "name": "net.sf.jopt-simple:jopt-simple:4.5",
           "mavenBaseUrl": "https://libraries.minecraft.net/"
         },
         {
-          "size": 214593,
-          "sha256": "82a42eb3fd1af2a8901e0409c7bcaac323643ab17a217e249fd2176d3b8fabf9",
+          "size": null,
+          "sha256": null,
           "name": "org.ow2.asm:asm-all:4.1",
           "mavenBaseUrl": "https://libraries.minecraft.net/"
         }
@@ -56,6 +50,12 @@
           "side": "client"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.5.2"
     }
   ]
 }

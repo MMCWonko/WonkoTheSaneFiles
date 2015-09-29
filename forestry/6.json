@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "forestry",
   "version": "6",
-  "time": 1418622340000,
+  "time": "1418622340000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

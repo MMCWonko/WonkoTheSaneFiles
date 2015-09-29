@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "inpurecore",
   "version": "1.0.0B1-1",
-  "time": 1409179410,
+  "time": "1409179410",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.7.10"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/inpurecore-1.0.0B1-1.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
     }
   ]
 }

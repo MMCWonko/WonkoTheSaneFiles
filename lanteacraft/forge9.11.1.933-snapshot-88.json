@@ -2,14 +2,8 @@
   "formatVersion": 0,
   "uid": "lanteacraft",
   "version": "forge9.11.1.933-snapshot-88",
-  "time": 1396430528,
+  "time": "1396430528",
   "type": "Release",
-  "requires": [
-    {
-      "uid": "net.minecraft",
-      "version": "1.6.4"
-    }
-  ],
   "data": [
     {
       "general.downloads": [
@@ -20,6 +14,12 @@
           "destination": "mods/lanteacraft-forge9.11.1.933-snapshot-88.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
     }
   ]
 }

@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "dimdoors",
   "version": "275",
-  "time": 1390199565000,
+  "time": "1390199565000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

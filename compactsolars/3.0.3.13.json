@@ -2,12 +2,8 @@
   "formatVersion": 0,
   "uid": "compactsolars",
   "version": "3.0.3.13",
-  "time": 1351381004,
-  "requires": [
-    {
-      "uid": "net.minecraft"
-    }
-  ],
+  "time": "1351381004",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -18,6 +14,11 @@
           "destination": "mods/compactsolars-3.0.3.13.jar"
         }
       ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft"
     }
   ]
 }

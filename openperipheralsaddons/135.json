@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "openperipheralsaddons",
   "version": "135",
-  "time": 1416649161000,
+  "time": "1416649161000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }

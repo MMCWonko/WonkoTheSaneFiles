@@ -2,7 +2,8 @@
   "formatVersion": 0,
   "uid": "lumberjack",
   "version": "18",
-  "time": 1427063276000,
+  "time": "1427063276000",
+  "type": null,
   "data": [
     {
       "general.downloads": [
@@ -14,5 +15,8 @@
         }
       ]
     }
+  ],
+  "requires": [
+
   ]
 }
