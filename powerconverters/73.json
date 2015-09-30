@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "powerconverters",
+  "name": "powerconverters",
+  "fileId": "powerconverters",
+  "version": "73",
+  "time": "1432816608000-01-01T00:00:00+00:00",
+  "releaseTime": "1432816608000-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

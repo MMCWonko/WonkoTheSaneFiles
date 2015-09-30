@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "375",
+  "time": "1429561662082",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/375/artifact/build/libs/EnderIO-1.7.10-2.3.0.375_beta.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-375.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

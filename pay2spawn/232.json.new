@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "pay2spawn",
+  "version": "232",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/Pay2Spawn/232/artifact/build/libs/Pay2Spawn-1.7.10-2.5.0.232.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/pay2spawn-232.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

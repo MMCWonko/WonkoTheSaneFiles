@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "ic2",
+  "name": "ic2",
+  "fileId": "ic2",
+  "version": "749",
+  "time": "1437076734661-01-01T00:00:00+00:00",
+  "releaseTime": "1437076734661-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

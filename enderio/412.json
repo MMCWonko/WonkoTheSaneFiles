@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "name": "enderio",
+  "fileId": "enderio",
+  "version": "412",
+  "time": "1441217464000-01-01T00:00:00+00:00",
+  "releaseTime": "1441217464000-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

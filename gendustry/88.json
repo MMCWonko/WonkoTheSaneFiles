@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "gendustry",
+  "name": "gendustry",
+  "fileId": "gendustry",
   "version": "88",
-  "time": "1432429634870",
+  "time": "1432429634870-01-01T00:00:00+00:00",
+  "releaseTime": "1432429634870-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/88/artifact/build/libs/gendustry-1.4.11.88-mc1.7.10.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/gendustry-88.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

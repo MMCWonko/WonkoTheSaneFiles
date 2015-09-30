@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "bdew.generators",
+  "name": "bdew.generators",
+  "fileId": "bdew.generators",
   "version": "58",
-  "time": "1427298067530",
+  "time": "1427298067530-01-01T00:00:00+00:00",
+  "releaseTime": "1427298067530-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/generators-1.7.10/58/artifact/build/libs/generators-mc1710-0.9.12.58.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/bdew.generators-58.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

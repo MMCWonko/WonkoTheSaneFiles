@@ -7,19 +7,16 @@
   "time": "1352844000-01-01T00:00:00+00:00",
   "releaseTime": "1352844000-01-01T00:00:00+00:00",
   "type": "release",
-  "data": [
-
-  ],
   "requires": [
 
   ],
   "order": -2,
+  "id": "1.4.4",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
     {
       "name": "net.minecraft:minecraft:1.4.4",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.4.4/1.4.4.jar",
-      "insert": "prepend"
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.4.4/1.4.4.jar"
     }
   ],
   "+jarMods": [

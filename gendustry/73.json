@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "gendustry",
+  "name": "gendustry",
+  "fileId": "gendustry",
   "version": "73",
-  "time": "1427282267233",
+  "time": "1427282267233-01-01T00:00:00+00:00",
+  "releaseTime": "1427282267233-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/73/artifact/build/libs/gendustry-mc1710-1.4.9.73.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/gendustry-73.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

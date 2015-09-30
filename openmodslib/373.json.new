@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "373",
+  "time": "1434885627000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/373/artifact/build/libs/OpenModsLib-1.7.10-0.7.3-snapshot-373.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-373.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

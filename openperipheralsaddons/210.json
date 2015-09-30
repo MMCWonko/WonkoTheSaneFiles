@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralsaddons",
+  "name": "openperipheralsaddons",
+  "fileId": "openperipheralsaddons",
+  "version": "210",
+  "time": "1437815650297-01-01T00:00:00+00:00",
+  "releaseTime": "1437815650297-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

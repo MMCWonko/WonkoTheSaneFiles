@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "104",
+  "time": "1441106458199",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/104/artifact/build/libs/bdlib-1.9.2.104-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-104.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

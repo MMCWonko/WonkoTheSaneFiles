@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openmodslib",
+  "name": "openmodslib",
+  "fileId": "openmodslib",
   "version": "339",
-  "time": "1428775632222",
+  "time": "1428775632222-01-01T00:00:00+00:00",
+  "releaseTime": "1428775632222-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenModsLib/339/artifact/build/libs/OpenModsLib-1.7.10-0.7-snapshot-339.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openmodslib-339.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.pressure",
+  "version": "118",
+  "time": "1438256501567",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/pressure-1.7.10/118/artifact/build/libs/pressure-1.2.3.118-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.pressure-118.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

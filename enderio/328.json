@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "enderio",
+  "name": "enderio",
+  "fileId": "enderio",
   "version": "328",
-  "time": "1421938125000",
+  "time": "1421938125000-01-01T00:00:00+00:00",
+  "releaseTime": "1421938125000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.tterrag.com/job/EnderIO/328/artifact/build/libs/EnderIO-1.7.10-2.2.7.328.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/enderio-328.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "ic2",
+  "version": "776",
+  "time": "1442934169584",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/IC2_experimental/776/artifact/build/libs/industrialcraft-2-2.2.776-experimental.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/ic2-776.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

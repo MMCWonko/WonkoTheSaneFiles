@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "name": "openblocks",
+  "fileId": "openblocks",
+  "version": "666",
+  "time": "1442434016851-01-01T00:00:00+00:00",
+  "releaseTime": "1442434016851-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

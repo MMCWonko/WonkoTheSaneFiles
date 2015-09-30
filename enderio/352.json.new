@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "352",
+  "time": "1424677797000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/352/artifact/build/libs/EnderIO-1.7.10-2.2.8.352.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-352.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

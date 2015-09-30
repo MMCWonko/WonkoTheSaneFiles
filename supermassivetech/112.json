@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "supermassivetech",
+  "name": "supermassivetech",
+  "fileId": "supermassivetech",
+  "version": "112",
+  "time": "1436240134000-01-01T00:00:00+00:00",
+  "releaseTime": "1436240134000-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

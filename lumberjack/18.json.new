@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "lumberjack",
+  "version": "18",
+  "time": "1427063276000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/Lumberjack/18/artifact/build/libs/Lumberjack-1.7.10-1.1.0.18.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/lumberjack-18.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

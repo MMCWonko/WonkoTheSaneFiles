@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "name": "openperipheralscore",
+  "fileId": "openperipheralscore",
+  "version": "241",
+  "time": "1437311684520-01-01T00:00:00+00:00",
+  "releaseTime": "1437311684520-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

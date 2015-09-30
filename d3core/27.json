@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "name": "d3core",
+  "fileId": "d3core",
+  "version": "27",
+  "time": "1434753308305-01-01T00:00:00+00:00",
+  "releaseTime": "1434753308305-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

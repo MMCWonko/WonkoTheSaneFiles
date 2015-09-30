@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "version": "15",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/D3Core/15/artifact/build/libs/D3Core-1.7.10-1.0.0.15.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/d3core-15.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

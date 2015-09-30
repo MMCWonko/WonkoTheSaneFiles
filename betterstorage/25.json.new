@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "betterstorage",
+  "version": "25",
+  "time": "1442338630187",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.rx14.co.uk/job/copygirl/job/BetterStorage/25/artifact/build/libs/BetterStorage-1.7.10-0.13.1.126.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/betterstorage-25.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

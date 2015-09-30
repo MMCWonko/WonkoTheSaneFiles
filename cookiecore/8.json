@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "cookiecore",
+  "name": "cookiecore",
+  "fileId": "cookiecore",
   "version": "8",
-  "time": "1429377820458",
+  "time": "1429377820458-01-01T00:00:00+00:00",
+  "releaseTime": "1429377820458-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://tehnut.info/jenkins/job/CookieCore/8/artifact/build/libs/CookieCore-1.7.10-1.3.1-8.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/cookiecore-8.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

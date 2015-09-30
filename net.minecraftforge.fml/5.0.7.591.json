@@ -1,87 +1,29 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraftforge.fml",
+  "name": "net.minecraftforge.fml",
+  "fileId": "net.minecraftforge.fml",
   "version": "5.0.7.591",
-  "time": "1362868844",
+  "time": "1362868844-01-01T00:00:00+00:00",
+  "releaseTime": "1362868844-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "mc.jarmod": [
-        {
-          "size": null,
-          "sha256": null,
-          "name": "net.minecraftforge:fml:1.5-5.0.7.591:universal@zip",
-          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
-        }
-      ],
-      "general.downloads": [
-        {
-          "url": "http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "minecraft/lib/argo-small-3.2.jar"
-        },
-        {
-          "url": "http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "minecraft/lib/guava-14.0-rc3.jar"
-        },
-        {
-          "url": "http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "minecraft/lib/asm-all-4.1.jar"
-        },
-        {
-          "url": "http://files.multimc.org/fmllibs/bcprov-jdk15on-148.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "minecraft/lib/bcprov-jdk15on-148.jar"
-        },
-        {
-          "url": "http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.zip",
-          "size": null,
-          "sha256": null,
-          "destination": "minecraft/lib/deobfuscation_data_1.5.zip"
-        },
-        {
-          "url": "http://files.multimc.org/fmllibs/scala-library.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "minecraft/lib/scala-library.jar"
-        }
-      ],
-      "mc.arguments": [
-        "-Dfml.ignoreInvalidMinecraftCertificates=true",
-        "-Dfml.ignorePatchDiscrepancies=true"
-      ],
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
-    },
-    {
-      "general.folders": {
-        "minecraft/mods": [
-          "mc.forgemods",
-          "mc.forgecoremods"
-        ],
-        "minecraft/coremods": [
-          "mc.forgecoremods"
-        ]
-      }
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
       "version": "1.5"
+    }
+  ],
+  "order": 0,
+  "mcVersion": "1.5",
+  "minecraftArguments": [
+    "-Dfml.ignoreInvalidMinecraftCertificates=true",
+    "-Dfml.ignorePatchDiscrepancies=true"
+  ],
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+    {
     }
   ]
 }

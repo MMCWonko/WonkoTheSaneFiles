@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "166",
+  "time": "1416739951000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/166/artifact/build/libs/OpenPeripheralCore-1.7.10-0.5.0-snapshot-166.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-166.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

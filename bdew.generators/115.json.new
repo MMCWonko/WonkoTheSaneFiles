@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "version": "115",
+  "time": "1442586819923",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/generators-1.7.10/115/artifact/build/libs/generators-0.9.18.115-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.generators-115.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

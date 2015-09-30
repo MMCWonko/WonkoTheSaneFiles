@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "395",
+  "time": "1442606441763",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/395/artifact/build/libs/OpenModsLib-1.7.10-0.8-snapshot-395.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-395.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

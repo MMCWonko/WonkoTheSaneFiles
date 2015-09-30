@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "name": "numina",
+  "fileId": "numina",
+  "version": "110",
+  "time": "1440674424000-01-01T00:00:00+00:00",
+  "releaseTime": "1440674424000-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

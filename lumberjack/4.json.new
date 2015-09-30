@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "lumberjack",
+  "version": "4",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/Lumberjack/4/artifact/build/libs/Lumberjack-1.7.10-1.0.0.4.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/lumberjack-4.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

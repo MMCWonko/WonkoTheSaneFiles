@@ -7,9 +7,6 @@
   "time": "1385942400-01-01T00:00:00+00:00",
   "releaseTime": "1385942400-01-01T00:00:00+00:00",
   "type": "release",
-  "data": [
-
-  ],
   "requires": [
 
   ],
@@ -17,94 +14,12 @@
   "minecraftArguments": null,
   "+libraries": [
     {
-      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "os": {
-            "name": "osx"
-          }
-        }
-      ],
-      "insert": "prepend"
+      "name": "net.java.jinput:jinput:2.0.5",
+      "insert": "append"
     },
     {
-      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-linux.jar",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "os": {
-            "name": "linux"
-          }
-        }
-      ],
-      "insert": "prepend"
-    },
-    {
-      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "os": {
-            "name": "windows"
-          }
-        }
-      ],
-      "insert": "prepend"
-    },
-    {
-      "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.lwjgl.lwjgl:lwjgl:2.9.1",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "net.java.jinput:jinput-platform:2.0.5",
-      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "os": {
-            "name": "osx"
-          }
-        }
-      ],
-      "insert": "prepend"
-    },
-    {
-      "name": "net.java.jinput:jinput-platform:2.0.5",
-      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "os": {
-            "name": "linux"
-          }
-        }
-      ],
-      "insert": "prepend"
+      "name": "net.java.jutils:jutils:1.0.0",
+      "insert": "append"
     },
     {
       "name": "net.java.jinput:jinput-platform:2.0.5",
@@ -120,17 +35,95 @@
           }
         }
       ],
-      "insert": "prepend"
+      "insert": "append"
     },
     {
-      "name": "net.java.jutils:jutils:1.0.0",
-      "url": "https://libraries.minecraft.net/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
-      "insert": "prepend"
+      "name": "net.java.jinput:jinput-platform:2.0.5",
+      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "os": {
+            "name": "linux"
+          }
+        }
+      ],
+      "insert": "append"
     },
     {
-      "name": "net.java.jinput:jinput:2.0.5",
-      "url": "https://libraries.minecraft.net/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
-      "insert": "prepend"
+      "name": "net.java.jinput:jinput-platform:2.0.5",
+      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ],
+      "insert": "append"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl:2.9.1",
+      "insert": "append"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1",
+      "insert": "append"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ],
+      "insert": "append"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-linux.jar",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "os": {
+            "name": "linux"
+          }
+        }
+      ],
+      "insert": "append"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ],
+      "insert": "append"
     }
   ],
   "+jarMods": [

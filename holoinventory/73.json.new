@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "73",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/HoloInventory/73/artifact/build/libs/HoloInventory-1.8.1.73.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/holoinventory-73.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "buildcraft",
+  "name": "buildcraft",
+  "fileId": "buildcraft",
   "version": "707",
-  "time": "1429718046986",
+  "time": "1429718046986-01-01T00:00:00+00:00",
+  "releaseTime": "1429718046986-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://nallar.me/buildservice/job/Buildcraft/707/artifact/build/libs/buildcraft-6.4.13.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/buildcraft-707.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

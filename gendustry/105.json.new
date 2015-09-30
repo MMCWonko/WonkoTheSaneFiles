@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "105",
+  "time": "1435475482035",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/105/artifact/build/libs/gendustry-1.5.1.105-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-105.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

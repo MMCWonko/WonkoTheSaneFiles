@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "chiseltones",
+  "version": "3",
+  "time": "1440800760712",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/ChiselTones/3/artifact/build/libs/ChiselTones-1.7.10-1.0-3.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/chiseltones-3.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

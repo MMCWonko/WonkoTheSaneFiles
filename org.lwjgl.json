@@ -4,11 +4,6 @@
   "name": null,
   "versions": [
     {
-      "version": "2.9.3",
-      "type": "release",
-      "time": 1421539200
-    },
-    {
       "version": "2.9.4-nightly-20150209",
       "type": "release",
       "time": 1424440809

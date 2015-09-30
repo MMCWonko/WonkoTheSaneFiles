@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "autocrafter2000",
+  "version": "26",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/AutoCrafter2000/26/artifact/build/libs/AutoCrafter2000-1.7.10-1.1.0.26.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/autocrafter2000-26.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

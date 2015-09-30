@@ -4,6 +4,16 @@
   "name": null,
   "versions": [
     {
+      "version": "25",
+      "type": null,
+      "time": 1442338630187
+    },
+    {
+      "version": "24",
+      "type": null,
+      "time": 1440642126009
+    },
+    {
       "version": "23",
       "type": null,
       "time": 1432470790613

@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "lanteacraft",
+  "version": "70",
+  "time": "1426724771",
+  "type": "Release",
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/lanteacraft/2230557",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/lanteacraft-70.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ]
+}

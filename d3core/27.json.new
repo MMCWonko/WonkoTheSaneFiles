@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "d3core",
+  "version": "27",
+  "time": "1434753308305",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/D3Core/27/artifact/build/libs/D3Core-1.7.10-1.1.0.27.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/d3core-27.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

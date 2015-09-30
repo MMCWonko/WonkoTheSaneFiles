@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "equivalentexchange3",
+  "name": "equivalentexchange3",
+  "fileId": "equivalentexchange3",
   "version": "355",
-  "time": "1430796428600",
+  "time": "1430796428600-01-01T00:00:00+00:00",
+  "releaseTime": "1430796428600-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://nallar.me/buildservice/job/Equivalent%20Exchange%203/355/artifact/build/libs/EquivalentExchange3-1.7.10-0.3.355.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/equivalentexchange3-355.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

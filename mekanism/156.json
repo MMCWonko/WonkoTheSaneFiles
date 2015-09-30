@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "mekanism",
+  "name": "mekanism",
+  "fileId": "mekanism",
   "version": "156",
-  "time": "1421669290000",
+  "time": "1421669290000-01-01T00:00:00+00:00",
+  "releaseTime": "1421669290000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.indiewikis.com:8080/job/Mekanism/156/artifact/output/MDK-1.7.10-7.1.2.156.zip",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/mekanism-156.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "9",
+  "time": "1407838004000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/9/artifact/build/libs/bdlib-mc1710-1.4.2.9.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-9.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

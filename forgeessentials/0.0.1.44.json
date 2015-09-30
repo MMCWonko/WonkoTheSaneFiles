@@ -1,24 +1,24 @@
 {
   "formatVersion": 0,
   "uid": "forgeessentials",
+  "name": "forgeessentials",
+  "fileId": "forgeessentials",
   "version": "0.0.1.44",
-  "time": "1353412905",
+  "time": "1353412905-01-01T00:00:00+00:00",
+  "releaseTime": "1353412905-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://files.minecraftforge.net/ForgeEssentials/ForgeEssentials-universal-0.0.1.44.zip",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/forgeessentials-0.0.1.44.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft"
     }
+  ],
+  "order": 0,
+  "mcVersion": null,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
   ]
 }

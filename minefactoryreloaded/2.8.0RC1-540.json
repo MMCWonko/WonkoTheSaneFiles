@@ -1,25 +1,25 @@
 {
   "formatVersion": 0,
   "uid": "minefactoryreloaded",
+  "name": "minefactoryreloaded",
+  "fileId": "minefactoryreloaded",
   "version": "2.8.0RC1-540",
-  "time": "1406688773",
+  "time": "1406688773-01-01T00:00:00+00:00",
+  "releaseTime": "1406688773-01-01T00:00:00+00:00",
   "type": "Beta",
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/2210044",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/minefactoryreloaded-2.8.0RC1-540.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
       "version": "1.7.10"
     }
+  ],
+  "order": 0,
+  "mcVersion": "1.7.10",
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
   ]
 }

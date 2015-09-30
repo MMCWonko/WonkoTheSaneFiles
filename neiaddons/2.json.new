@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "neiaddons",
+  "version": "2",
+  "time": "1405433534000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/2/artifact/build/libs/neiaddons-mc1710-1.12.0.2.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/neiaddons-2.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

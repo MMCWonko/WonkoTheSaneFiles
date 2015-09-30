@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkerssteelworks.ephys",
+  "version": "17",
+  "time": "1437740407143",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/TSteelworks/17/artifact/build/libs/TSteelworks-1.7.10-1.1.1-17.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/tinkerssteelworks.ephys-17.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "bdlib",
+  "name": "bdlib",
+  "fileId": "bdlib",
   "version": "82",
-  "time": "1431508047596",
+  "time": "1431508047596-01-01T00:00:00+00:00",
+  "releaseTime": "1431508047596-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/82/artifact/build/libs/bdlib-1.7.2.82-mc1.7.10.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/bdlib-82.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

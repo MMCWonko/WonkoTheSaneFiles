@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralintegration",
+  "version": "75",
+  "time": "1438372498914",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/75/artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.3-snapshot-75.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralintegration-75.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

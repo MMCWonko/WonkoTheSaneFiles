@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "12",
+  "time": "1408534148000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/12/artifact/build/libs/bdlib-mc1710-1.4.3.12.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-12.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralintegration",
+  "version": "22",
+  "time": "1419707467000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/22/artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-22.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralintegration-22.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

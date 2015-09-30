@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "version": "42",
+  "time": "1424361502439",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/generators-1.7.10/42/artifact/build/libs/generators-mc1710-0.9.9.42.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.generators-42.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

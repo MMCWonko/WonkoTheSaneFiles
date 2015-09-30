@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "powerconverters",
+  "version": "76",
+  "time": "1441088992000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jamesmckay.id.au:8080/job/Power%20Converters/76/artifact/build/libs/PowerConverters-1.7.10_3.3.0-jenkins.76.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/powerconverters-76.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

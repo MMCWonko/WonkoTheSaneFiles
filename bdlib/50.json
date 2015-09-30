@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "bdlib",
+  "name": "bdlib",
+  "fileId": "bdlib",
   "version": "50",
-  "time": "1424791447126",
+  "time": "1424791447126-01-01T00:00:00+00:00",
+  "releaseTime": "1424791447126-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/50/artifact/build/libs/bdlib-mc1710-1.6.5.50.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/bdlib-50.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

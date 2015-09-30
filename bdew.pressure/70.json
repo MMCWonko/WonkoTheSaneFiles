@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "bdew.pressure",
+  "name": "bdew.pressure",
+  "fileId": "bdew.pressure",
   "version": "70",
-  "time": "1425658343410",
+  "time": "1425658343410-01-01T00:00:00+00:00",
+  "releaseTime": "1425658343410-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/pressure-1.7.10/70/artifact/build/libs/pressure-mc1710-1.1.0.70.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/bdew.pressure-70.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

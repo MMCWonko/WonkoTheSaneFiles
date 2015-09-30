@@ -7,20 +7,17 @@
   "time": "1242245460-01-01T00:00:00+00:00",
   "releaseTime": "1242245460-01-01T00:00:00+00:00",
   "type": "old_alpha",
-  "data": [
-
-  ],
   "requires": [
 
   ],
   "order": -2,
+  "id": "rd-132211",
   "mainClass": "com.mojang.rubydung.RubyDung",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
     {
       "name": "net.minecraft:minecraft:rd-132211",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-132211/rd-132211.jar",
-      "insert": "prepend"
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-132211/rd-132211.jar"
     }
   ],
   "+jarMods": [

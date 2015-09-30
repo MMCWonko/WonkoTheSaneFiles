@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "powercrystals.core",
+  "version": "46",
+  "time": "1363496863000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/PowerCrystalsCore/46/artifact/build/dist/PowerCrystalsCore-1.1.0B1-46.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/powercrystals.core-46.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

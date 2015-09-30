@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "328",
+  "time": "1427570704000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/328/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-328.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-328.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

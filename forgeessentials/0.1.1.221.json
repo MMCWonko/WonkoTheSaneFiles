@@ -1,25 +1,25 @@
 {
   "formatVersion": 0,
   "uid": "forgeessentials",
+  "name": "forgeessentials",
+  "fileId": "forgeessentials",
   "version": "0.1.1.221",
-  "time": "1357847198",
+  "time": "1357847198-01-01T00:00:00+00:00",
+  "releaseTime": "1357847198-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://files.minecraftforge.net/ForgeEssentials/ForgeEssentials-client-1.4.6-0.1.1.221.zip",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/forgeessentials-0.1.1.221.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
       "version": "1.4.6"
     }
+  ],
+  "order": 0,
+  "mcVersion": "1.4.6",
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
   ]
 }

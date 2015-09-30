@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "name": "opencomputers",
+  "fileId": "opencomputers",
+  "version": "27",
+  "time": "1434291663374-01-01T00:00:00+00:00",
+  "releaseTime": "1434291663374-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

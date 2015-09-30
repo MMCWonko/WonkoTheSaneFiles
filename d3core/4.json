@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "d3core",
+  "name": "d3core",
+  "fileId": "d3core",
   "version": "4",
-  "time": "1408311156000",
+  "time": "0000-01-01T00:00:00+00:00",
+  "releaseTime": "0000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/D3Core/4/artifact/build/libs/D3Core-1.7.10-1.0.0.4.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/d3core-4.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

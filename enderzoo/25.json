@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "enderzoo",
+  "name": "enderzoo",
+  "fileId": "enderzoo",
   "version": "25",
-  "time": "1427807486000",
+  "time": "1427807486000-01-01T00:00:00+00:00",
+  "releaseTime": "1427807486000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.tterrag.com/job/Ender%20Zoo/25/artifact/build/libs/EnderZoo-1.7.10-1.0.10.25.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/enderzoo-25.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

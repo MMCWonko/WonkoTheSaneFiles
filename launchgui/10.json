@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "launchgui",
+  "name": "launchgui",
+  "fileId": "launchgui",
   "version": "10",
-  "time": "1426972759240",
+  "time": "1426972759240-01-01T00:00:00+00:00",
+  "releaseTime": "1426972759240-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://tehnut.info/jenkins/job/LaunchGUI-1.8/10/artifact/build/libs/LaunchGui-1.8-1.5-10-client.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/launchgui-10.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

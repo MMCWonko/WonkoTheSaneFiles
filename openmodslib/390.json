@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "name": "openmodslib",
+  "fileId": "openmodslib",
+  "version": "390",
+  "time": "1440151094251-01-01T00:00:00+00:00",
+  "releaseTime": "1440151094251-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

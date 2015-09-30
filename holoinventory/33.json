@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "holoinventory",
+  "name": "holoinventory",
+  "fileId": "holoinventory",
   "version": "33",
-  "time": "1385245684000",
+  "time": "0000-01-01T00:00:00+00:00",
+  "releaseTime": "0000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/HoloInventory/33/artifact/build/libs/HoloInventory-1.4.1.33.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/holoinventory-33.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

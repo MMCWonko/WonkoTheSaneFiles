@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openblocks",
+  "name": "openblocks",
+  "fileId": "openblocks",
   "version": "586",
-  "time": "1428436684000",
+  "time": "1428436684000-01-01T00:00:00+00:00",
+  "releaseTime": "1428436684000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenBlocks/586/artifact/build/libs/OpenBlocks-1.7.10-1.4-snapshot-586.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openblocks-586.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

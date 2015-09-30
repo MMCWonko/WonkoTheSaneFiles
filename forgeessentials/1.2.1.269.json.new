@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "forgeessentials",
+  "version": "1.2.1.269",
+  "time": "1365607732",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://files.minecraftforge.net/ForgeEssentials/ForgeEssentials-client-1.4.7-1.2.1.269.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forgeessentials-1.2.1.269.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.4.7"
+    }
+  ]
+}

@@ -7,9 +7,6 @@
   "time": "1330080242-01-01T00:00:00+00:00",
   "releaseTime": "1330080242-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-
-  ],
   "requires": [
     {
       "uid": "net.minecraft",

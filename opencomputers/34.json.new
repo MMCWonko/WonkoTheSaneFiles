@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "34",
+  "time": "1442749819359",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-1.5-MC1.7.10/34/artifact/build/libs/OpenComputers-MC1.7.10-1.5.18.34-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-34.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

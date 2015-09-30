@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "681",
+  "time": "1435512117142",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/681/artifact/build/libs/OpenComputers-MC1.7.10-1.5.13.681-dev-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-681.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

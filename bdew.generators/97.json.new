@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "version": "97",
+  "time": "1437336782289",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/generators-1.7.10/97/artifact/build/libs/generators-0.9.16.97-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.generators-97.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

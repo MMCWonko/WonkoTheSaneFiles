@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "66",
+  "time": "1425397936233",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/66/artifact/build/libs/gendustry-mc1710-1.4.9.66.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-66.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

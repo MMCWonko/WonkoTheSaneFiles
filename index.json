@@ -4,13 +4,34 @@
       "uid": "net.minecraft"
     },
     {
-      "uid": "org.lwjgl"
+      "uid": "enderio"
     },
     {
-      "uid": "net.minecraftforge"
+      "uid": "inpurecore"
     },
     {
-      "uid": "com.mumfrey.liteloader"
+      "uid": "creepercollateral"
+    },
+    {
+      "uid": "bloodmagic"
+    },
+    {
+      "uid": "endertech"
+    },
+    {
+      "uid": "tinkersmechworks"
+    },
+    {
+      "uid": "tinkersconstruct"
+    },
+    {
+      "uid": "lanteacraft"
+    },
+    {
+      "uid": "minefactoryreloaded"
+    },
+    {
+      "uid": "compactmachines"
     },
     {
       "uid": "ironchests"
@@ -37,9 +58,6 @@
       "uid": "compactsolars"
     },
     {
-      "uid": "extracells"
-    },
-    {
       "uid": "ic2"
     },
     {
@@ -59,9 +77,6 @@
     },
     {
       "uid": "inventorytweaks"
-    },
-    {
-      "uid": "minefactoryreloaded"
     },
     {
       "uid": "modularpowersuits"
@@ -121,22 +136,19 @@
       "uid": "powerconverters"
     },
     {
-      "uid": "artifice"
+      "uid": "galacticraft"
     },
     {
       "uid": "mekanism"
     },
     {
-      "uid": "enderio"
+      "uid": "extracells"
     },
     {
       "uid": "supermassivetech"
     },
     {
       "uid": "forestry"
-    },
-    {
-      "uid": "projectred"
     },
     {
       "uid": "morpheus"
@@ -178,13 +190,7 @@
       "uid": "hexwool"
     },
     {
-      "uid": "madscience"
-    },
-    {
-      "uid": "minechem"
-    },
-    {
-      "uid": "alchemyplusplus"
+      "uid": "betterstorage"
     },
     {
       "uid": "launchgui"
@@ -217,37 +223,13 @@
       "uid": "enderzoo"
     },
     {
-      "uid": "bloodmagic"
+      "uid": "org.lwjgl"
     },
     {
-      "uid": "compactmachines"
-    },
-    {
-      "uid": "lanteacraft"
-    },
-    {
-      "uid": "tinkersconstruct"
-    },
-    {
-      "uid": "tinkersmechworks"
-    },
-    {
-      "uid": "endertech"
-    },
-    {
-      "uid": "creepercollateral"
-    },
-    {
-      "uid": "inpurecore"
+      "uid": "net.minecraftforge"
     },
     {
       "uid": "net.minecraftforge.fml"
-    },
-    {
-      "uid": "galacticraft"
-    },
-    {
-      "uid": "betterstorage"
     }
   ],
   "formatVersion": 0

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "682",
+  "time": "1440350928988",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/682/artifact/build/dist/forestry_1.7.10-4.0.0.682-unstable.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-682.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

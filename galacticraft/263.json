@@ -1,18 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "galacticraft",
+  "name": "galacticraft",
+  "fileId": "galacticraft",
   "version": "263",
-  "time": 1423486072000,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://2.iongaming.org:8080/job/Galacticraft-1.7/263/artifact/Forge/build/libs/Galacticraft-Planets-1.7-3.0.8.263.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/galacticraft-263.jar"
-        }
-      ]
-    }
+  "time": "1423486072000-01-01T00:00:00+00:00",
+  "releaseTime": "1423486072000-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
   ]
 }

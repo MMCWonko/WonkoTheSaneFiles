@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "117",
+  "time": "1441284870156",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/HoloInventory/117/artifact/build/libs/HoloInventory-1.7.10-1.9.1.117.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/holoinventory-117.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "371",
+  "time": "1428709436000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/371/artifact/build/libs/EnderIO-1.7.10-2.3.0.371_beta.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-371.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

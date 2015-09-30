@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "hexwool",
+  "name": "hexwool",
+  "fileId": "hexwool",
   "version": "3",
-  "time": "1408853100000",
+  "time": "1408853100000-01-01T00:00:00+00:00",
+  "releaseTime": "1408853100000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://server.techjargaming.com:8080/job/HexWool/3/artifact/build/HexWool-1.7.10-0.4.1.3.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/hexwool-3.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

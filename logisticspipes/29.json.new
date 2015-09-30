@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "version": "29",
+  "time": "1408660090000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.rs485.network/job/LogisticsPipes1.7/29/artifact/build/libs/logisticspipes-0.8.0.29.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/logisticspipes-29.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

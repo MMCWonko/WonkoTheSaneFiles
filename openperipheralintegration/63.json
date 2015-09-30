@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openperipheralintegration",
+  "name": "openperipheralintegration",
+  "fileId": "openperipheralintegration",
   "version": "63",
-  "time": "1429467962903",
+  "time": "1429467962903-01-01T00:00:00+00:00",
+  "releaseTime": "1429467962903-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/63/artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.2.1-snapshot-63.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openperipheralintegration-63.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

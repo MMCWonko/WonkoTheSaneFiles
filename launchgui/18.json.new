@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "launchgui",
+  "version": "18",
+  "time": "1440115567060",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/LaunchGUI-1.8/18/artifact/build/libs/LaunchGui-1.8-2.0-18-client.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/launchgui-18.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

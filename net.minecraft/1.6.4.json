@@ -7,82 +7,55 @@
   "time": "1379605957-01-01T00:00:00+00:00",
   "releaseTime": "1379605957-01-01T00:00:00+00:00",
   "type": "release",
-  "data": [
-
-  ],
   "requires": [
     {
       "uid": "org.lwjgl"
     }
   ],
   "order": -2,
+  "id": "1.6.4",
   "mainClass": "net.minecraft.client.main.Main",
   "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}",
   "+libraries": [
     {
+      "name": "net.sf.jopt-simple:jopt-simple:4.5"
+    },
+    {
+      "name": "com.paulscode:codecjorbis:20101023"
+    },
+    {
+      "name": "com.paulscode:codecwav:20101023"
+    },
+    {
+      "name": "com.paulscode:libraryjavasound:20101123"
+    },
+    {
+      "name": "com.paulscode:librarylwjglopenal:20100824"
+    },
+    {
+      "name": "com.paulscode:soundsystem:20120107"
+    },
+    {
+      "name": "argo:argo:2.25_fixed"
+    },
+    {
+      "name": "org.bouncycastle:bcprov-jdk15on:1.47"
+    },
+    {
+      "name": "com.google.guava:guava:14.0"
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.1"
+    },
+    {
+      "name": "commons-io:commons-io:2.4"
+    },
+    {
+      "name": "com.google.code.gson:gson:2.2.2"
+    },
+    {
       "name": "net.minecraft:minecraft:1.6.4",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.6.4/1.6.4.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.google.code.gson:gson:2.2.2",
-      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "commons-io:commons-io:2.4",
-      "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.apache.commons:commons-lang3:3.1",
-      "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.google.guava:guava:14.0",
-      "url": "https://libraries.minecraft.net/com/google/guava/guava/14.0/guava-14.0.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.bouncycastle:bcprov-jdk15on:1.47",
-      "url": "https://libraries.minecraft.net/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "argo:argo:2.25_fixed",
-      "url": "https://libraries.minecraft.net/argo/argo/2.25_fixed/argo-2.25_fixed.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:soundsystem:20120107",
-      "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:librarylwjglopenal:20100824",
-      "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:libraryjavasound:20101123",
-      "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:codecwav:20101023",
-      "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:codecjorbis:20101023",
-      "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "net.sf.jopt-simple:jopt-simple:4.5",
-      "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
-      "insert": "prepend"
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.6.4/1.6.4.jar"
     }
   ],
   "+jarMods": [

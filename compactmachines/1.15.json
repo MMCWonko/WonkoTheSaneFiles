@@ -1,25 +1,25 @@
 {
   "formatVersion": 0,
   "uid": "compactmachines",
+  "name": "compactmachines",
+  "fileId": "compactmachines",
   "version": "1.15",
-  "time": "1421572000",
+  "time": "1421572000-01-01T00:00:00+00:00",
+  "releaseTime": "1421572000-01-01T00:00:00+00:00",
   "type": "Beta",
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://curse.com/mc-mods/minecraft/224218-compact-machines/2224898",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/compactmachines-1.15.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
       "version": "1.7.10"
     }
+  ],
+  "order": 0,
+  "mcVersion": "1.7.10",
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "equivalentexchange3",
+  "name": "equivalentexchange3",
+  "fileId": "equivalentexchange3",
+  "version": "366",
+  "time": "1432661228702-01-01T00:00:00+00:00",
+  "releaseTime": "1432661228702-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

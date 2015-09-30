@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkerssteelworks.ephys",
+  "name": "tinkerssteelworks.ephys",
+  "fileId": "tinkerssteelworks.ephys",
+  "version": "17",
+  "time": "1437740407143-01-01T00:00:00+00:00",
+  "releaseTime": "1437740407143-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

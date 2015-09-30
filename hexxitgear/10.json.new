@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "hexxitgear",
+  "version": "10",
+  "time": "1371517768000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/HexxitGear/10/artifact/build/dist/HexxitGear-1.0-10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/hexxitgear-10.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

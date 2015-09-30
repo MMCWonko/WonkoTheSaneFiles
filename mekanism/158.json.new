@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "158",
+  "time": "1423430768326",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/158/artifact/output/MDK-1.7.10-7.1.2.158.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-158.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

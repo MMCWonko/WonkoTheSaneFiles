@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "71",
+  "time": "1426686886781",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/71/artifact/build/libs/gendustry-mc1710-1.4.9.71.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-71.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

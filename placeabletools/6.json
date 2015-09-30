@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "placeabletools",
+  "name": "placeabletools",
+  "fileId": "placeabletools",
   "version": "6",
-  "time": "1395863589000",
+  "time": "0000-01-01T00:00:00+00:00",
+  "releaseTime": "0000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/PlaceableTools/6/artifact/build/libs/PlaceableTools-1.6.4-1.0.0.6.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/placeabletools-6.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

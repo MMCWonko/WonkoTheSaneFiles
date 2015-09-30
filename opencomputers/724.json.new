@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "724",
+  "time": "1439398058257",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/724/artifact/build/libs/OpenComputers-MC1.7.10-1.5.16.724-dev-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-724.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

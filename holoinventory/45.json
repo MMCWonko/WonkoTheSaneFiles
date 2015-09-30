@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "holoinventory",
+  "name": "holoinventory",
+  "fileId": "holoinventory",
   "version": "45",
-  "time": "1386681148000",
+  "time": "0000-01-01T00:00:00+00:00",
+  "releaseTime": "0000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/HoloInventory/45/artifact/build/libs/HoloInventory-1.5.4.45.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/holoinventory-45.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

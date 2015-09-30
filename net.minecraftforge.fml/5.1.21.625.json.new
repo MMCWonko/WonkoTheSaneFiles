@@ -1,0 +1,87 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge.fml",
+  "version": "5.1.21.625",
+  "time": "1365626591",
+  "type": null,
+  "data": [
+    {
+      "mc.jarmods": [
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraftforge:fml:1.5.1-5.1.21.625:universal@zip",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        }
+      ],
+      "general.downloads": [
+        {
+          "url": "http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/argo-small-3.2.jar"
+        },
+        {
+          "url": "http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/guava-14.0-rc3.jar"
+        },
+        {
+          "url": "http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/asm-all-4.1.jar"
+        },
+        {
+          "url": "http://files.multimc.org/fmllibs/bcprov-jdk15on-148.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/bcprov-jdk15on-148.jar"
+        },
+        {
+          "url": "http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.1.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/deobfuscation_data_1.5.1.zip"
+        },
+        {
+          "url": "http://files.multimc.org/fmllibs/scala-library.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/scala-library.jar"
+        }
+      ],
+      "mc.arguments": [
+        "-Dfml.ignoreInvalidMinecraftCertificates=true",
+        "-Dfml.ignorePatchDiscrepancies=true"
+      ],
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    },
+    {
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.forgemods",
+          "mc.forgecoremods"
+        ],
+        "minecraft/coremods": [
+          "mc.forgecoremods"
+        ]
+      }
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.5.1"
+    }
+  ]
+}

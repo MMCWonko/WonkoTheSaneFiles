@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "mekanism",
+  "name": "mekanism",
+  "fileId": "mekanism",
   "version": "198",
-  "time": "1427073560809",
+  "time": "1427073560809-01-01T00:00:00+00:00",
+  "releaseTime": "1427073560809-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.indiewikis.com:8080/job/Mekanism/198/artifact/output/MDK-1.7.10-8.0.1.198.zip",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/mekanism-198.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

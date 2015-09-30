@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "version": "244",
+  "time": "1434567859919",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.indiewikis.com:8080/job/Mekanism/244/artifact/output/MDK-1.7.10-8.1.5.244.zip",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/mekanism-244.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

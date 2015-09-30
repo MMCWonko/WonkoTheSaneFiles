@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "version": "55",
+  "time": "1427033922437",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/generators-1.7.10/55/artifact/build/libs/generators-mc1710-0.9.12.55.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.generators-55.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

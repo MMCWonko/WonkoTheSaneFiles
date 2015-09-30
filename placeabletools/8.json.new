@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "placeabletools",
+  "version": "8",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/PlaceableTools/8/artifact/build/libs/PlaceableTools-1.6.4-1.6.4-1.0.0.8.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/placeabletools-8.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

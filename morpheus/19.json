@@ -1,13 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "morpheus",
+  "name": "morpheus",
+  "fileId": "morpheus",
   "version": "19",
-  "time": "1410190337000",
+  "time": "1410190337000-01-01T00:00:00+00:00",
+  "releaseTime": "1410190337000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
+  "requires": [
 
   ],
-  "requires": [
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

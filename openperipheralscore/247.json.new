@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "247",
+  "time": "1438371338829",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/247/artifact/build/libs/OpenPeripheralCore-1.7.10-1.2-snapshot-247.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-247.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

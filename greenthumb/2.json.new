@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "greenthumb",
+  "version": "2",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/GreenThumb/2/artifact/build/libs/GreenThumb-1.7.10-1.1.0.2.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/greenthumb-2.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

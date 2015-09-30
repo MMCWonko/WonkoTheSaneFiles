@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "version": "12",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/HoloInventory/12/artifact/build/libs/HoloInventory-1.0.12.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/holoinventory-12.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

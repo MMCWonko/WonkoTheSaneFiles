@@ -1,0 +1,250 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge.fml",
+  "version": "8.0.5.1012",
+  "time": "1413354653",
+  "type": "release",
+  "data": [
+    {
+      "java.libraries": [
+        {
+          "size": null,
+          "sha256": null,
+          "name": "cpw.mods:fml:1.8-8.0.5.1012-1.8:universal",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraft:launchwrapper:1.11",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.ow2.asm:asm-all:5.0.3",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "com.typesafe:config:1.2.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-compiler:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-library:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-reflect:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-swing_2.11:1.0.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-xml_2.11:1.0.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "lzma:lzma:0.0.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.sf.jopt-simple:jopt-simple:4.5",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        }
+      ],
+      "java.mainClass": "net.minecraft.launchwrapper.Launch",
+      "mc.tweakers": [
+        "net.minecraftforge.fml.common.launcher.FMLTweaker"
+      ],
+      "mc.assets": "1.8",
+      "mc.arguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    },
+    {
+      "general.launcher": "java.mainClass",
+      "java.libraries": [
+        {
+          "size": null,
+          "sha256": null,
+          "name": "cpw.mods:fml:1.8-8.0.5.1012-1.8:universal",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraft:launchwrapper:1.11",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.ow2.asm:asm-all:5.0.3",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "com.typesafe:config:1.2.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-compiler:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-library:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-reflect:2.11.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-swing_2.11:1.0.1",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "org.scala-lang:scala-xml_2.11:1.0.2",
+          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "lzma:lzma:0.0.1",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        },
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.sf.jopt-simple:jopt-simple:4.5",
+          "mavenBaseUrl": "https://libraries.minecraft.net/"
+        }
+      ],
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "server"
+        }
+      ]
+    },
+    {
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.forgemods"
+        ]
+      }
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.8"
+    },
+    {
+      "uid": "org.lwjgl"
+    }
+  ]
+}

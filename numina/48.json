@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "numina",
+  "name": "numina",
+  "fileId": "numina",
   "version": "48",
-  "time": "1387534195000",
+  "time": "1387534195000-01-01T00:00:00+00:00",
+  "releaseTime": "1387534195000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/Numina/48/artifact/dist/Numina-1.6.2-0.1.0-48.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/numina-48.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

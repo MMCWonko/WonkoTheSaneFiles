@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "modulararmour",
+  "name": "modulararmour",
+  "fileId": "modulararmour",
   "version": "6",
-  "time": "1423193605546",
+  "time": "1423193605546-01-01T00:00:00+00:00",
+  "releaseTime": "1423193605546-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://tehnut.info/jenkins/job/ModularArmour/6/artifact/build/libs/ModularArmour-1.7.10-0.0.10-6.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/modulararmour-6.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

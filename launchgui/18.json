@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "launchgui",
+  "name": "launchgui",
+  "fileId": "launchgui",
+  "version": "18",
+  "time": "1440115567060-01-01T00:00:00+00:00",
+  "releaseTime": "1440115567060-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

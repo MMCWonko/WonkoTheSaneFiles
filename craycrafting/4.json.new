@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "craycrafting",
+  "version": "4",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/CrayCrafting/4/artifact/build/libs/CrayCrafting-dev-v1.0.0.4.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/craycrafting-4.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

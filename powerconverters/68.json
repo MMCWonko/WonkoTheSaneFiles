@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "powerconverters",
+  "name": "powerconverters",
+  "fileId": "powerconverters",
   "version": "68",
-  "time": "1430641397618",
+  "time": "1430641397618-01-01T00:00:00+00:00",
+  "releaseTime": "1430641397618-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jamesmckay.id.au:8080/job/Power%20Converters/68/artifact/build/libs/PowerConverters-1.7.10_3.2.1-jenkins.68.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/powerconverters-68.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

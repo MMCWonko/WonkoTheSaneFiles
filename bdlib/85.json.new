@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "85",
+  "time": "1432429478047",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/85/artifact/build/libs/bdlib-1.8.0.85-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-85.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

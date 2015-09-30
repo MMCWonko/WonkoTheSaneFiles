@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "125",
+  "time": "1440876725000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Numina/125/artifact/build/libs/Numina-0.4.0.125.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/numina-125.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

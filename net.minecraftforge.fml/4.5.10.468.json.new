@@ -1,0 +1,75 @@
+{
+  "formatVersion": 0,
+  "uid": "net.minecraftforge.fml",
+  "version": "4.5.10.468",
+  "time": "1354563772",
+  "type": null,
+  "data": [
+    {
+      "mc.jarmods": [
+        {
+          "size": null,
+          "sha256": null,
+          "name": "net.minecraftforge:fml:1.4.5-4.5.10.468:universal@zip",
+          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
+        }
+      ],
+      "general.downloads": [
+        {
+          "url": "http://files.minecraftforge.net/fmllibs/argo-2.25.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/argo-2.25.jar"
+        },
+        {
+          "url": "http://files.minecraftforge.net/fmllibs/guava-12.0.1.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/guava-12.0.1.jar"
+        },
+        {
+          "url": "http://files.minecraftforge.net/fmllibs/asm-all-4.0.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/asm-all-4.0.jar"
+        },
+        {
+          "url": "http://files.minecraftforge.net/fmllibs/bcprov-jdk15on-147.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "minecraft/lib/bcprov-jdk15on-147.jar"
+        }
+      ],
+      "mc.arguments": [
+        "-Dfml.ignoreInvalidMinecraftCertificates=true",
+        "-Dfml.ignorePatchDiscrepancies=true"
+      ],
+      "rules": [
+        {
+          "action": "disallow"
+        },
+        {
+          "action": "allow",
+          "side": "client"
+        }
+      ]
+    },
+    {
+      "general.folders": {
+        "minecraft/mods": [
+          "mc.forgemods",
+          "mc.forgecoremods"
+        ],
+        "minecraft/coremods": [
+          "mc.forgecoremods"
+        ]
+      }
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.4.5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "torchtools",
+  "version": "10",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/TorchTools/10/artifact/apiversion.txt",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/torchtools-10.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

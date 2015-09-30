@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "holoinventory",
+  "name": "holoinventory",
+  "fileId": "holoinventory",
+  "version": "116",
+  "time": "1439293776083-01-01T00:00:00+00:00",
+  "releaseTime": "1439293776083-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

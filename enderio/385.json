@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "enderio",
+  "name": "enderio",
+  "fileId": "enderio",
   "version": "385",
-  "time": "1432412664634",
+  "time": "1432412664634-01-01T00:00:00+00:00",
+  "releaseTime": "1432412664634-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.tterrag.com/job/EnderIO/385/artifact/build/libs/EnderIO-1.7.10-2.3.0.385_beta.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/enderio-385.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

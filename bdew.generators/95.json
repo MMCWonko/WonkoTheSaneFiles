@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.generators",
+  "name": "bdew.generators",
+  "fileId": "bdew.generators",
+  "version": "95",
+  "time": "1436972675328-01-01T00:00:00+00:00",
+  "releaseTime": "1436972675328-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

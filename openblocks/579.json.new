@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "579",
+  "time": "1427918165000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/579/artifact/build/libs/OpenBlocks-1.7.10-1.4-snapshot-579.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-579.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

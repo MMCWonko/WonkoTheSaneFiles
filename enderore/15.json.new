@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "enderore",
+  "version": "15",
+  "time": "1378763757000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/EnderOre/15/artifact/build/dist/EnderOre-1.0-15.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderore-15.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

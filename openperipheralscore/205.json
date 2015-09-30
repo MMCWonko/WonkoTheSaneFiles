@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openperipheralscore",
+  "name": "openperipheralscore",
+  "fileId": "openperipheralscore",
   "version": "205",
-  "time": "1425155717000",
+  "time": "1425155717000-01-01T00:00:00+00:00",
+  "releaseTime": "1425155717000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/205/artifact/build/libs/OpenPeripheralCore-1.7.10-0.6.0-snapshot-205.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openperipheralscore-205.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

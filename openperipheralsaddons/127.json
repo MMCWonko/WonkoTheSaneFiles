@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openperipheralsaddons",
+  "name": "openperipheralsaddons",
+  "fileId": "openperipheralsaddons",
   "version": "127",
-  "time": "1415568553000",
+  "time": "1415568553000-01-01T00:00:00+00:00",
+  "releaseTime": "1415568553000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/127/artifact/build/libs/OpenPeripheralAddons-1.7.10-0.2.0-snapshot-127.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openperipheralsaddons-127.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

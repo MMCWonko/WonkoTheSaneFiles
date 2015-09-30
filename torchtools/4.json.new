@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "torchtools",
+  "version": "4",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/TorchTools/4/artifact/build/libs/TorchTools-1.7.10-1.0.2.4.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/torchtools-4.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

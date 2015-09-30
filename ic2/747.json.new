@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "ic2",
+  "version": "747",
+  "time": "1436530797328",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/IC2_experimental/747/artifact/build/libs/industrialcraft-2-2.2.747-experimental.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/ic2-747.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "gregslighting",
+  "name": "gregslighting",
+  "fileId": "gregslighting",
   "version": "4",
-  "time": "1367132463000",
+  "time": "1367132463000-01-01T00:00:00+00:00",
+  "releaseTime": "1367132463000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/GregsLighting/4/artifact/build/dist/GregsLighting-1.8.1-4.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/gregslighting-4.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

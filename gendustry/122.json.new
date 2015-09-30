@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "122",
+  "time": "1440508981121",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/122/artifact/build/libs/gendustry-1.6.0.122-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-122.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

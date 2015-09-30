@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "neiaddons",
+  "name": "neiaddons",
+  "fileId": "neiaddons",
   "version": "28",
-  "time": "1431286810973",
+  "time": "1431286810973-01-01T00:00:00+00:00",
+  "releaseTime": "1431286810973-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/28/artifact/build/libs/neiaddons-1.12.8.28-mc1.7.10.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/neiaddons-28.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

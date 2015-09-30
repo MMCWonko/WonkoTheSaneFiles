@@ -7,9 +7,6 @@
   "time": "1379566651-01-01T00:00:00+00:00",
   "releaseTime": "1379566651-01-01T00:00:00+00:00",
   "type": "release",
-  "data": [
-
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
@@ -28,97 +25,82 @@
   ],
   "+libraries": [
     {
-      "name": "com.google.code.gson:gson:2.2.2",
-      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar",
-      "insert": "prepend"
+      "name": "net.minecraftforge:forge:1.6.3-9.11.0.875:universal",
+      "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-universal.jar",
+      "insert": "append",
+      "MMC-depend": "hard"
     },
     {
-      "name": "commons-io:commons-io:2.4",
-      "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
-      "insert": "prepend"
+      "name": "net.minecraft:launchwrapper:1.7",
+      "insert": "append"
     },
     {
-      "name": "org.apache.commons:commons-lang3:3.1",
-      "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.google.guava:guava:14.0",
-      "url": "https://libraries.minecraft.net/com/google/guava/guava/14.0/guava-14.0.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.bouncycastle:bcprov-jdk15on:1.47",
-      "url": "https://libraries.minecraft.net/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "argo:argo:2.25_fixed",
-      "url": "https://libraries.minecraft.net/argo/argo/2.25_fixed/argo-2.25_fixed.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:soundsystem:20120107",
-      "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:librarylwjglopenal:20100824",
-      "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:libraryjavasound:20101123",
-      "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:codecwav:20101023",
-      "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "com.paulscode:codecjorbis:20101023",
-      "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "net.sf.jopt-simple:jopt-simple:4.5",
-      "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "lzma:lzma:0.0.1",
-      "url": "https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "org.scala-lang:scala-compiler:2.10.2",
-      "url": "http://repo.spongepowered.org/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar",
-      "MMC-hint": "forge-pack-xz",
-      "insert": "prepend"
+      "name": "org.ow2.asm:asm-all:4.1",
+      "insert": "append"
     },
     {
       "name": "org.scala-lang:scala-library:2.10.2",
       "url": "http://repo.spongepowered.org/maven/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar",
       "MMC-hint": "forge-pack-xz",
-      "insert": "prepend"
+      "insert": "append"
     },
     {
-      "name": "org.ow2.asm:asm-all:4.1",
-      "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar",
-      "insert": "prepend"
+      "name": "org.scala-lang:scala-compiler:2.10.2",
+      "url": "http://repo.spongepowered.org/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar",
+      "MMC-hint": "forge-pack-xz",
+      "insert": "append"
     },
     {
-      "name": "net.minecraft:launchwrapper:1.7",
-      "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.7/launchwrapper-1.7.jar",
-      "insert": "prepend"
+      "name": "lzma:lzma:0.0.1",
+      "insert": "append"
     },
     {
-      "name": "net.minecraftforge:forge:1.6.3-9.11.0.875:universal",
-      "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-universal.jar",
-      "insert": "prepend",
-      "MMC-depend": "hard"
+      "name": "net.sf.jopt-simple:jopt-simple:4.5",
+      "insert": "append"
+    },
+    {
+      "name": "com.paulscode:codecjorbis:20101023",
+      "insert": "append"
+    },
+    {
+      "name": "com.paulscode:codecwav:20101023",
+      "insert": "append"
+    },
+    {
+      "name": "com.paulscode:libraryjavasound:20101123",
+      "insert": "append"
+    },
+    {
+      "name": "com.paulscode:librarylwjglopenal:20100824",
+      "insert": "append"
+    },
+    {
+      "name": "com.paulscode:soundsystem:20120107",
+      "insert": "append"
+    },
+    {
+      "name": "argo:argo:2.25_fixed",
+      "insert": "append"
+    },
+    {
+      "name": "org.bouncycastle:bcprov-jdk15on:1.47",
+      "insert": "append"
+    },
+    {
+      "name": "com.google.guava:guava:14.0",
+      "insert": "append"
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.1",
+      "insert": "append"
+    },
+    {
+      "name": "commons-io:commons-io:2.4",
+      "insert": "append"
+    },
+    {
+      "name": "com.google.code.gson:gson:2.2.2",
+      "insert": "append"
     }
   ],
   "+jarMods": [

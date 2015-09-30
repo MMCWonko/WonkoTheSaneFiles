@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "21",
+  "time": "1410868791000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/21/artifact/build/libs/bdlib-mc1710-1.4.4.21.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-21.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

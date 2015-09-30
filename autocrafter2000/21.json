@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "autocrafter2000",
+  "name": "autocrafter2000",
+  "fileId": "autocrafter2000",
   "version": "21",
-  "time": "1407616676000",
+  "time": "0000-01-01T00:00:00+00:00",
+  "releaseTime": "0000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/AutoCrafter2000/21/artifact/build/libs/AutoCrafter2000-1.7.10-1.0.0.21.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/autocrafter2000-21.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

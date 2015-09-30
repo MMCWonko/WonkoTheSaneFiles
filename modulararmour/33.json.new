@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "modulararmour",
+  "version": "33",
+  "time": "1434941547135",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/ModularArmour/33/artifact/build/libs/ModularArmour-1.7.10-1.0.10-33.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modulararmour-33.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

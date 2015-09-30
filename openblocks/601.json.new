@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "601",
+  "time": "1429126221140",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/601/artifact/build/libs/OpenBlocks-1.7.10-1.4.1-snapshot-601.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-601.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

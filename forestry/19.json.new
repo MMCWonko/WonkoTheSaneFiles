@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "19",
+  "time": "1435529189520",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry/19/artifact/build/dist/forestry_1.7.10-3.6.2.19.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-19.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

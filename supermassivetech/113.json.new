@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "supermassivetech",
+  "version": "113",
+  "time": "1442770435000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/Super%20Massive%20Tech/113/artifact/build/libs/SuperMassiveTech-MC1.7.10-0.4.0-alpha-113.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/supermassivetech-113.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

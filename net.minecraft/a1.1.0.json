@@ -7,19 +7,16 @@
   "time": "1284328800-01-01T00:00:00+00:00",
   "releaseTime": "1284328800-01-01T00:00:00+00:00",
   "type": "old_alpha",
-  "data": [
-
-  ],
   "requires": [
 
   ],
   "order": -2,
+  "id": "a1.1.0",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
     {
       "name": "net.minecraft:minecraft:a1.1.0",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.1.0/a1.1.0.jar",
-      "insert": "prepend"
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/a1.1.0/a1.1.0.jar"
     }
   ],
   "+jarMods": [

@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "powercrystals.core",
+  "name": "powercrystals.core",
+  "fileId": "powercrystals.core",
   "version": "72",
-  "time": "1365742729000",
+  "time": "1365742729000-01-01T00:00:00+00:00",
+  "releaseTime": "1365742729000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/PowerCrystalsCore/72/artifact/build/dist/PowerCrystalsCore-1.1.0-72.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/powercrystals.core-72.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "346",
+  "time": "1429901149890",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/346/artifact/build/libs/OpenModsLib-1.7.10-0.7.1-snapshot-346.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-346.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

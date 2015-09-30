@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "opencomputers",
+  "version": "776",
+  "time": "1443549856187",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.cil.li/job/OpenComputers-dev-MC1.7.10/776/artifact/build/libs/OpenComputers-MC1.7.10-1.5.18.776-dev-universal.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/opencomputers-776.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

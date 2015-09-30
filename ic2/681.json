@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "ic2",
+  "name": "ic2",
+  "fileId": "ic2",
   "version": "681",
-  "time": "1424520444608",
+  "time": "1424520444608-01-01T00:00:00+00:00",
+  "releaseTime": "1424520444608-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.ic2.player.to/job/IC2_experimental/681/artifact/build/libs/industrialcraft-2-2.2.681-experimental.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/ic2-681.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

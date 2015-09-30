@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "name": "logisticspipes",
+  "fileId": "logisticspipes",
+  "version": "123",
+  "time": "1433458210864-01-01T00:00:00+00:00",
+  "releaseTime": "1433458210864-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

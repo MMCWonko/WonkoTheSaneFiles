@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "inventorytweaks",
+  "version": "174",
+  "time": "1426033138000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Inventory-Tweaks/174/artifact/build/libs/InventoryTweaks-1.59-beta-174.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/inventorytweaks-174.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

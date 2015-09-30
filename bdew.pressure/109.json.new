@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdew.pressure",
+  "version": "109",
+  "time": "1436091442195",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/pressure-1.7.10/109/artifact/build/libs/pressure-1.2.2.109-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdew.pressure-109.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

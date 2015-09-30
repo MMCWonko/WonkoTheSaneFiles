@@ -7,19 +7,16 @@
   "time": "1366904700-01-01T00:00:00+00:00",
   "releaseTime": "1366904700-01-01T00:00:00+00:00",
   "type": "release",
-  "data": [
-
-  ],
   "requires": [
 
   ],
   "order": -2,
+  "id": "1.5.2",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
     {
       "name": "net.minecraft:minecraft:1.5.2",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.5.2/1.5.2.jar",
-      "insert": "prepend"
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.5.2/1.5.2.jar"
     }
   ],
   "+jarMods": [

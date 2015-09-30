@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "enderore",
+  "name": "enderore",
+  "fileId": "enderore",
   "version": "16",
-  "time": "1378766726000",
+  "time": "1378766726000-01-01T00:00:00+00:00",
+  "releaseTime": "1378766726000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/EnderOre/16/artifact/build/dist/EnderOre-1.0-16.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/enderore-16.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

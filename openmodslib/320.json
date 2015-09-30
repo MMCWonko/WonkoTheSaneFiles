@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openmodslib",
+  "name": "openmodslib",
+  "fileId": "openmodslib",
   "version": "320",
-  "time": "1425575067000",
+  "time": "1425575067000-01-01T00:00:00+00:00",
+  "releaseTime": "1425575067000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenModsLib/320/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-320.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openmodslib-320.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "morechisels",
+  "name": "morechisels",
+  "fileId": "morechisels",
   "version": "10",
-  "time": "1424160883210",
+  "time": "1424160883210-01-01T00:00:00+00:00",
+  "releaseTime": "1424160883210-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://tehnut.info/jenkins/job/MoreChisels/10/artifact/build/libs/MoreChisels-1.7.10-1.0-10.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/morechisels-10.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

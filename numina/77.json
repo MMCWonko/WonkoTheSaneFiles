@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "numina",
+  "name": "numina",
+  "fileId": "numina",
   "version": "77",
-  "time": "1396951226000",
+  "time": "1396951226000-01-01T00:00:00+00:00",
+  "releaseTime": "1396951226000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/Numina/77/artifact/build/libs/numina-0.3.0.73.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/numina-77.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

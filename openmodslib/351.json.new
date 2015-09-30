@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "351",
+  "time": "1430855817000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/351/artifact/build/libs/OpenModsLib-1.7.10-0.7.2-snapshot-351.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-351.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

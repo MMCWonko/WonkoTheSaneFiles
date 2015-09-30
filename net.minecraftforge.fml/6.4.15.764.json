@@ -1,270 +1,12 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraftforge.fml",
+  "name": "net.minecraftforge.fml",
+  "fileId": "net.minecraftforge.fml",
   "version": "6.4.15.764",
-  "time": "1380204961",
+  "time": "1380204961-01-01T00:00:00+00:00",
+  "releaseTime": "1380204961-01-01T00:00:00+00:00",
   "type": "release",
-  "data": [
-    {
-      "java.libraries": [
-        {
-          "size": null,
-          "sha256": null,
-          "name": "cpw.mods:fml:1.6.4-6.4.15.764:universal",
-          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "net.minecraft:launchwrapper:1.8",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.ow2.asm:asm-all:4.1",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.scala-lang:scala-library:2.10.2",
-          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.scala-lang:scala-compiler:2.10.2",
-          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "lzma:lzma:0.0.1",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "net.sf.jopt-simple:jopt-simple:4.5",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:codecjorbis:20101023",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:codecwav:20101023",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:libraryjavasound:20101123",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:librarylwjglopenal:20100824",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:soundsystem:20120107",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "argo:argo:2.25_fixed",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.bouncycastle:bcprov-jdk15on:1.47",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.google.guava:guava:14.0",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.apache.commons:commons-lang3:3.1",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "commons-io:commons-io:2.4",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.google.code.gson:gson:2.2.2",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        }
-      ],
-      "java.mainClass": "net.minecraft.launchwrapper.Launch",
-      "mc.tweakers": [
-        "cpw.mods.fml.common.launcher.FMLTweaker"
-      ],
-      "mc.arguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}",
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
-    },
-    {
-      "general.launcher": "java.mainClass",
-      "java.libraries": [
-        {
-          "size": null,
-          "sha256": null,
-          "name": "cpw.mods:fml:1.6.4-6.4.15.764:universal",
-          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "net.minecraft:launchwrapper:1.8",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.ow2.asm:asm-all:4.1",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.scala-lang:scala-library:2.10.2",
-          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.scala-lang:scala-compiler:2.10.2",
-          "mavenBaseUrl": "http://repo.spongepowered.org/maven/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "lzma:lzma:0.0.1",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "net.sf.jopt-simple:jopt-simple:4.5",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:codecjorbis:20101023",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:codecwav:20101023",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:libraryjavasound:20101123",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:librarylwjglopenal:20100824",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.paulscode:soundsystem:20120107",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "argo:argo:2.25_fixed",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.bouncycastle:bcprov-jdk15on:1.47",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.google.guava:guava:14.0",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "org.apache.commons:commons-lang3:3.1",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "commons-io:commons-io:2.4",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        },
-        {
-          "size": null,
-          "sha256": null,
-          "name": "com.google.code.gson:gson:2.2.2",
-          "mavenBaseUrl": "https://libraries.minecraft.net/"
-        }
-      ],
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "server"
-        }
-      ]
-    },
-    {
-      "general.folders": {
-        "minecraft/mods": [
-          "mc.forgemods",
-          "mc.forgecoremods"
-        ],
-        "minecraft/coremods": [
-          "mc.forgecoremods"
-        ]
-      }
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
@@ -273,5 +15,47 @@
     {
       "uid": "org.lwjgl"
     }
+  ],
+  "order": 0,
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "mcVersion": "1.6.4",
+  "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}",
+  "+tweakers": [
+    "cpw.mods.fml.common.launcher.FMLTweaker"
+  ],
+  "+libraries": [
+    {
+      "name": "cpw.mods:fml:1.6.4-6.4.15.764:universal",
+      "url": "http://files.minecraftforge.net/maven/cpw/mods/fml/1.6.4-6.4.15.764/fml-1.6.4-6.4.15.764-universal.jar",
+      "insert": "append",
+      "MMC-depend": "hard"
+    },
+    {
+      "name": "net.minecraft:launchwrapper:1.8",
+      "insert": "append"
+    },
+    {
+      "name": "org.ow2.asm:asm-all:4.1",
+      "insert": "append"
+    },
+    {
+      "name": "org.scala-lang:scala-library:2.10.2",
+      "url": "http://repo.spongepowered.org/maven/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar",
+      "MMC-hint": "forge-pack-xz",
+      "insert": "append"
+    },
+    {
+      "name": "org.scala-lang:scala-compiler:2.10.2",
+      "url": "http://repo.spongepowered.org/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar",
+      "MMC-hint": "forge-pack-xz",
+      "insert": "append"
+    },
+    {
+      "name": "lzma:lzma:0.0.1",
+      "insert": "append"
+    }
+  ],
+  "+jarMods": [
+
   ]
 }

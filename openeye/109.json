@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openeye",
+  "name": "openeye",
+  "fileId": "openeye",
   "version": "109",
-  "time": "1400322841000",
+  "time": "1400322841000-01-01T00:00:00+00:00",
+  "releaseTime": "1400322841000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenEye/109/artifact/mod/build/libs/OpenEye-0.4-1.6.4-snapshot-109.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openeye-109.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

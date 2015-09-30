@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "opencomputers",
+  "name": "opencomputers",
+  "fileId": "opencomputers",
   "version": "22",
-  "time": "1432213091186",
+  "time": "1432213091186-01-01T00:00:00+00:00",
+  "releaseTime": "1432213091186-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.cil.li/job/OpenComputers-1.5-MC1.7.10/22/artifact/build/libs/OpenComputers-MC1.7.10-1.5.10.22-universal.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/opencomputers-22.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

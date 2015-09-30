@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "powercrystals.core",
+  "version": "89",
+  "time": "1366579788000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/PowerCrystalsCore/89/artifact/build/dist/PowerCrystalsCore-1.1.3B1-89.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/powercrystals.core-89.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "lanteacraft",
+  "version": "31",
+  "time": "1398620288",
+  "type": "Beta",
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/lanteacraft/787831",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/lanteacraft-31.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.6.4"
+    }
+  ]
+}

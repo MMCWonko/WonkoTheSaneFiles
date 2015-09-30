@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "forestry",
+  "name": "forestry",
+  "fileId": "forestry",
   "version": "15",
-  "time": "1431219353145",
+  "time": "1431219353145-01-01T00:00:00+00:00",
+  "releaseTime": "1431219353145-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.ic2.player.to/job/Forestry/15/artifact/build/dist/forestry_1.7.10-3.5.6.15.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/forestry-15.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

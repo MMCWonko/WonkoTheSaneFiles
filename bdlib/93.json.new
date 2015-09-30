@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "93",
+  "time": "1435150362870",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/93/artifact/build/libs/bdlib-1.9.0.93-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-93.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

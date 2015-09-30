@@ -1,25 +1,25 @@
 {
   "formatVersion": 0,
   "uid": "inpurecore",
+  "name": "inpurecore",
+  "fileId": "inpurecore",
   "version": "1.0.0B3-6",
-  "time": "1414775966",
+  "time": "1414775966-01-01T00:00:00+00:00",
+  "releaseTime": "1414775966-01-01T00:00:00+00:00",
   "type": "Release",
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://curse.com/mc-mods/minecraft/223792-inpurecore/2217865",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/inpurecore-1.0.0B3-6.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
       "version": "1.7.10"
     }
+  ],
+  "order": 0,
+  "mcVersion": "1.7.10",
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
   ]
 }

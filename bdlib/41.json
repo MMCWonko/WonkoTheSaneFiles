@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "bdlib",
+  "name": "bdlib",
+  "fileId": "bdlib",
   "version": "41",
-  "time": "1423434114412",
+  "time": "1423434114412-01-01T00:00:00+00:00",
+  "releaseTime": "1423434114412-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/41/artifact/build/libs/bdlib-mc1710-1.6.2.41.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/bdlib-41.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

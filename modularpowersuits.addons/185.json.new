@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits.addons",
+  "version": "185",
+  "time": "1375288667000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/ModularPowersuitsAddons/185/artifact/build/dist/MPSA-185_Requires_MPS-561+.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modularpowersuits.addons-185.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

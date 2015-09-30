@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "name": "gendustry",
+  "fileId": "gendustry",
+  "version": "109",
+  "time": "1436972598264-01-01T00:00:00+00:00",
+  "releaseTime": "1436972598264-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

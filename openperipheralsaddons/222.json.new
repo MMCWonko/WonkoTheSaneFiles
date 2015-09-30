@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralsaddons",
+  "version": "222",
+  "time": "1441472093283",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralAddons/222/artifact/build/libs/OpenPeripheralAddons-1.7.10-0.4-snapshot-222.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralsaddons-222.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

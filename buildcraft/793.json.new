@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "buildcraft",
+  "version": "793",
+  "time": "1442753647046",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://nallar.me/buildservice/job/Buildcraft/793/artifact/build/libs/buildcraft-7.1.3.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/buildcraft-793.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

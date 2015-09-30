@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openblocks",
+  "version": "642",
+  "time": "1432912863000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenBlocks/642/artifact/build/libs/OpenBlocks-1.7.10-1.4.3-snapshot-642.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openblocks-642.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

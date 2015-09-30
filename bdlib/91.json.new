@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "version": "91",
+  "time": "1433767485143",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/bdlib-1.7.10/91/artifact/build/libs/bdlib-1.8.2.91-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bdlib-91.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "equivalentexchange3",
+  "version": "367",
+  "time": "1432780028983",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://nallar.me/buildservice/job/Equivalent%20Exchange%203/367/artifact/build/libs/EquivalentExchange3-1.7.10-0.3.367.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/equivalentexchange3-367.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

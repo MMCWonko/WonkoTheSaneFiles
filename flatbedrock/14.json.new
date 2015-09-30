@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "flatbedrock",
+  "version": "14",
+  "time": "1360914555000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/FlatBedrock/14/artifact/build/dist/FlatBedrock-1.0.3-14.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/flatbedrock-14.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

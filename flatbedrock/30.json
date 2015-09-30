@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "flatbedrock",
+  "name": "flatbedrock",
+  "fileId": "flatbedrock",
   "version": "30",
-  "time": "1365743641000",
+  "time": "1365743641000-01-01T00:00:00+00:00",
+  "releaseTime": "1365743641000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/FlatBedrock/30/artifact/build/dist/FlatBedrock-1.1.0-30.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/flatbedrock-30.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

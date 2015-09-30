@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralintegration",
+  "version": "63",
+  "time": "1429467962903",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralIntegration/63/artifact/build/libs/OpenPeripheralIntegration-1.7.10-0.2.1-snapshot-63.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralintegration-63.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

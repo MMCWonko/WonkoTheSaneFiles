@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "mekanism",
+  "name": "mekanism",
+  "fileId": "mekanism",
+  "version": "237",
+  "time": "1434232631533-01-01T00:00:00+00:00",
+  "releaseTime": "1434232631533-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

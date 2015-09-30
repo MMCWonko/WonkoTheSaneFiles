@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "414",
+  "time": "1441682060000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/414/artifact/build/libs/EnderIO-1.7.10-2.3.0.414_beta.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-414.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

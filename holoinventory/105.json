@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "holoinventory",
+  "name": "holoinventory",
+  "fileId": "holoinventory",
   "version": "105",
-  "time": "1428836823930",
+  "time": "1428836823930-01-01T00:00:00+00:00",
+  "releaseTime": "1428836823930-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/HoloInventory/105/artifact/build/libs/HoloInventory-1.7.10-1.8.3.105.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/holoinventory-105.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

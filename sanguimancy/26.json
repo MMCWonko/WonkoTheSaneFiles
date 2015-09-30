@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "sanguimancy",
+  "name": "sanguimancy",
+  "fileId": "sanguimancy",
   "version": "26",
-  "time": "1428185810190",
+  "time": "1428185810190-01-01T00:00:00+00:00",
+  "releaseTime": "1428185810190-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://tehnut.info/jenkins/job/Sanguimancy/26/artifact/build/libs/Sanguimancy-1.7.10-1.1.9-26.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/sanguimancy-26.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

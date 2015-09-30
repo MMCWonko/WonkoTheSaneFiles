@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "launchgui",
+  "version": "12",
+  "time": "1429659867450",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/LaunchGUI-1.7.10/12/artifact/build/libs/LaunchGui-1.7.10-2.0-12-client.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/launchgui-12.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

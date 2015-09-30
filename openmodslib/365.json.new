@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "365",
+  "time": "1432581842000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/365/artifact/build/libs/OpenModsLib-1.7.10-0.7.3-snapshot-365.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-365.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

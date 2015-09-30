@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openmodslib",
+  "name": "openmodslib",
+  "fileId": "openmodslib",
   "version": "308",
-  "time": "1423418425000",
+  "time": "1423418425000-01-01T00:00:00+00:00",
+  "releaseTime": "1423418425000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenModsLib/308/artifact/build/libs/OpenModsLib-1.7.10-0.6-snapshot-308.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openmodslib-308.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

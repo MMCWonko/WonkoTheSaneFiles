@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "inpurecore",
+  "version": "1.0.0B6-13",
+  "time": "1415057947",
+  "type": "Release",
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/223792-inpurecore/2218112",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/inpurecore-1.0.0B6-13.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ]
+}

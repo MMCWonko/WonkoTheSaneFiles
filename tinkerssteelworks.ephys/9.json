@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "tinkerssteelworks.ephys",
+  "name": "tinkerssteelworks.ephys",
+  "fileId": "tinkerssteelworks.ephys",
   "version": "9",
-  "time": "1427574389767",
+  "time": "1427574389767-01-01T00:00:00+00:00",
+  "releaseTime": "1427574389767-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://tehnut.info/jenkins/job/TSteelworks/9/artifact/build/libs/TSteelworks-1.7.10-1.1.0-9.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/tinkerssteelworks.ephys-9.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

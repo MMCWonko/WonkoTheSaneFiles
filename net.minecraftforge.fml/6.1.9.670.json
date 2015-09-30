@@ -1,49 +1,29 @@
 {
   "formatVersion": 0,
   "uid": "net.minecraftforge.fml",
+  "name": "net.minecraftforge.fml",
+  "fileId": "net.minecraftforge.fml",
   "version": "6.1.9.670",
-  "time": "1372721461",
+  "time": "1372721461-01-01T00:00:00+00:00",
+  "releaseTime": "1372721461-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "mc.jarmod": [
-        {
-          "size": null,
-          "sha256": null,
-          "name": "net.minecraftforge:fml:1.6.1-6.1.9.670:universal@jar",
-          "mavenBaseUrl": "http://files.minecraftforge.net/maven/"
-        }
-      ],
-      "mc.arguments": [
-        "-Dfml.ignoreInvalidMinecraftCertificates=true",
-        "-Dfml.ignorePatchDiscrepancies=true"
-      ],
-      "rules": [
-        {
-          "action": "disallow"
-        },
-        {
-          "action": "allow",
-          "side": "client"
-        }
-      ]
-    },
-    {
-      "general.folders": {
-        "minecraft/mods": [
-          "mc.forgemods",
-          "mc.forgecoremods"
-        ],
-        "minecraft/coremods": [
-          "mc.forgecoremods"
-        ]
-      }
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
       "version": "1.6.1"
+    }
+  ],
+  "order": 0,
+  "mcVersion": "1.6.1",
+  "minecraftArguments": [
+    "-Dfml.ignoreInvalidMinecraftCertificates=true",
+    "-Dfml.ignorePatchDiscrepancies=true"
+  ],
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+    {
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "27",
+  "time": "1443330259446",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry/27/artifact/build/dist/forestry_1.7.10-4.0.0.27.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-27.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

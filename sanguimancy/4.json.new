@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "sanguimancy",
+  "version": "4",
+  "time": "1421005650000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/Sanguimancy/4/artifact/build/libs/Sanguimancy-1.7.10-1.1.9Pre-4.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/sanguimancy-4.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

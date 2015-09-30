@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkersmechworks",
+  "version": "0.2.14.100",
+  "time": "1426038377",
+  "type": "Release",
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/tinkers-mechworks/2229984",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/tinkersmechworks-0.2.14.100.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ]
+}

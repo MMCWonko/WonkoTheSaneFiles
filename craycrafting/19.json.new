@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "craycrafting",
+  "version": "19",
+  "time": "1431208582601",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/CrayCrafting/19/artifact/build/libs/CrayCrafting-1.7.10-1.3.0.19.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/craycrafting-19.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "torchtools",
+  "version": "25",
+  "time": "1427063289000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/TorchTools/25/artifact/build/libs/TorchTools-1.7.10-1.1.0.25.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/torchtools-25.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

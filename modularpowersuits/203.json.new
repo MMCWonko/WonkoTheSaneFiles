@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "modularpowersuits",
+  "version": "203",
+  "time": "1440687769000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/ModularPowersuits/203/artifact/build/libs/ModularPowersuits-0.11.0.203.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/modularpowersuits-203.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

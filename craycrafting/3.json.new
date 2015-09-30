@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "craycrafting",
+  "version": "3",
+  "time": "0",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "https://jenkins.dries007.net/job/CrayCrafting/3/artifact/build/libs/CrayCrafting-Beta-0.3.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/craycrafting-3.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

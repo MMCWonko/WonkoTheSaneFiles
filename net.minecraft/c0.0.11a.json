@@ -7,21 +7,18 @@
   "time": "1242511200-01-01T00:00:00+00:00",
   "releaseTime": "1242511200-01-01T00:00:00+00:00",
   "type": "old_alpha",
-  "data": [
-
-  ],
   "requires": [
 
   ],
   "order": -2,
+  "id": "c0.0.11a",
   "mainClass": "com.mojang.minecraft.Minecraft",
   "appletClass": "com.mojang.minecraft.MinecraftApplet",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
     {
       "name": "net.minecraft:minecraft:c0.0.11a",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.11a/c0.0.11a.jar",
-      "insert": "prepend"
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.11a/c0.0.11a.jar"
     }
   ],
   "+jarMods": [

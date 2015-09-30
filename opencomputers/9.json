@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "opencomputers",
+  "name": "opencomputers",
+  "fileId": "opencomputers",
   "version": "9",
-  "time": "1425038290480",
+  "time": "1425038290480-01-01T00:00:00+00:00",
+  "releaseTime": "1425038290480-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.cil.li/job/OpenComputers-1.5-MC1.7.10/9/artifact/build/libs/OpenComputers-MC1.7.10-1.5.2.9-universal.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/opencomputers-9.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

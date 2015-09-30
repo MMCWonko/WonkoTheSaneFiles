@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "407",
+  "time": "1439145154000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/407/artifact/build/libs/EnderIO-1.7.10-2.3.0.407_beta.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-407.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

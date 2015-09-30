@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "logisticspipes",
+  "version": "95",
+  "time": "1422618250000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.rs485.network/job/LogisticsPipes1.7/95/artifact/build/libs/logisticspipes-0.8.3.95.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/logisticspipes-95.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

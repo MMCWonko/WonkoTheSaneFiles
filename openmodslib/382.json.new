@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openmodslib",
+  "version": "382",
+  "time": "1438516593405",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenModsLib/382/artifact/build/libs/OpenModsLib-1.7.10-0.8-snapshot-382.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openmodslib-382.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

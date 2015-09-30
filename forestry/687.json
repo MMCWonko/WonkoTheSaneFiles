@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "name": "forestry",
+  "fileId": "forestry",
+  "version": "687",
+  "time": "1440973186228-01-01T00:00:00+00:00",
+  "releaseTime": "1440973186228-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

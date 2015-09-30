@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "dimdoors",
+  "name": "dimdoors",
+  "fileId": "dimdoors",
   "version": "325",
-  "time": "1397267813000",
+  "time": "1397267813000-01-01T00:00:00+00:00",
+  "releaseTime": "1397267813000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/DimDoors/325/artifact/build/dist/DimensionalDoors-2.2.3-325.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/dimdoors-325.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

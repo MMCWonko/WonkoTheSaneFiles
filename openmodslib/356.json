@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "openmodslib",
+  "name": "openmodslib",
+  "fileId": "openmodslib",
   "version": "356",
-  "time": "1431198120000",
+  "time": "1431198120000-01-01T00:00:00+00:00",
+  "releaseTime": "1431198120000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://www.openmods.info:8080/job/OpenModsLib/356/artifact/build/libs/OpenModsLib-1.7.10-0.7.3-snapshot-356.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/openmodslib-356.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

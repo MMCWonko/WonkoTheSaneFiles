@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "enderzoo",
+  "version": "26",
+  "time": "1428744493000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/Ender%20Zoo/26/artifact/build/libs/EnderZoo-1.7.10-1.0.11.26.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderzoo-26.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

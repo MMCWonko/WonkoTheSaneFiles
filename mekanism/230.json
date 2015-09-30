@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "mekanism",
+  "name": "mekanism",
+  "fileId": "mekanism",
   "version": "230",
-  "time": "1432350454859",
+  "time": "1432350454859-01-01T00:00:00+00:00",
+  "releaseTime": "1432350454859-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.indiewikis.com:8080/job/Mekanism/230/artifact/output/MDK-1.7.10-8.1.2.230.zip",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/mekanism-230.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "logisticspipes",
+  "name": "logisticspipes",
+  "fileId": "logisticspipes",
   "version": "67",
-  "time": "1412943014000",
+  "time": "1412943014000-01-01T00:00:00+00:00",
+  "releaseTime": "1412943014000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://ci.thezorro266.com/job/LogisticsPipes1.7/67/artifact/build/libs/logisticspipes-0.8.0.67.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/logisticspipes-67.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

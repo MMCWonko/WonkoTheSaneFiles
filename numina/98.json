@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "numina",
+  "name": "numina",
+  "fileId": "numina",
   "version": "98",
-  "time": "1410645806000",
+  "time": "1410645806000-01-01T00:00:00+00:00",
+  "releaseTime": "1410645806000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/Numina/98/artifact/build/libs/Numina-0.4.0.98.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/numina-98.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "gendustry",
+  "version": "98",
+  "time": "1434970572242",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/gendustry-1.7.10/98/artifact/build/libs/gendustry-1.4.14.98-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/gendustry-98.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

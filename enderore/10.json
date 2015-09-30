@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "enderore",
+  "name": "enderore",
+  "fileId": "enderore",
   "version": "10",
-  "time": "1369449555000",
+  "time": "1369449555000-01-01T00:00:00+00:00",
+  "releaseTime": "1369449555000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://build.technicpack.net/job/EnderOre/10/artifact/build/dist/EnderOre-1.0-10.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/enderore-10.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

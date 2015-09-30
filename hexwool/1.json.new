@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "hexwool",
+  "version": "1",
+  "time": "1408846860000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.techjargaming.com/job/HexWool/1/artifact/build/HexWool-1.7.10-0.4.0.1.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/hexwool-1.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "pay2spawn",
+  "name": "pay2spawn",
+  "fileId": "pay2spawn",
+  "version": "275",
+  "time": "1436952690091-01-01T00:00:00+00:00",
+  "releaseTime": "1436952690091-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

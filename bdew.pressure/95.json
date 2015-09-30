@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "bdew.pressure",
+  "name": "bdew.pressure",
+  "fileId": "bdew.pressure",
   "version": "95",
-  "time": "1431264458784",
+  "time": "1431264458784-01-01T00:00:00+00:00",
+  "releaseTime": "1431264458784-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.bdew.net/job/pressure-1.7.10/95/artifact/build/libs/pressure-1.1.2.95-mc1.7.10.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/bdew.pressure-95.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

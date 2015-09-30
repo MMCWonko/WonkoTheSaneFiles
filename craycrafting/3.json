@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "craycrafting",
+  "name": "craycrafting",
+  "fileId": "craycrafting",
   "version": "3",
-  "time": "1390931524000",
+  "time": "0000-01-01T00:00:00+00:00",
+  "releaseTime": "0000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/CrayCrafting/3/artifact/build/libs/CrayCrafting-Beta-0.3.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/craycrafting-3.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

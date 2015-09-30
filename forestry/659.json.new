@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "659",
+  "time": "1439178326460",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/659/artifact/build/dist/forestry_1.7.10-4.0.0.659-unstable.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-659.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "neiaddons",
+  "version": "34",
+  "time": "1435928944657",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.bdew.net/job/neiaddons-1.7.10/34/artifact/build/libs/neiaddons-1.12.10.34-mc1.7.10.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/neiaddons-34.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

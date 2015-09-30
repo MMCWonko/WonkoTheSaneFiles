@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "compactmachines",
+  "version": "1.19-fluids-preview-b5",
+  "time": "1428836423",
+  "type": "Beta",
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/224218-compact-machines/2233936",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/compactmachines-1.19-fluids-preview-b5.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "compactmachines",
+  "version": "1.13",
+  "time": "1417861822",
+  "type": "Beta",
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/224218-compact-machines/2221346",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/compactmachines-1.13.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "bloodmagic",
+  "version": "1.2.1",
+  "time": "1416507821",
+  "type": "Release",
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/224791-blood-magic/2219435",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/bloodmagic-1.2.1.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ]
+}

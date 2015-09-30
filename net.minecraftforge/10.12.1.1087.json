@@ -7,9 +7,6 @@
   "time": "1400954253-01-01T00:00:00+00:00",
   "releaseTime": "1400954253-01-01T00:00:00+00:00",
   "type": "release",
-  "data": [
-
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
@@ -25,37 +22,34 @@
   ],
   "+libraries": [
     {
-      "name": "lzma:lzma:0.0.1",
-      "url": "https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar",
-      "insert": "prepend"
+      "name": "net.minecraftforge:forge:1.7.2-10.12.1.1087:universal",
+      "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.2-10.12.1.1087/forge-1.7.2-10.12.1.1087-universal.jar",
+      "insert": "append",
+      "MMC-depend": "hard"
     },
     {
-      "name": "org.scala-lang:scala-compiler:2.10.2",
-      "url": "http://repo.spongepowered.org/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar",
-      "MMC-hint": "forge-pack-xz",
-      "insert": "prepend"
+      "name": "net.minecraft:launchwrapper:1.9",
+      "insert": "append"
+    },
+    {
+      "name": "org.ow2.asm:asm-all:4.1",
+      "insert": "append"
     },
     {
       "name": "org.scala-lang:scala-library:2.10.2",
       "url": "http://repo.spongepowered.org/maven/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar",
       "MMC-hint": "forge-pack-xz",
-      "insert": "prepend"
+      "insert": "append"
     },
     {
-      "name": "org.ow2.asm:asm-all:4.1",
-      "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar",
-      "insert": "prepend"
+      "name": "org.scala-lang:scala-compiler:2.10.2",
+      "url": "http://repo.spongepowered.org/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar",
+      "MMC-hint": "forge-pack-xz",
+      "insert": "append"
     },
     {
-      "name": "net.minecraft:launchwrapper:1.9",
-      "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.9/launchwrapper-1.9.jar",
-      "insert": "prepend"
-    },
-    {
-      "name": "net.minecraftforge:forge:1.7.2-10.12.1.1087:universal",
-      "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.2-10.12.1.1087/forge-1.7.2-10.12.1.1087-universal.jar",
-      "insert": "prepend",
-      "MMC-depend": "hard"
+      "name": "lzma:lzma:0.0.1",
+      "insert": "append"
     }
   ],
   "+jarMods": [

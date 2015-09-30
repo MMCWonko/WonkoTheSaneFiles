@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "launchgui",
+  "version": "13",
+  "time": "1429703329093",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://tehnut.info/jenkins/job/LaunchGUI-1.7.10/13/artifact/build/libs/LaunchGui-1.7.10-2.0-13-client.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/launchgui-13.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "forestry",
+  "version": "13",
+  "time": "1429388130575",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://jenkins.ic2.player.to/job/Forestry/13/artifact/build/dist/forestry_1.7.10-3.5.4.13.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/forestry-13.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

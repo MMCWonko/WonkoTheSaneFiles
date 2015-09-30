@@ -7,20 +7,17 @@
   "time": "1242427920-01-01T00:00:00+00:00",
   "releaseTime": "1242427920-01-01T00:00:00+00:00",
   "type": "old_alpha",
-  "data": [
-
-  ],
   "requires": [
 
   ],
   "order": -2,
+  "id": "rd-160052",
   "mainClass": "com.mojang.rubydung.RubyDung",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
     {
       "name": "net.minecraft:minecraft:rd-160052",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-160052/rd-160052.jar",
-      "insert": "prepend"
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/rd-160052/rd-160052.jar"
     }
   ],
   "+jarMods": [

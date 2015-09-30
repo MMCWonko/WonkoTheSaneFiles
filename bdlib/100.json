@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "bdlib",
+  "name": "bdlib",
+  "fileId": "bdlib",
+  "version": "100",
+  "time": "1438522496781-01-01T00:00:00+00:00",
+  "releaseTime": "1438522496781-01-01T00:00:00+00:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

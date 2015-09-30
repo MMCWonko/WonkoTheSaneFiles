@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openperipheralscore",
+  "version": "235",
+  "time": "1435088549000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenPeripheralCore/235/artifact/build/libs/OpenPeripheralCore-1.7.10-1.1.1-snapshot-235.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openperipheralscore-235.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

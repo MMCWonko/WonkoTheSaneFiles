@@ -1,25 +1,25 @@
 {
   "formatVersion": 0,
   "uid": "lanteacraft",
+  "name": "lanteacraft",
+  "fileId": "lanteacraft",
   "version": "57",
-  "time": "1418556456",
+  "time": "1418556456-01-01T00:00:00+00:00",
+  "releaseTime": "1418556456-01-01T00:00:00+00:00",
   "type": "Release",
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://curse.com/mc-mods/minecraft/lanteacraft/2221867",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/lanteacraft-57.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
     {
       "uid": "net.minecraft",
       "version": "1.7.10"
     }
+  ],
+  "order": 0,
+  "mcVersion": "1.7.10",
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
   ]
 }

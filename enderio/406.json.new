@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "enderio",
+  "version": "406",
+  "time": "1438670448000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://ci.tterrag.com/job/EnderIO/406/artifact/build/libs/EnderIO-1.7.10-2.3.0.406_beta.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/enderio-406.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

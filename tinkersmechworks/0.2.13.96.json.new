@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "uid": "tinkersmechworks",
+  "version": "0.2.13.96",
+  "time": "1423814134",
+  "type": "Beta",
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://curse.com/mc-mods/minecraft/tinkers-mechworks/2227136",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/tinkersmechworks-0.2.13.96.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "version": "1.7.10"
+    }
+  ]
+}

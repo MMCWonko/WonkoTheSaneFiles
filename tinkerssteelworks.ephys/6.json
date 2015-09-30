@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "tinkerssteelworks.ephys",
+  "name": "tinkerssteelworks.ephys",
+  "fileId": "tinkerssteelworks.ephys",
   "version": "6",
-  "time": "1423315258798",
+  "time": "1423315258798-01-01T00:00:00+00:00",
+  "releaseTime": "1423315258798-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://tehnut.info/jenkins/job/TSteelworks/6/artifact/build/libs/TSteelworks-1.7.10-1.1.0-6.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/tinkerssteelworks.ephys-6.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

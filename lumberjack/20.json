@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "lumberjack",
+  "name": "lumberjack",
+  "fileId": "lumberjack",
   "version": "20",
-  "time": "1431537566258",
+  "time": "1431537566258-01-01T00:00:00+00:00",
+  "releaseTime": "1431537566258-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/Lumberjack/20/artifact/build/libs/Lumberjack-1.7.10-1.1.0.20.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/lumberjack-20.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

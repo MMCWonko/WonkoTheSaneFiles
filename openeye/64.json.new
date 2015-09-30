@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "openeye",
+  "version": "64",
+  "time": "1399396754000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://www.openmods.info:8080/job/OpenEye/64/artifact/mod/build/libs/OpenEye-0.1-1.6.4-snapshot-64.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/openeye-64.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}

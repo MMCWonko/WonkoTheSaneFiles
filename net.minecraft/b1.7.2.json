@@ -7,19 +7,16 @@
   "time": "1309471200-01-01T00:00:00+00:00",
   "releaseTime": "1309471200-01-01T00:00:00+00:00",
   "type": "old_beta",
-  "data": [
-
-  ],
   "requires": [
 
   ],
   "order": -2,
+  "id": "b1.7.2",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
     {
       "name": "net.minecraft:minecraft:b1.7.2",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.7.2/b1.7.2.jar",
-      "insert": "prepend"
+      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.7.2/b1.7.2.jar"
     }
   ],
   "+jarMods": [

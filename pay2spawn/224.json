@@ -1,22 +1,21 @@
 {
   "formatVersion": 0,
   "uid": "pay2spawn",
+  "name": "pay2spawn",
+  "fileId": "pay2spawn",
   "version": "224",
-  "time": "1413989372000",
+  "time": "0000-01-01T00:00:00+00:00",
+  "releaseTime": "0000-01-01T00:00:00+00:00",
   "type": null,
-  "data": [
-    {
-      "general.downloads": [
-        {
-          "url": "http://jenkins.dries007.net/job/Pay2Spawn/224/artifact/build/libs/Pay2Spawn-1.7.10-2.5.0.224.jar",
-          "size": null,
-          "sha256": null,
-          "destination": "mods/pay2spawn-224.jar"
-        }
-      ]
-    }
-  ],
   "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
 
   ]
 }

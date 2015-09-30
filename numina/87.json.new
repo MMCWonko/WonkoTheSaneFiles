@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "uid": "numina",
+  "version": "87",
+  "time": "1410177346000",
+  "type": null,
+  "data": [
+    {
+      "general.downloads": [
+        {
+          "url": "http://build.technicpack.net/job/Numina/87/artifact/build/libs/Numina-0.4.0.87.jar",
+          "size": null,
+          "sha256": null,
+          "destination": "mods/numina-87.jar"
+        }
+      ]
+    }
+  ],
+  "requires": [
+
+  ]
+}
