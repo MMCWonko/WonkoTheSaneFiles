@@ -4,6 +4,16 @@
   "name": null,
   "versions": [
     {
+      "version": "15w39b",
+      "type": "snapshot",
+      "time": 1442848192
+    },
+    {
+      "version": "15w39a",
+      "type": "snapshot",
+      "time": 1442841392
+    },
+    {
       "version": "1.5.2",
       "type": "release",
       "time": 1366904700
@@ -409,19 +419,14 @@
       "time": 1242245460
     },
     {
+      "version": "15w40a",
+      "type": "snapshot",
+      "time": 1443618834
+    },
+    {
       "version": "15w39c",
       "type": "snapshot",
       "time": 1443014034
-    },
-    {
-      "version": "15w39b",
-      "type": "snapshot",
-      "time": 1442848192
-    },
-    {
-      "version": "15w39a",
-      "type": "snapshot",
-      "time": 1442841392
     },
     {
       "version": "15w38b",
