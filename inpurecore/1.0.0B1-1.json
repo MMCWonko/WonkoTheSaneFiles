@@ -4,8 +4,8 @@
   "name": "inpurecore",
   "fileId": "inpurecore",
   "version": "1.0.0B1-1",
-  "time": "1409179410-01-01T00:00:00+00:00",
-  "releaseTime": "1409179410-01-01T00:00:00+00:00",
+  "time": "1409179410-01-01T00:00:00+01:00",
+  "releaseTime": "1409179410-01-01T00:00:00+01:00",
   "type": "Release",
   "requires": [
     {

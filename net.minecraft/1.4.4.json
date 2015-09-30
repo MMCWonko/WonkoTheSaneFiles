@@ -4,8 +4,8 @@
   "name": "net.minecraft",
   "fileId": "net.minecraft",
   "version": "1.4.4",
-  "time": "1352844000-01-01T00:00:00+00:00",
-  "releaseTime": "1352844000-01-01T00:00:00+00:00",
+  "time": "1352844000-01-01T00:00:00+01:00",
+  "releaseTime": "1352844000-01-01T00:00:00+01:00",
   "type": "release",
   "requires": [
 
@@ -14,10 +14,7 @@
   "id": "1.4.4",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
-    {
-      "name": "net.minecraft:minecraft:1.4.4",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.4.4/1.4.4.jar"
-    }
+
   ],
   "+jarMods": [
 

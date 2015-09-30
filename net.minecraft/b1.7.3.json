@@ -4,8 +4,8 @@
   "name": "net.minecraft",
   "fileId": "net.minecraft",
   "version": "b1.7.3",
-  "time": "1310076000-01-01T00:00:00+00:00",
-  "releaseTime": "1310076000-01-01T00:00:00+00:00",
+  "time": "1310076000-01-01T00:00:00+01:00",
+  "releaseTime": "1310076000-01-01T00:00:00+01:00",
   "type": "old_beta",
   "requires": [
 
@@ -14,10 +14,7 @@
   "id": "b1.7.3",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
-    {
-      "name": "net.minecraft:minecraft:b1.7.3",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.7.3/b1.7.3.jar"
-    }
+
   ],
   "+jarMods": [
 

@@ -4,8 +4,8 @@
   "name": "org.lwjgl",
   "fileId": "org.lwjgl",
   "version": "2.9.1-nightly-20130708-debug3",
-  "time": "1373241600-01-01T00:00:00+00:00",
-  "releaseTime": "1373241600-01-01T00:00:00+00:00",
+  "time": "1373241600-01-01T00:00:00+01:00",
+  "releaseTime": "1373241600-01-01T00:00:00+01:00",
   "type": "release",
   "requires": [
 
@@ -23,7 +23,7 @@
     },
     {
       "name": "net.java.jinput:jinput-platform:2.0.5",
-      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
       "rules": [
         {
           "action": "disallow"
@@ -39,7 +39,7 @@
     },
     {
       "name": "net.java.jinput:jinput-platform:2.0.5",
-      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
       "rules": [
         {
           "action": "disallow"
@@ -55,7 +55,7 @@
     },
     {
       "name": "net.java.jinput:jinput-platform:2.0.5",
-      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar",
       "rules": [
         {
           "action": "disallow"
@@ -97,7 +97,7 @@
     },
     {
       "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20130708-debug3",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20130708-debug3/lwjgl-platform-2.9.1-nightly-20130708-debug3-natives-windows.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20130708-debug3/lwjgl-platform-2.9.1-nightly-20130708-debug3-natives-windows.jar",
       "rules": [
         {
           "action": "disallow"
@@ -113,7 +113,7 @@
     },
     {
       "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20130708-debug3",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20130708-debug3/lwjgl-platform-2.9.1-nightly-20130708-debug3-natives-linux.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20130708-debug3/lwjgl-platform-2.9.1-nightly-20130708-debug3-natives-linux.jar",
       "rules": [
         {
           "action": "disallow"
@@ -129,7 +129,7 @@
     },
     {
       "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20130708-debug3",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20130708-debug3/lwjgl-platform-2.9.1-nightly-20130708-debug3-natives-osx.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20130708-debug3/lwjgl-platform-2.9.1-nightly-20130708-debug3-natives-osx.jar",
       "rules": [
         {
           "action": "disallow"

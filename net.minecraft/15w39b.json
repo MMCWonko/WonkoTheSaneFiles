@@ -4,8 +4,8 @@
   "name": "net.minecraft",
   "fileId": "net.minecraft",
   "version": "15w39b",
-  "time": "1442848192-01-01T00:00:00+00:00",
-  "releaseTime": "1442848192-01-01T00:00:00+00:00",
+  "time": "1442848192-01-01T00:00:00+01:00",
+  "releaseTime": "1442848192-01-01T00:00:00+01:00",
   "type": "snapshot",
   "requires": [
     {
@@ -89,10 +89,6 @@
     },
     {
       "name": "org.apache.logging.log4j:log4j-core:2.0-beta9"
-    },
-    {
-      "name": "net.minecraft:minecraft:15w39b",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/15w39b/15w39b.jar"
     }
   ],
   "+jarMods": [

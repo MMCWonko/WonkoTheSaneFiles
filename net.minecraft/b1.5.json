@@ -4,8 +4,8 @@
   "name": "net.minecraft",
   "fileId": "net.minecraft",
   "version": "b1.5",
-  "time": "1303164000-01-01T00:00:00+00:00",
-  "releaseTime": "1303164000-01-01T00:00:00+00:00",
+  "time": "1303164000-01-01T00:00:00+01:00",
+  "releaseTime": "1303164000-01-01T00:00:00+01:00",
   "type": "old_beta",
   "requires": [
 
@@ -14,10 +14,7 @@
   "id": "b1.5",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
-    {
-      "name": "net.minecraft:minecraft:b1.5",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/b1.5/b1.5.jar"
-    }
+
   ],
   "+jarMods": [
 

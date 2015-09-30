@@ -4,8 +4,8 @@
   "name": "net.minecraft",
   "fileId": "net.minecraft",
   "version": "1.8.8",
-  "time": "1437993088-01-01T00:00:00+00:00",
-  "releaseTime": "1437993088-01-01T00:00:00+00:00",
+  "time": "1437993088-01-01T00:00:00+01:00",
+  "releaseTime": "1437993088-01-01T00:00:00+01:00",
   "type": "release",
   "requires": [
     {
@@ -95,7 +95,7 @@
     },
     {
       "name": "tv.twitch:twitch-platform:6.5",
-      "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-${arch}.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-${arch}.jar",
       "rules": [
         {
           "action": "disallow"
@@ -110,7 +110,7 @@
     },
     {
       "name": "tv.twitch:twitch-platform:6.5",
-      "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-osx.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-osx.jar",
       "rules": [
         {
           "action": "disallow"
@@ -125,7 +125,7 @@
     },
     {
       "name": "tv.twitch:twitch-external-platform:4.5",
-      "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-${arch}.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-${arch}.jar",
       "rules": [
         {
           "action": "disallow"
@@ -137,10 +137,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "net.minecraft:minecraft:1.8.8",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.8.8/1.8.8.jar"
     }
   ],
   "+jarMods": [

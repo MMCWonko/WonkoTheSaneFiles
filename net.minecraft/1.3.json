@@ -4,8 +4,8 @@
   "name": "net.minecraft",
   "fileId": "net.minecraft",
   "version": "1.3",
-  "time": "1343253600-01-01T00:00:00+00:00",
-  "releaseTime": "1343253600-01-01T00:00:00+00:00",
+  "time": "1343253600-01-01T00:00:00+01:00",
+  "releaseTime": "1343253600-01-01T00:00:00+01:00",
   "type": "snapshot",
   "requires": [
 
@@ -14,10 +14,7 @@
   "id": "1.3",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
-    {
-      "name": "net.minecraft:minecraft:1.3",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/1.3/1.3.jar"
-    }
+
   ],
   "+jarMods": [
 

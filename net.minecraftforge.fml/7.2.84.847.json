@@ -4,8 +4,8 @@
   "name": "net.minecraftforge.fml",
   "fileId": "net.minecraftforge.fml",
   "version": "7.2.84.847",
-  "time": "1390222210-01-01T00:00:00+00:00",
-  "releaseTime": "1390222210-01-01T00:00:00+00:00",
+  "time": "1390222210-01-01T00:00:00+01:00",
+  "releaseTime": "1390222210-01-01T00:00:00+01:00",
   "type": "release",
   "requires": [
     {

@@ -4,8 +4,8 @@
   "name": "net.minecraftforge.fml",
   "fileId": "net.minecraftforge.fml",
   "version": "7.10.57.981",
-  "time": "1408199692-01-01T00:00:00+00:00",
-  "releaseTime": "1408199692-01-01T00:00:00+00:00",
+  "time": "1408199692-01-01T00:00:00+01:00",
+  "releaseTime": "1408199692-01-01T00:00:00+01:00",
   "type": "release",
   "requires": [
     {
@@ -123,7 +123,7 @@
     },
     {
       "name": "tv.twitch:twitch-platform:5.16",
-      "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-${arch}.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-${arch}.jar",
       "rules": [
         {
           "action": "disallow"
@@ -139,7 +139,7 @@
     },
     {
       "name": "tv.twitch:twitch-platform:5.16",
-      "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-osx.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-osx.jar",
       "rules": [
         {
           "action": "disallow"
@@ -155,7 +155,7 @@
     },
     {
       "name": "tv.twitch:twitch-external-platform:4.5",
-      "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-${arch}.jar",
+      "MMC-absoluteUrl": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-${arch}.jar",
       "rules": [
         {
           "action": "disallow"

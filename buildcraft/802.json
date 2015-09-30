@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "uid": "buildcraft",
+  "name": "buildcraft",
+  "fileId": "buildcraft",
+  "version": "802",
+  "time": "1443617646299-01-01T00:00:00+01:00",
+  "releaseTime": "1443617646299-01-01T00:00:00+01:00",
+  "type": null,
+  "requires": [
+
+  ],
+  "order": 0,
+  "minecraftArguments": null,
+  "+libraries": [
+
+  ],
+  "+jarMods": [
+
+  ]
+}

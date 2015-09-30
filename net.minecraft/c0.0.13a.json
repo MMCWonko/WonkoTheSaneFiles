@@ -4,8 +4,8 @@
   "name": "net.minecraft",
   "fileId": "net.minecraft",
   "version": "c0.0.13a",
-  "time": "1243720800-01-01T00:00:00+00:00",
-  "releaseTime": "1243720800-01-01T00:00:00+00:00",
+  "time": "1243720800-01-01T00:00:00+01:00",
+  "releaseTime": "1243720800-01-01T00:00:00+01:00",
   "type": "old_alpha",
   "requires": [
 
@@ -16,10 +16,7 @@
   "appletClass": "com.mojang.minecraft.MinecraftApplet",
   "minecraftArguments": " ${auth_player_name} ${auth_session}",
   "+libraries": [
-    {
-      "name": "net.minecraft:minecraft:c0.0.13a",
-      "url": "http://s3.amazonaws.com/Minecraft.Download/versions/c0.0.13a/c0.0.13a.jar"
-    }
+
   ],
   "+jarMods": [
 
